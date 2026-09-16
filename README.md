@@ -1,6 +1,6 @@
 # Athena AI: Decision Intelligence & Portfolio Risk 📊
 
-Athena_Decision_Intelligence_Dashboard.png
+![Athena Dashboard](Athena_Decision_Intelligence_Dashboard.png)
 
 ## 📌 Project Overview
 This project is an end-to-end data analytics and engineering pipeline designed to evaluate the accuracy and financial impact of an AI credit-decisioning model ("Athena"). 
