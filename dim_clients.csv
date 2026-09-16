@@ -1,0 +1,5001 @@
+Client_ID,Client_Industry,Client_Credit_Score
+CUST-00001,Healthcare,641
+CUST-00002,IT & Enterprise Tech,771
+CUST-00003,Logistics & Fleet,660
+CUST-00004,Construction,642
+CUST-00005,Manufacturing,713
+CUST-00006,Manufacturing,779
+CUST-00007,Manufacturing,739
+CUST-00008,IT & Enterprise Tech,673
+CUST-00009,Construction,683
+CUST-00010,Logistics & Fleet,622
+CUST-00011,Manufacturing,835
+CUST-00012,IT & Enterprise Tech,810
+CUST-00013,Logistics & Fleet,728
+CUST-00014,Manufacturing,709
+CUST-00015,Manufacturing,636
+CUST-00016,Manufacturing,700
+CUST-00017,Healthcare,767
+CUST-00018,Construction,757
+CUST-00019,Healthcare,680
+CUST-00020,Healthcare,762
+CUST-00021,Construction,785
+CUST-00022,Manufacturing,712
+CUST-00023,Healthcare,773
+CUST-00024,Healthcare,817
+CUST-00025,Construction,834
+CUST-00026,Logistics & Fleet,670
+CUST-00027,Manufacturing,738
+CUST-00028,Construction,755
+CUST-00029,Construction,708
+CUST-00030,Manufacturing,790
+CUST-00031,Construction,713
+CUST-00032,Manufacturing,700
+CUST-00033,Manufacturing,624
+CUST-00034,IT & Enterprise Tech,600
+CUST-00035,IT & Enterprise Tech,687
+CUST-00036,Logistics & Fleet,550
+CUST-00037,Healthcare,790
+CUST-00038,Manufacturing,767
+CUST-00039,Logistics & Fleet,754
+CUST-00040,Healthcare,782
+CUST-00041,Manufacturing,692
+CUST-00042,Construction,724
+CUST-00043,Manufacturing,685
+CUST-00044,IT & Enterprise Tech,782
+CUST-00045,Healthcare,550
+CUST-00046,Logistics & Fleet,782
+CUST-00047,Healthcare,591
+CUST-00048,Construction,696
+CUST-00049,Construction,641
+CUST-00050,Manufacturing,701
+CUST-00051,IT & Enterprise Tech,674
+CUST-00052,Logistics & Fleet,684
+CUST-00053,IT & Enterprise Tech,745
+CUST-00054,IT & Enterprise Tech,724
+CUST-00055,Construction,774
+CUST-00056,IT & Enterprise Tech,737
+CUST-00057,Manufacturing,606
+CUST-00058,Manufacturing,850
+CUST-00059,Manufacturing,580
+CUST-00060,Healthcare,730
+CUST-00061,Healthcare,757
+CUST-00062,Healthcare,729
+CUST-00063,Logistics & Fleet,696
+CUST-00064,Healthcare,806
+CUST-00065,Healthcare,783
+CUST-00066,Construction,708
+CUST-00067,Manufacturing,680
+CUST-00068,Logistics & Fleet,656
+CUST-00069,Manufacturing,662
+CUST-00070,IT & Enterprise Tech,706
+CUST-00071,Logistics & Fleet,602
+CUST-00072,Manufacturing,709
+CUST-00073,Manufacturing,762
+CUST-00074,Logistics & Fleet,673
+CUST-00075,Logistics & Fleet,708
+CUST-00076,Logistics & Fleet,729
+CUST-00077,Logistics & Fleet,741
+CUST-00078,Manufacturing,696
+CUST-00079,Healthcare,824
+CUST-00080,Manufacturing,710
+CUST-00081,IT & Enterprise Tech,623
+CUST-00082,Construction,684
+CUST-00083,Healthcare,794
+CUST-00084,Manufacturing,789
+CUST-00085,Healthcare,598
+CUST-00086,Healthcare,690
+CUST-00087,Logistics & Fleet,675
+CUST-00088,Construction,760
+CUST-00089,IT & Enterprise Tech,636
+CUST-00090,Construction,811
+CUST-00091,Manufacturing,614
+CUST-00092,Logistics & Fleet,700
+CUST-00093,Logistics & Fleet,631
+CUST-00094,Construction,752
+CUST-00095,Logistics & Fleet,576
+CUST-00096,Construction,698
+CUST-00097,Construction,697
+CUST-00098,Healthcare,651
+CUST-00099,Manufacturing,789
+CUST-00100,Manufacturing,820
+CUST-00101,Manufacturing,683
+CUST-00102,Construction,718
+CUST-00103,Healthcare,669
+CUST-00104,Construction,627
+CUST-00105,IT & Enterprise Tech,637
+CUST-00106,Manufacturing,639
+CUST-00107,Healthcare,791
+CUST-00108,Logistics & Fleet,737
+CUST-00109,Manufacturing,648
+CUST-00110,Manufacturing,653
+CUST-00111,Healthcare,645
+CUST-00112,Manufacturing,587
+CUST-00113,IT & Enterprise Tech,743
+CUST-00114,Logistics & Fleet,701
+CUST-00115,Construction,821
+CUST-00116,IT & Enterprise Tech,574
+CUST-00117,Logistics & Fleet,765
+CUST-00118,Manufacturing,770
+CUST-00119,IT & Enterprise Tech,779
+CUST-00120,Construction,725
+CUST-00121,Logistics & Fleet,769
+CUST-00122,IT & Enterprise Tech,729
+CUST-00123,Healthcare,661
+CUST-00124,Manufacturing,683
+CUST-00125,Manufacturing,682
+CUST-00126,Healthcare,785
+CUST-00127,Logistics & Fleet,793
+CUST-00128,IT & Enterprise Tech,762
+CUST-00129,Manufacturing,713
+CUST-00130,Construction,576
+CUST-00131,Healthcare,763
+CUST-00132,Manufacturing,760
+CUST-00133,Manufacturing,728
+CUST-00134,Healthcare,741
+CUST-00135,IT & Enterprise Tech,657
+CUST-00136,Healthcare,687
+CUST-00137,Construction,656
+CUST-00138,Logistics & Fleet,699
+CUST-00139,Healthcare,767
+CUST-00140,IT & Enterprise Tech,738
+CUST-00141,IT & Enterprise Tech,642
+CUST-00142,Healthcare,829
+CUST-00143,Construction,721
+CUST-00144,Healthcare,666
+CUST-00145,Healthcare,690
+CUST-00146,Manufacturing,673
+CUST-00147,Construction,724
+CUST-00148,Construction,624
+CUST-00149,Manufacturing,729
+CUST-00150,Healthcare,764
+CUST-00151,IT & Enterprise Tech,752
+CUST-00152,Manufacturing,727
+CUST-00153,Manufacturing,747
+CUST-00154,Construction,735
+CUST-00155,IT & Enterprise Tech,778
+CUST-00156,Manufacturing,694
+CUST-00157,Logistics & Fleet,650
+CUST-00158,Logistics & Fleet,733
+CUST-00159,Manufacturing,780
+CUST-00160,Logistics & Fleet,684
+CUST-00161,Healthcare,813
+CUST-00162,Construction,734
+CUST-00163,Construction,770
+CUST-00164,Construction,634
+CUST-00165,Manufacturing,761
+CUST-00166,Logistics & Fleet,740
+CUST-00167,Healthcare,847
+CUST-00168,Manufacturing,743
+CUST-00169,Manufacturing,752
+CUST-00170,Construction,656
+CUST-00171,Logistics & Fleet,730
+CUST-00172,Manufacturing,784
+CUST-00173,Construction,687
+CUST-00174,Manufacturing,663
+CUST-00175,Construction,840
+CUST-00176,Manufacturing,691
+CUST-00177,Logistics & Fleet,768
+CUST-00178,Healthcare,678
+CUST-00179,IT & Enterprise Tech,681
+CUST-00180,Manufacturing,702
+CUST-00181,Healthcare,747
+CUST-00182,Manufacturing,785
+CUST-00183,IT & Enterprise Tech,673
+CUST-00184,IT & Enterprise Tech,782
+CUST-00185,Healthcare,718
+CUST-00186,Logistics & Fleet,698
+CUST-00187,Logistics & Fleet,746
+CUST-00188,Construction,802
+CUST-00189,Construction,743
+CUST-00190,Manufacturing,662
+CUST-00191,Manufacturing,719
+CUST-00192,IT & Enterprise Tech,746
+CUST-00193,IT & Enterprise Tech,671
+CUST-00194,Construction,728
+CUST-00195,Healthcare,663
+CUST-00196,Healthcare,751
+CUST-00197,Logistics & Fleet,805
+CUST-00198,IT & Enterprise Tech,704
+CUST-00199,IT & Enterprise Tech,758
+CUST-00200,Logistics & Fleet,776
+CUST-00201,Construction,682
+CUST-00202,Manufacturing,737
+CUST-00203,Manufacturing,784
+CUST-00204,IT & Enterprise Tech,816
+CUST-00205,Construction,691
+CUST-00206,Manufacturing,636
+CUST-00207,Manufacturing,747
+CUST-00208,Logistics & Fleet,724
+CUST-00209,Manufacturing,711
+CUST-00210,Manufacturing,676
+CUST-00211,Construction,767
+CUST-00212,Logistics & Fleet,671
+CUST-00213,Logistics & Fleet,666
+CUST-00214,Manufacturing,701
+CUST-00215,Logistics & Fleet,770
+CUST-00216,Manufacturing,621
+CUST-00217,Healthcare,644
+CUST-00218,Logistics & Fleet,656
+CUST-00219,Construction,838
+CUST-00220,Logistics & Fleet,728
+CUST-00221,Logistics & Fleet,642
+CUST-00222,Construction,701
+CUST-00223,Manufacturing,760
+CUST-00224,Healthcare,839
+CUST-00225,Healthcare,610
+CUST-00226,Manufacturing,640
+CUST-00227,IT & Enterprise Tech,688
+CUST-00228,Healthcare,690
+CUST-00229,IT & Enterprise Tech,689
+CUST-00230,Construction,702
+CUST-00231,Logistics & Fleet,841
+CUST-00232,Construction,627
+CUST-00233,Construction,720
+CUST-00234,Construction,746
+CUST-00235,Manufacturing,615
+CUST-00236,Logistics & Fleet,803
+CUST-00237,Healthcare,699
+CUST-00238,Manufacturing,639
+CUST-00239,Construction,810
+CUST-00240,Manufacturing,754
+CUST-00241,IT & Enterprise Tech,674
+CUST-00242,IT & Enterprise Tech,757
+CUST-00243,IT & Enterprise Tech,735
+CUST-00244,Healthcare,610
+CUST-00245,Manufacturing,616
+CUST-00246,IT & Enterprise Tech,731
+CUST-00247,Healthcare,594
+CUST-00248,IT & Enterprise Tech,775
+CUST-00249,IT & Enterprise Tech,620
+CUST-00250,IT & Enterprise Tech,769
+CUST-00251,Healthcare,802
+CUST-00252,Healthcare,741
+CUST-00253,IT & Enterprise Tech,550
+CUST-00254,Healthcare,782
+CUST-00255,Manufacturing,681
+CUST-00256,Construction,706
+CUST-00257,IT & Enterprise Tech,661
+CUST-00258,Logistics & Fleet,819
+CUST-00259,Construction,721
+CUST-00260,Manufacturing,683
+CUST-00261,Construction,797
+CUST-00262,IT & Enterprise Tech,767
+CUST-00263,Manufacturing,636
+CUST-00264,Construction,731
+CUST-00265,IT & Enterprise Tech,724
+CUST-00266,Logistics & Fleet,614
+CUST-00267,Logistics & Fleet,763
+CUST-00268,Logistics & Fleet,708
+CUST-00269,Healthcare,849
+CUST-00270,Healthcare,801
+CUST-00271,Logistics & Fleet,724
+CUST-00272,Logistics & Fleet,704
+CUST-00273,IT & Enterprise Tech,577
+CUST-00274,IT & Enterprise Tech,764
+CUST-00275,Construction,705
+CUST-00276,Construction,679
+CUST-00277,Logistics & Fleet,711
+CUST-00278,Construction,810
+CUST-00279,Logistics & Fleet,798
+CUST-00280,Logistics & Fleet,798
+CUST-00281,IT & Enterprise Tech,642
+CUST-00282,Healthcare,812
+CUST-00283,Healthcare,678
+CUST-00284,Manufacturing,758
+CUST-00285,Construction,750
+CUST-00286,Manufacturing,700
+CUST-00287,Construction,723
+CUST-00288,Construction,603
+CUST-00289,Healthcare,713
+CUST-00290,Construction,694
+CUST-00291,Manufacturing,850
+CUST-00292,Manufacturing,711
+CUST-00293,Logistics & Fleet,663
+CUST-00294,Healthcare,717
+CUST-00295,Manufacturing,666
+CUST-00296,Construction,617
+CUST-00297,Logistics & Fleet,736
+CUST-00298,Manufacturing,710
+CUST-00299,Construction,774
+CUST-00300,Manufacturing,804
+CUST-00301,Manufacturing,832
+CUST-00302,Construction,724
+CUST-00303,Construction,754
+CUST-00304,Construction,728
+CUST-00305,Logistics & Fleet,559
+CUST-00306,IT & Enterprise Tech,790
+CUST-00307,Construction,745
+CUST-00308,Healthcare,746
+CUST-00309,Logistics & Fleet,676
+CUST-00310,Healthcare,668
+CUST-00311,Healthcare,705
+CUST-00312,Manufacturing,746
+CUST-00313,Manufacturing,583
+CUST-00314,IT & Enterprise Tech,723
+CUST-00315,Logistics & Fleet,819
+CUST-00316,Logistics & Fleet,701
+CUST-00317,Healthcare,581
+CUST-00318,Manufacturing,697
+CUST-00319,Manufacturing,729
+CUST-00320,Healthcare,734
+CUST-00321,Construction,720
+CUST-00322,Logistics & Fleet,835
+CUST-00323,Logistics & Fleet,719
+CUST-00324,Healthcare,722
+CUST-00325,IT & Enterprise Tech,673
+CUST-00326,Logistics & Fleet,771
+CUST-00327,Construction,820
+CUST-00328,Construction,669
+CUST-00329,Healthcare,702
+CUST-00330,Manufacturing,558
+CUST-00331,Healthcare,655
+CUST-00332,Logistics & Fleet,838
+CUST-00333,Manufacturing,690
+CUST-00334,Manufacturing,724
+CUST-00335,Manufacturing,662
+CUST-00336,Manufacturing,739
+CUST-00337,IT & Enterprise Tech,698
+CUST-00338,Logistics & Fleet,736
+CUST-00339,Construction,716
+CUST-00340,Manufacturing,803
+CUST-00341,Construction,720
+CUST-00342,Construction,655
+CUST-00343,Manufacturing,668
+CUST-00344,Healthcare,588
+CUST-00345,Healthcare,718
+CUST-00346,Construction,705
+CUST-00347,Construction,808
+CUST-00348,Manufacturing,633
+CUST-00349,Healthcare,664
+CUST-00350,Construction,665
+CUST-00351,Construction,693
+CUST-00352,IT & Enterprise Tech,628
+CUST-00353,Logistics & Fleet,691
+CUST-00354,Manufacturing,711
+CUST-00355,Manufacturing,713
+CUST-00356,Construction,792
+CUST-00357,Manufacturing,708
+CUST-00358,Construction,706
+CUST-00359,IT & Enterprise Tech,784
+CUST-00360,Construction,709
+CUST-00361,Healthcare,630
+CUST-00362,Construction,639
+CUST-00363,Construction,640
+CUST-00364,Construction,630
+CUST-00365,IT & Enterprise Tech,839
+CUST-00366,Healthcare,640
+CUST-00367,IT & Enterprise Tech,707
+CUST-00368,IT & Enterprise Tech,713
+CUST-00369,Manufacturing,698
+CUST-00370,Manufacturing,659
+CUST-00371,Manufacturing,739
+CUST-00372,Manufacturing,610
+CUST-00373,Manufacturing,640
+CUST-00374,Logistics & Fleet,782
+CUST-00375,Manufacturing,638
+CUST-00376,Healthcare,794
+CUST-00377,Logistics & Fleet,799
+CUST-00378,Manufacturing,801
+CUST-00379,Logistics & Fleet,764
+CUST-00380,Healthcare,620
+CUST-00381,Manufacturing,610
+CUST-00382,Logistics & Fleet,637
+CUST-00383,Construction,648
+CUST-00384,IT & Enterprise Tech,625
+CUST-00385,Logistics & Fleet,665
+CUST-00386,Logistics & Fleet,760
+CUST-00387,Healthcare,752
+CUST-00388,Manufacturing,729
+CUST-00389,Logistics & Fleet,696
+CUST-00390,Logistics & Fleet,705
+CUST-00391,IT & Enterprise Tech,729
+CUST-00392,Healthcare,679
+CUST-00393,Healthcare,773
+CUST-00394,Logistics & Fleet,624
+CUST-00395,Healthcare,659
+CUST-00396,IT & Enterprise Tech,649
+CUST-00397,IT & Enterprise Tech,739
+CUST-00398,Healthcare,631
+CUST-00399,Logistics & Fleet,650
+CUST-00400,Logistics & Fleet,737
+CUST-00401,Manufacturing,653
+CUST-00402,IT & Enterprise Tech,764
+CUST-00403,Construction,762
+CUST-00404,Logistics & Fleet,675
+CUST-00405,Healthcare,718
+CUST-00406,IT & Enterprise Tech,843
+CUST-00407,Healthcare,766
+CUST-00408,Manufacturing,742
+CUST-00409,IT & Enterprise Tech,810
+CUST-00410,Manufacturing,647
+CUST-00411,Healthcare,791
+CUST-00412,IT & Enterprise Tech,733
+CUST-00413,IT & Enterprise Tech,804
+CUST-00414,Construction,676
+CUST-00415,Construction,800
+CUST-00416,Healthcare,596
+CUST-00417,Healthcare,685
+CUST-00418,Healthcare,727
+CUST-00419,Logistics & Fleet,752
+CUST-00420,Logistics & Fleet,573
+CUST-00421,Logistics & Fleet,629
+CUST-00422,Logistics & Fleet,639
+CUST-00423,Manufacturing,649
+CUST-00424,Construction,661
+CUST-00425,Manufacturing,720
+CUST-00426,Construction,805
+CUST-00427,Healthcare,685
+CUST-00428,IT & Enterprise Tech,810
+CUST-00429,Healthcare,715
+CUST-00430,Manufacturing,696
+CUST-00431,Manufacturing,777
+CUST-00432,Logistics & Fleet,699
+CUST-00433,Construction,659
+CUST-00434,Manufacturing,796
+CUST-00435,Manufacturing,707
+CUST-00436,Logistics & Fleet,826
+CUST-00437,Manufacturing,686
+CUST-00438,Logistics & Fleet,623
+CUST-00439,Logistics & Fleet,659
+CUST-00440,Manufacturing,666
+CUST-00441,Manufacturing,703
+CUST-00442,IT & Enterprise Tech,658
+CUST-00443,Healthcare,628
+CUST-00444,Healthcare,689
+CUST-00445,Logistics & Fleet,715
+CUST-00446,IT & Enterprise Tech,736
+CUST-00447,IT & Enterprise Tech,708
+CUST-00448,Logistics & Fleet,798
+CUST-00449,Healthcare,713
+CUST-00450,Manufacturing,568
+CUST-00451,Logistics & Fleet,726
+CUST-00452,Construction,710
+CUST-00453,Healthcare,757
+CUST-00454,IT & Enterprise Tech,637
+CUST-00455,Manufacturing,778
+CUST-00456,Construction,727
+CUST-00457,Manufacturing,718
+CUST-00458,Construction,771
+CUST-00459,Manufacturing,785
+CUST-00460,Manufacturing,779
+CUST-00461,Manufacturing,557
+CUST-00462,Construction,617
+CUST-00463,Logistics & Fleet,681
+CUST-00464,Construction,632
+CUST-00465,IT & Enterprise Tech,664
+CUST-00466,Healthcare,706
+CUST-00467,Healthcare,679
+CUST-00468,IT & Enterprise Tech,708
+CUST-00469,Manufacturing,798
+CUST-00470,IT & Enterprise Tech,825
+CUST-00471,Manufacturing,734
+CUST-00472,IT & Enterprise Tech,796
+CUST-00473,Manufacturing,684
+CUST-00474,IT & Enterprise Tech,669
+CUST-00475,Construction,705
+CUST-00476,IT & Enterprise Tech,689
+CUST-00477,Manufacturing,753
+CUST-00478,Construction,710
+CUST-00479,IT & Enterprise Tech,808
+CUST-00480,Construction,717
+CUST-00481,Construction,664
+CUST-00482,Logistics & Fleet,679
+CUST-00483,Construction,671
+CUST-00484,Construction,757
+CUST-00485,Construction,703
+CUST-00486,IT & Enterprise Tech,717
+CUST-00487,Manufacturing,737
+CUST-00488,Healthcare,745
+CUST-00489,IT & Enterprise Tech,778
+CUST-00490,IT & Enterprise Tech,731
+CUST-00491,Construction,647
+CUST-00492,Construction,678
+CUST-00493,Healthcare,678
+CUST-00494,Manufacturing,662
+CUST-00495,Construction,777
+CUST-00496,Healthcare,700
+CUST-00497,Construction,721
+CUST-00498,Manufacturing,731
+CUST-00499,IT & Enterprise Tech,723
+CUST-00500,IT & Enterprise Tech,730
+CUST-00501,Logistics & Fleet,850
+CUST-00502,Construction,753
+CUST-00503,Healthcare,650
+CUST-00504,Logistics & Fleet,730
+CUST-00505,Logistics & Fleet,716
+CUST-00506,Manufacturing,619
+CUST-00507,IT & Enterprise Tech,555
+CUST-00508,Logistics & Fleet,719
+CUST-00509,IT & Enterprise Tech,691
+CUST-00510,Logistics & Fleet,635
+CUST-00511,Construction,674
+CUST-00512,Healthcare,693
+CUST-00513,IT & Enterprise Tech,672
+CUST-00514,IT & Enterprise Tech,727
+CUST-00515,Manufacturing,721
+CUST-00516,Manufacturing,761
+CUST-00517,Healthcare,785
+CUST-00518,Logistics & Fleet,751
+CUST-00519,IT & Enterprise Tech,665
+CUST-00520,Manufacturing,720
+CUST-00521,Construction,605
+CUST-00522,Healthcare,679
+CUST-00523,IT & Enterprise Tech,550
+CUST-00524,Logistics & Fleet,687
+CUST-00525,Logistics & Fleet,675
+CUST-00526,Construction,754
+CUST-00527,Healthcare,647
+CUST-00528,Healthcare,721
+CUST-00529,Manufacturing,685
+CUST-00530,IT & Enterprise Tech,682
+CUST-00531,Logistics & Fleet,660
+CUST-00532,IT & Enterprise Tech,729
+CUST-00533,IT & Enterprise Tech,699
+CUST-00534,Construction,647
+CUST-00535,Logistics & Fleet,718
+CUST-00536,IT & Enterprise Tech,729
+CUST-00537,Logistics & Fleet,809
+CUST-00538,Manufacturing,672
+CUST-00539,Construction,684
+CUST-00540,Manufacturing,626
+CUST-00541,IT & Enterprise Tech,680
+CUST-00542,Construction,641
+CUST-00543,Manufacturing,781
+CUST-00544,Logistics & Fleet,743
+CUST-00545,Construction,640
+CUST-00546,Healthcare,646
+CUST-00547,Manufacturing,674
+CUST-00548,Logistics & Fleet,794
+CUST-00549,Construction,670
+CUST-00550,Logistics & Fleet,698
+CUST-00551,Construction,809
+CUST-00552,IT & Enterprise Tech,736
+CUST-00553,Construction,615
+CUST-00554,Construction,590
+CUST-00555,IT & Enterprise Tech,716
+CUST-00556,Healthcare,850
+CUST-00557,Manufacturing,798
+CUST-00558,Manufacturing,734
+CUST-00559,Logistics & Fleet,761
+CUST-00560,Construction,765
+CUST-00561,Logistics & Fleet,603
+CUST-00562,Manufacturing,723
+CUST-00563,Manufacturing,795
+CUST-00564,Manufacturing,845
+CUST-00565,Healthcare,742
+CUST-00566,Construction,621
+CUST-00567,Healthcare,747
+CUST-00568,Healthcare,746
+CUST-00569,IT & Enterprise Tech,766
+CUST-00570,Healthcare,736
+CUST-00571,Construction,830
+CUST-00572,Logistics & Fleet,722
+CUST-00573,Healthcare,713
+CUST-00574,Construction,692
+CUST-00575,IT & Enterprise Tech,716
+CUST-00576,IT & Enterprise Tech,728
+CUST-00577,Manufacturing,717
+CUST-00578,IT & Enterprise Tech,760
+CUST-00579,Construction,575
+CUST-00580,Healthcare,701
+CUST-00581,Construction,743
+CUST-00582,IT & Enterprise Tech,728
+CUST-00583,Construction,627
+CUST-00584,Healthcare,744
+CUST-00585,Construction,713
+CUST-00586,Manufacturing,759
+CUST-00587,Manufacturing,747
+CUST-00588,Manufacturing,731
+CUST-00589,Manufacturing,710
+CUST-00590,Manufacturing,728
+CUST-00591,Manufacturing,728
+CUST-00592,Construction,796
+CUST-00593,Manufacturing,850
+CUST-00594,Healthcare,640
+CUST-00595,IT & Enterprise Tech,550
+CUST-00596,Construction,675
+CUST-00597,Logistics & Fleet,648
+CUST-00598,Manufacturing,764
+CUST-00599,Manufacturing,806
+CUST-00600,Manufacturing,763
+CUST-00601,Manufacturing,689
+CUST-00602,Healthcare,757
+CUST-00603,Manufacturing,788
+CUST-00604,Manufacturing,753
+CUST-00605,Manufacturing,745
+CUST-00606,Construction,702
+CUST-00607,Manufacturing,630
+CUST-00608,Healthcare,781
+CUST-00609,Construction,820
+CUST-00610,Logistics & Fleet,620
+CUST-00611,Manufacturing,759
+CUST-00612,Logistics & Fleet,657
+CUST-00613,Construction,740
+CUST-00614,Manufacturing,619
+CUST-00615,IT & Enterprise Tech,760
+CUST-00616,IT & Enterprise Tech,737
+CUST-00617,Manufacturing,763
+CUST-00618,Healthcare,752
+CUST-00619,Logistics & Fleet,722
+CUST-00620,Logistics & Fleet,761
+CUST-00621,Manufacturing,681
+CUST-00622,Manufacturing,747
+CUST-00623,Healthcare,674
+CUST-00624,Construction,750
+CUST-00625,Construction,697
+CUST-00626,Healthcare,741
+CUST-00627,Construction,691
+CUST-00628,Logistics & Fleet,692
+CUST-00629,Manufacturing,695
+CUST-00630,Healthcare,623
+CUST-00631,Logistics & Fleet,766
+CUST-00632,IT & Enterprise Tech,713
+CUST-00633,Construction,626
+CUST-00634,Construction,674
+CUST-00635,Manufacturing,671
+CUST-00636,Healthcare,735
+CUST-00637,Construction,696
+CUST-00638,Manufacturing,768
+CUST-00639,Healthcare,632
+CUST-00640,Healthcare,738
+CUST-00641,Manufacturing,733
+CUST-00642,Healthcare,682
+CUST-00643,Manufacturing,726
+CUST-00644,Healthcare,707
+CUST-00645,Manufacturing,788
+CUST-00646,IT & Enterprise Tech,715
+CUST-00647,Construction,783
+CUST-00648,Logistics & Fleet,764
+CUST-00649,Logistics & Fleet,629
+CUST-00650,Construction,704
+CUST-00651,Manufacturing,764
+CUST-00652,Construction,725
+CUST-00653,Construction,715
+CUST-00654,Logistics & Fleet,719
+CUST-00655,Healthcare,749
+CUST-00656,Manufacturing,684
+CUST-00657,Healthcare,691
+CUST-00658,Healthcare,764
+CUST-00659,Construction,723
+CUST-00660,Construction,698
+CUST-00661,Healthcare,712
+CUST-00662,IT & Enterprise Tech,743
+CUST-00663,Construction,708
+CUST-00664,Manufacturing,720
+CUST-00665,Manufacturing,598
+CUST-00666,Manufacturing,725
+CUST-00667,Manufacturing,701
+CUST-00668,Manufacturing,769
+CUST-00669,Manufacturing,706
+CUST-00670,Healthcare,806
+CUST-00671,Manufacturing,749
+CUST-00672,IT & Enterprise Tech,661
+CUST-00673,Manufacturing,629
+CUST-00674,Construction,704
+CUST-00675,Healthcare,711
+CUST-00676,IT & Enterprise Tech,599
+CUST-00677,Manufacturing,706
+CUST-00678,Healthcare,688
+CUST-00679,IT & Enterprise Tech,723
+CUST-00680,IT & Enterprise Tech,841
+CUST-00681,Logistics & Fleet,601
+CUST-00682,Healthcare,771
+CUST-00683,Manufacturing,741
+CUST-00684,Logistics & Fleet,677
+CUST-00685,IT & Enterprise Tech,711
+CUST-00686,Construction,769
+CUST-00687,Construction,717
+CUST-00688,Healthcare,584
+CUST-00689,Logistics & Fleet,733
+CUST-00690,Manufacturing,756
+CUST-00691,Healthcare,683
+CUST-00692,Healthcare,766
+CUST-00693,Construction,771
+CUST-00694,Manufacturing,794
+CUST-00695,Manufacturing,775
+CUST-00696,Construction,850
+CUST-00697,Healthcare,785
+CUST-00698,Construction,721
+CUST-00699,Manufacturing,762
+CUST-00700,Construction,718
+CUST-00701,Construction,693
+CUST-00702,Manufacturing,642
+CUST-00703,Healthcare,702
+CUST-00704,Manufacturing,768
+CUST-00705,Manufacturing,657
+CUST-00706,IT & Enterprise Tech,737
+CUST-00707,Healthcare,688
+CUST-00708,Logistics & Fleet,713
+CUST-00709,Healthcare,709
+CUST-00710,Logistics & Fleet,726
+CUST-00711,Logistics & Fleet,850
+CUST-00712,Construction,679
+CUST-00713,Construction,711
+CUST-00714,Healthcare,699
+CUST-00715,Healthcare,616
+CUST-00716,IT & Enterprise Tech,769
+CUST-00717,Logistics & Fleet,659
+CUST-00718,IT & Enterprise Tech,803
+CUST-00719,Manufacturing,662
+CUST-00720,Logistics & Fleet,738
+CUST-00721,IT & Enterprise Tech,826
+CUST-00722,Manufacturing,743
+CUST-00723,Manufacturing,675
+CUST-00724,Logistics & Fleet,655
+CUST-00725,Construction,571
+CUST-00726,Logistics & Fleet,689
+CUST-00727,Manufacturing,621
+CUST-00728,Logistics & Fleet,711
+CUST-00729,Manufacturing,685
+CUST-00730,Manufacturing,719
+CUST-00731,Manufacturing,638
+CUST-00732,Logistics & Fleet,679
+CUST-00733,Logistics & Fleet,747
+CUST-00734,Construction,732
+CUST-00735,Healthcare,593
+CUST-00736,IT & Enterprise Tech,763
+CUST-00737,Healthcare,642
+CUST-00738,Logistics & Fleet,611
+CUST-00739,Healthcare,696
+CUST-00740,Healthcare,850
+CUST-00741,Construction,688
+CUST-00742,Healthcare,717
+CUST-00743,Logistics & Fleet,755
+CUST-00744,Construction,654
+CUST-00745,Manufacturing,730
+CUST-00746,IT & Enterprise Tech,656
+CUST-00747,Healthcare,746
+CUST-00748,Construction,736
+CUST-00749,IT & Enterprise Tech,730
+CUST-00750,Construction,721
+CUST-00751,Manufacturing,840
+CUST-00752,IT & Enterprise Tech,725
+CUST-00753,Construction,744
+CUST-00754,Healthcare,734
+CUST-00755,Manufacturing,644
+CUST-00756,Logistics & Fleet,660
+CUST-00757,Construction,639
+CUST-00758,Construction,659
+CUST-00759,IT & Enterprise Tech,677
+CUST-00760,Logistics & Fleet,696
+CUST-00761,Manufacturing,696
+CUST-00762,Healthcare,747
+CUST-00763,Manufacturing,797
+CUST-00764,Logistics & Fleet,784
+CUST-00765,Manufacturing,728
+CUST-00766,Construction,656
+CUST-00767,Logistics & Fleet,778
+CUST-00768,IT & Enterprise Tech,674
+CUST-00769,Healthcare,738
+CUST-00770,Logistics & Fleet,728
+CUST-00771,Manufacturing,641
+CUST-00772,Logistics & Fleet,675
+CUST-00773,Manufacturing,743
+CUST-00774,Healthcare,700
+CUST-00775,Logistics & Fleet,850
+CUST-00776,Manufacturing,681
+CUST-00777,Manufacturing,644
+CUST-00778,Logistics & Fleet,714
+CUST-00779,Logistics & Fleet,689
+CUST-00780,Construction,598
+CUST-00781,Logistics & Fleet,764
+CUST-00782,Construction,774
+CUST-00783,Healthcare,765
+CUST-00784,Healthcare,730
+CUST-00785,Manufacturing,701
+CUST-00786,IT & Enterprise Tech,721
+CUST-00787,Construction,702
+CUST-00788,Healthcare,668
+CUST-00789,Construction,810
+CUST-00790,IT & Enterprise Tech,792
+CUST-00791,Manufacturing,752
+CUST-00792,Construction,682
+CUST-00793,Construction,748
+CUST-00794,Construction,694
+CUST-00795,Manufacturing,691
+CUST-00796,IT & Enterprise Tech,708
+CUST-00797,IT & Enterprise Tech,738
+CUST-00798,Construction,683
+CUST-00799,Logistics & Fleet,700
+CUST-00800,IT & Enterprise Tech,795
+CUST-00801,Logistics & Fleet,601
+CUST-00802,Manufacturing,776
+CUST-00803,Construction,701
+CUST-00804,Construction,680
+CUST-00805,Healthcare,690
+CUST-00806,Logistics & Fleet,710
+CUST-00807,IT & Enterprise Tech,770
+CUST-00808,IT & Enterprise Tech,721
+CUST-00809,Construction,678
+CUST-00810,Manufacturing,754
+CUST-00811,IT & Enterprise Tech,703
+CUST-00812,Logistics & Fleet,744
+CUST-00813,Manufacturing,727
+CUST-00814,IT & Enterprise Tech,640
+CUST-00815,IT & Enterprise Tech,747
+CUST-00816,Construction,603
+CUST-00817,Construction,703
+CUST-00818,Healthcare,644
+CUST-00819,Manufacturing,581
+CUST-00820,Healthcare,726
+CUST-00821,Logistics & Fleet,764
+CUST-00822,Manufacturing,707
+CUST-00823,Healthcare,793
+CUST-00824,Healthcare,710
+CUST-00825,Construction,721
+CUST-00826,IT & Enterprise Tech,655
+CUST-00827,Healthcare,747
+CUST-00828,Healthcare,744
+CUST-00829,Logistics & Fleet,682
+CUST-00830,Construction,626
+CUST-00831,Manufacturing,612
+CUST-00832,Construction,775
+CUST-00833,Manufacturing,634
+CUST-00834,Manufacturing,808
+CUST-00835,Construction,659
+CUST-00836,Healthcare,690
+CUST-00837,IT & Enterprise Tech,850
+CUST-00838,Healthcare,679
+CUST-00839,Construction,647
+CUST-00840,Construction,687
+CUST-00841,Manufacturing,611
+CUST-00842,Logistics & Fleet,691
+CUST-00843,Manufacturing,714
+CUST-00844,IT & Enterprise Tech,774
+CUST-00845,Manufacturing,743
+CUST-00846,Healthcare,719
+CUST-00847,Manufacturing,849
+CUST-00848,IT & Enterprise Tech,749
+CUST-00849,Construction,803
+CUST-00850,Construction,767
+CUST-00851,Manufacturing,800
+CUST-00852,Logistics & Fleet,784
+CUST-00853,Manufacturing,764
+CUST-00854,IT & Enterprise Tech,749
+CUST-00855,Manufacturing,806
+CUST-00856,Manufacturing,671
+CUST-00857,Manufacturing,662
+CUST-00858,Construction,606
+CUST-00859,Construction,744
+CUST-00860,Manufacturing,785
+CUST-00861,Logistics & Fleet,642
+CUST-00862,Construction,662
+CUST-00863,Construction,803
+CUST-00864,Healthcare,755
+CUST-00865,Healthcare,752
+CUST-00866,Construction,736
+CUST-00867,Manufacturing,696
+CUST-00868,Manufacturing,608
+CUST-00869,IT & Enterprise Tech,748
+CUST-00870,IT & Enterprise Tech,848
+CUST-00871,Healthcare,729
+CUST-00872,Healthcare,635
+CUST-00873,Construction,696
+CUST-00874,Healthcare,771
+CUST-00875,Manufacturing,779
+CUST-00876,Manufacturing,811
+CUST-00877,Logistics & Fleet,778
+CUST-00878,Logistics & Fleet,580
+CUST-00879,Manufacturing,724
+CUST-00880,Manufacturing,616
+CUST-00881,Manufacturing,751
+CUST-00882,Logistics & Fleet,757
+CUST-00883,Manufacturing,656
+CUST-00884,Manufacturing,690
+CUST-00885,Logistics & Fleet,668
+CUST-00886,Manufacturing,763
+CUST-00887,Logistics & Fleet,704
+CUST-00888,Manufacturing,668
+CUST-00889,Manufacturing,761
+CUST-00890,Manufacturing,749
+CUST-00891,Logistics & Fleet,763
+CUST-00892,IT & Enterprise Tech,609
+CUST-00893,Logistics & Fleet,672
+CUST-00894,Healthcare,754
+CUST-00895,Logistics & Fleet,601
+CUST-00896,Manufacturing,603
+CUST-00897,Healthcare,662
+CUST-00898,IT & Enterprise Tech,760
+CUST-00899,Manufacturing,710
+CUST-00900,Manufacturing,742
+CUST-00901,Manufacturing,646
+CUST-00902,Manufacturing,645
+CUST-00903,Manufacturing,800
+CUST-00904,Construction,737
+CUST-00905,Healthcare,640
+CUST-00906,IT & Enterprise Tech,581
+CUST-00907,Logistics & Fleet,618
+CUST-00908,Healthcare,641
+CUST-00909,Healthcare,627
+CUST-00910,Healthcare,707
+CUST-00911,Construction,753
+CUST-00912,Healthcare,704
+CUST-00913,Construction,680
+CUST-00914,Healthcare,732
+CUST-00915,Construction,688
+CUST-00916,Healthcare,598
+CUST-00917,Healthcare,723
+CUST-00918,IT & Enterprise Tech,735
+CUST-00919,Logistics & Fleet,788
+CUST-00920,Manufacturing,769
+CUST-00921,IT & Enterprise Tech,673
+CUST-00922,Construction,695
+CUST-00923,IT & Enterprise Tech,712
+CUST-00924,Logistics & Fleet,723
+CUST-00925,Healthcare,807
+CUST-00926,Manufacturing,705
+CUST-00927,Healthcare,676
+CUST-00928,Construction,790
+CUST-00929,Construction,789
+CUST-00930,Healthcare,768
+CUST-00931,Manufacturing,605
+CUST-00932,Logistics & Fleet,715
+CUST-00933,IT & Enterprise Tech,694
+CUST-00934,Construction,738
+CUST-00935,Manufacturing,653
+CUST-00936,Healthcare,763
+CUST-00937,Manufacturing,733
+CUST-00938,IT & Enterprise Tech,766
+CUST-00939,Manufacturing,661
+CUST-00940,Construction,727
+CUST-00941,Healthcare,761
+CUST-00942,Construction,550
+CUST-00943,Logistics & Fleet,753
+CUST-00944,Logistics & Fleet,686
+CUST-00945,Manufacturing,708
+CUST-00946,Manufacturing,791
+CUST-00947,Manufacturing,780
+CUST-00948,IT & Enterprise Tech,672
+CUST-00949,IT & Enterprise Tech,600
+CUST-00950,Construction,705
+CUST-00951,Construction,779
+CUST-00952,Logistics & Fleet,795
+CUST-00953,Manufacturing,573
+CUST-00954,IT & Enterprise Tech,748
+CUST-00955,Healthcare,740
+CUST-00956,Healthcare,760
+CUST-00957,Construction,710
+CUST-00958,Manufacturing,594
+CUST-00959,Manufacturing,680
+CUST-00960,Logistics & Fleet,650
+CUST-00961,Manufacturing,642
+CUST-00962,Construction,760
+CUST-00963,Manufacturing,698
+CUST-00964,Healthcare,735
+CUST-00965,Healthcare,778
+CUST-00966,Healthcare,597
+CUST-00967,Logistics & Fleet,814
+CUST-00968,Healthcare,826
+CUST-00969,Construction,594
+CUST-00970,Construction,755
+CUST-00971,Logistics & Fleet,839
+CUST-00972,IT & Enterprise Tech,619
+CUST-00973,Logistics & Fleet,633
+CUST-00974,Manufacturing,762
+CUST-00975,Manufacturing,739
+CUST-00976,Healthcare,724
+CUST-00977,Construction,693
+CUST-00978,Manufacturing,720
+CUST-00979,Construction,550
+CUST-00980,Construction,632
+CUST-00981,Healthcare,702
+CUST-00982,Logistics & Fleet,572
+CUST-00983,Manufacturing,700
+CUST-00984,Manufacturing,708
+CUST-00985,Logistics & Fleet,662
+CUST-00986,Construction,665
+CUST-00987,Logistics & Fleet,642
+CUST-00988,Healthcare,678
+CUST-00989,Manufacturing,733
+CUST-00990,Logistics & Fleet,737
+CUST-00991,Logistics & Fleet,776
+CUST-00992,Logistics & Fleet,699
+CUST-00993,Healthcare,739
+CUST-00994,Construction,615
+CUST-00995,Healthcare,723
+CUST-00996,Manufacturing,695
+CUST-00997,IT & Enterprise Tech,742
+CUST-00998,Manufacturing,691
+CUST-00999,IT & Enterprise Tech,685
+CUST-01000,Healthcare,656
+CUST-01001,Manufacturing,775
+CUST-01002,Construction,670
+CUST-01003,IT & Enterprise Tech,831
+CUST-01004,Logistics & Fleet,624
+CUST-01005,Logistics & Fleet,786
+CUST-01006,Logistics & Fleet,568
+CUST-01007,Logistics & Fleet,698
+CUST-01008,Logistics & Fleet,671
+CUST-01009,Manufacturing,738
+CUST-01010,Construction,763
+CUST-01011,Manufacturing,835
+CUST-01012,IT & Enterprise Tech,675
+CUST-01013,IT & Enterprise Tech,662
+CUST-01014,Manufacturing,767
+CUST-01015,Logistics & Fleet,701
+CUST-01016,IT & Enterprise Tech,668
+CUST-01017,Manufacturing,681
+CUST-01018,Construction,663
+CUST-01019,IT & Enterprise Tech,601
+CUST-01020,Manufacturing,811
+CUST-01021,Logistics & Fleet,741
+CUST-01022,Healthcare,605
+CUST-01023,IT & Enterprise Tech,807
+CUST-01024,IT & Enterprise Tech,721
+CUST-01025,IT & Enterprise Tech,696
+CUST-01026,Construction,744
+CUST-01027,IT & Enterprise Tech,681
+CUST-01028,Logistics & Fleet,624
+CUST-01029,Healthcare,674
+CUST-01030,Logistics & Fleet,705
+CUST-01031,Manufacturing,651
+CUST-01032,Construction,743
+CUST-01033,Manufacturing,793
+CUST-01034,Manufacturing,686
+CUST-01035,Manufacturing,561
+CUST-01036,Logistics & Fleet,699
+CUST-01037,Healthcare,654
+CUST-01038,Logistics & Fleet,696
+CUST-01039,Manufacturing,695
+CUST-01040,Healthcare,654
+CUST-01041,Construction,621
+CUST-01042,Logistics & Fleet,710
+CUST-01043,Healthcare,660
+CUST-01044,Construction,823
+CUST-01045,IT & Enterprise Tech,726
+CUST-01046,Construction,662
+CUST-01047,Manufacturing,679
+CUST-01048,Manufacturing,700
+CUST-01049,IT & Enterprise Tech,716
+CUST-01050,Manufacturing,750
+CUST-01051,IT & Enterprise Tech,784
+CUST-01052,Construction,705
+CUST-01053,IT & Enterprise Tech,739
+CUST-01054,Logistics & Fleet,737
+CUST-01055,IT & Enterprise Tech,716
+CUST-01056,Healthcare,696
+CUST-01057,Logistics & Fleet,719
+CUST-01058,Healthcare,667
+CUST-01059,Construction,636
+CUST-01060,Construction,803
+CUST-01061,IT & Enterprise Tech,724
+CUST-01062,IT & Enterprise Tech,727
+CUST-01063,Logistics & Fleet,695
+CUST-01064,Healthcare,742
+CUST-01065,Healthcare,698
+CUST-01066,Logistics & Fleet,611
+CUST-01067,Manufacturing,675
+CUST-01068,Manufacturing,748
+CUST-01069,Healthcare,671
+CUST-01070,Healthcare,590
+CUST-01071,Healthcare,690
+CUST-01072,Manufacturing,597
+CUST-01073,Manufacturing,689
+CUST-01074,Manufacturing,787
+CUST-01075,IT & Enterprise Tech,627
+CUST-01076,Healthcare,752
+CUST-01077,Healthcare,821
+CUST-01078,Logistics & Fleet,792
+CUST-01079,Manufacturing,695
+CUST-01080,IT & Enterprise Tech,650
+CUST-01081,Logistics & Fleet,721
+CUST-01082,Manufacturing,722
+CUST-01083,Healthcare,769
+CUST-01084,IT & Enterprise Tech,713
+CUST-01085,IT & Enterprise Tech,736
+CUST-01086,Construction,650
+CUST-01087,Construction,758
+CUST-01088,Manufacturing,627
+CUST-01089,IT & Enterprise Tech,669
+CUST-01090,Manufacturing,749
+CUST-01091,IT & Enterprise Tech,793
+CUST-01092,Construction,754
+CUST-01093,Construction,707
+CUST-01094,Construction,708
+CUST-01095,Manufacturing,650
+CUST-01096,Manufacturing,685
+CUST-01097,Manufacturing,585
+CUST-01098,Manufacturing,817
+CUST-01099,Logistics & Fleet,850
+CUST-01100,Healthcare,583
+CUST-01101,Manufacturing,616
+CUST-01102,IT & Enterprise Tech,798
+CUST-01103,IT & Enterprise Tech,658
+CUST-01104,IT & Enterprise Tech,800
+CUST-01105,IT & Enterprise Tech,759
+CUST-01106,Manufacturing,689
+CUST-01107,Healthcare,771
+CUST-01108,Logistics & Fleet,707
+CUST-01109,Logistics & Fleet,706
+CUST-01110,Manufacturing,744
+CUST-01111,Logistics & Fleet,761
+CUST-01112,Manufacturing,775
+CUST-01113,Manufacturing,850
+CUST-01114,Construction,733
+CUST-01115,Construction,794
+CUST-01116,Construction,792
+CUST-01117,Manufacturing,754
+CUST-01118,IT & Enterprise Tech,675
+CUST-01119,Healthcare,781
+CUST-01120,Manufacturing,738
+CUST-01121,IT & Enterprise Tech,626
+CUST-01122,IT & Enterprise Tech,775
+CUST-01123,IT & Enterprise Tech,604
+CUST-01124,Logistics & Fleet,752
+CUST-01125,Logistics & Fleet,674
+CUST-01126,Construction,720
+CUST-01127,Manufacturing,619
+CUST-01128,Healthcare,662
+CUST-01129,Healthcare,675
+CUST-01130,Healthcare,700
+CUST-01131,Logistics & Fleet,671
+CUST-01132,Construction,732
+CUST-01133,Manufacturing,741
+CUST-01134,Manufacturing,680
+CUST-01135,Logistics & Fleet,712
+CUST-01136,Manufacturing,744
+CUST-01137,IT & Enterprise Tech,564
+CUST-01138,Construction,738
+CUST-01139,Construction,668
+CUST-01140,Construction,550
+CUST-01141,Logistics & Fleet,684
+CUST-01142,Healthcare,644
+CUST-01143,Logistics & Fleet,679
+CUST-01144,Construction,740
+CUST-01145,Healthcare,765
+CUST-01146,IT & Enterprise Tech,793
+CUST-01147,Logistics & Fleet,797
+CUST-01148,Logistics & Fleet,642
+CUST-01149,IT & Enterprise Tech,788
+CUST-01150,IT & Enterprise Tech,630
+CUST-01151,Logistics & Fleet,778
+CUST-01152,Logistics & Fleet,747
+CUST-01153,Logistics & Fleet,721
+CUST-01154,Logistics & Fleet,652
+CUST-01155,Construction,787
+CUST-01156,Logistics & Fleet,644
+CUST-01157,Manufacturing,708
+CUST-01158,IT & Enterprise Tech,714
+CUST-01159,IT & Enterprise Tech,599
+CUST-01160,Manufacturing,719
+CUST-01161,Logistics & Fleet,638
+CUST-01162,Manufacturing,803
+CUST-01163,Healthcare,850
+CUST-01164,Logistics & Fleet,662
+CUST-01165,Manufacturing,684
+CUST-01166,Logistics & Fleet,720
+CUST-01167,Logistics & Fleet,576
+CUST-01168,Construction,816
+CUST-01169,Manufacturing,689
+CUST-01170,Healthcare,684
+CUST-01171,Construction,754
+CUST-01172,IT & Enterprise Tech,715
+CUST-01173,Construction,720
+CUST-01174,Healthcare,764
+CUST-01175,Construction,701
+CUST-01176,Construction,636
+CUST-01177,Logistics & Fleet,789
+CUST-01178,Manufacturing,671
+CUST-01179,Logistics & Fleet,675
+CUST-01180,Construction,724
+CUST-01181,IT & Enterprise Tech,625
+CUST-01182,Healthcare,725
+CUST-01183,Construction,771
+CUST-01184,IT & Enterprise Tech,812
+CUST-01185,Manufacturing,758
+CUST-01186,IT & Enterprise Tech,779
+CUST-01187,Logistics & Fleet,668
+CUST-01188,Manufacturing,763
+CUST-01189,Healthcare,697
+CUST-01190,Logistics & Fleet,785
+CUST-01191,Manufacturing,716
+CUST-01192,Construction,780
+CUST-01193,Healthcare,720
+CUST-01194,Construction,660
+CUST-01195,Manufacturing,712
+CUST-01196,IT & Enterprise Tech,688
+CUST-01197,IT & Enterprise Tech,794
+CUST-01198,IT & Enterprise Tech,621
+CUST-01199,Logistics & Fleet,600
+CUST-01200,Manufacturing,728
+CUST-01201,Logistics & Fleet,688
+CUST-01202,Manufacturing,635
+CUST-01203,Manufacturing,707
+CUST-01204,Healthcare,727
+CUST-01205,Construction,789
+CUST-01206,Logistics & Fleet,589
+CUST-01207,Logistics & Fleet,722
+CUST-01208,Healthcare,816
+CUST-01209,Healthcare,813
+CUST-01210,IT & Enterprise Tech,716
+CUST-01211,Healthcare,671
+CUST-01212,Construction,692
+CUST-01213,Manufacturing,645
+CUST-01214,Logistics & Fleet,681
+CUST-01215,Logistics & Fleet,715
+CUST-01216,Manufacturing,740
+CUST-01217,Manufacturing,765
+CUST-01218,Logistics & Fleet,702
+CUST-01219,Logistics & Fleet,698
+CUST-01220,Healthcare,766
+CUST-01221,IT & Enterprise Tech,687
+CUST-01222,Manufacturing,755
+CUST-01223,Healthcare,602
+CUST-01224,IT & Enterprise Tech,740
+CUST-01225,Healthcare,847
+CUST-01226,Construction,649
+CUST-01227,Healthcare,803
+CUST-01228,Healthcare,755
+CUST-01229,IT & Enterprise Tech,766
+CUST-01230,Healthcare,753
+CUST-01231,IT & Enterprise Tech,668
+CUST-01232,Manufacturing,625
+CUST-01233,Manufacturing,740
+CUST-01234,Manufacturing,702
+CUST-01235,Logistics & Fleet,619
+CUST-01236,Healthcare,680
+CUST-01237,IT & Enterprise Tech,641
+CUST-01238,Construction,834
+CUST-01239,IT & Enterprise Tech,764
+CUST-01240,Manufacturing,646
+CUST-01241,IT & Enterprise Tech,742
+CUST-01242,Logistics & Fleet,634
+CUST-01243,Logistics & Fleet,591
+CUST-01244,Logistics & Fleet,664
+CUST-01245,Logistics & Fleet,700
+CUST-01246,Construction,734
+CUST-01247,Manufacturing,766
+CUST-01248,Manufacturing,686
+CUST-01249,IT & Enterprise Tech,753
+CUST-01250,Construction,606
+CUST-01251,Logistics & Fleet,805
+CUST-01252,Construction,608
+CUST-01253,Manufacturing,677
+CUST-01254,Manufacturing,664
+CUST-01255,Logistics & Fleet,616
+CUST-01256,Healthcare,731
+CUST-01257,Manufacturing,820
+CUST-01258,Construction,592
+CUST-01259,Manufacturing,561
+CUST-01260,Construction,653
+CUST-01261,Healthcare,694
+CUST-01262,Logistics & Fleet,759
+CUST-01263,Healthcare,678
+CUST-01264,Construction,590
+CUST-01265,Manufacturing,793
+CUST-01266,Manufacturing,650
+CUST-01267,Healthcare,750
+CUST-01268,Construction,636
+CUST-01269,Construction,698
+CUST-01270,Healthcare,733
+CUST-01271,Logistics & Fleet,654
+CUST-01272,IT & Enterprise Tech,737
+CUST-01273,Logistics & Fleet,686
+CUST-01274,Manufacturing,680
+CUST-01275,Construction,808
+CUST-01276,Manufacturing,733
+CUST-01277,Manufacturing,741
+CUST-01278,IT & Enterprise Tech,757
+CUST-01279,Manufacturing,747
+CUST-01280,Construction,733
+CUST-01281,Construction,790
+CUST-01282,Logistics & Fleet,649
+CUST-01283,Construction,719
+CUST-01284,Manufacturing,689
+CUST-01285,Healthcare,719
+CUST-01286,Construction,664
+CUST-01287,Manufacturing,604
+CUST-01288,Healthcare,762
+CUST-01289,Manufacturing,850
+CUST-01290,Manufacturing,779
+CUST-01291,Healthcare,766
+CUST-01292,Manufacturing,726
+CUST-01293,Construction,699
+CUST-01294,Logistics & Fleet,703
+CUST-01295,Logistics & Fleet,702
+CUST-01296,Manufacturing,667
+CUST-01297,Manufacturing,602
+CUST-01298,Manufacturing,722
+CUST-01299,Construction,691
+CUST-01300,Logistics & Fleet,784
+CUST-01301,Manufacturing,758
+CUST-01302,IT & Enterprise Tech,577
+CUST-01303,Manufacturing,821
+CUST-01304,Construction,676
+CUST-01305,Logistics & Fleet,686
+CUST-01306,IT & Enterprise Tech,600
+CUST-01307,Logistics & Fleet,727
+CUST-01308,Logistics & Fleet,736
+CUST-01309,Healthcare,821
+CUST-01310,Logistics & Fleet,765
+CUST-01311,Manufacturing,677
+CUST-01312,IT & Enterprise Tech,594
+CUST-01313,Construction,672
+CUST-01314,Logistics & Fleet,777
+CUST-01315,Construction,684
+CUST-01316,Construction,638
+CUST-01317,Construction,720
+CUST-01318,Logistics & Fleet,688
+CUST-01319,Manufacturing,680
+CUST-01320,Manufacturing,661
+CUST-01321,Manufacturing,717
+CUST-01322,Manufacturing,776
+CUST-01323,IT & Enterprise Tech,743
+CUST-01324,Manufacturing,584
+CUST-01325,IT & Enterprise Tech,810
+CUST-01326,Healthcare,758
+CUST-01327,Manufacturing,729
+CUST-01328,Logistics & Fleet,737
+CUST-01329,Logistics & Fleet,747
+CUST-01330,Construction,735
+CUST-01331,Construction,647
+CUST-01332,Logistics & Fleet,742
+CUST-01333,Manufacturing,720
+CUST-01334,IT & Enterprise Tech,737
+CUST-01335,IT & Enterprise Tech,668
+CUST-01336,Logistics & Fleet,780
+CUST-01337,Manufacturing,673
+CUST-01338,Logistics & Fleet,706
+CUST-01339,Manufacturing,676
+CUST-01340,Manufacturing,645
+CUST-01341,Healthcare,756
+CUST-01342,Construction,677
+CUST-01343,IT & Enterprise Tech,719
+CUST-01344,Logistics & Fleet,619
+CUST-01345,Logistics & Fleet,591
+CUST-01346,Healthcare,822
+CUST-01347,Healthcare,813
+CUST-01348,Healthcare,670
+CUST-01349,IT & Enterprise Tech,739
+CUST-01350,Manufacturing,681
+CUST-01351,IT & Enterprise Tech,753
+CUST-01352,Construction,639
+CUST-01353,Healthcare,633
+CUST-01354,Logistics & Fleet,711
+CUST-01355,Construction,734
+CUST-01356,IT & Enterprise Tech,664
+CUST-01357,IT & Enterprise Tech,625
+CUST-01358,Healthcare,791
+CUST-01359,Healthcare,679
+CUST-01360,Construction,680
+CUST-01361,IT & Enterprise Tech,790
+CUST-01362,Manufacturing,850
+CUST-01363,Construction,731
+CUST-01364,Construction,767
+CUST-01365,Logistics & Fleet,636
+CUST-01366,Manufacturing,757
+CUST-01367,Logistics & Fleet,765
+CUST-01368,IT & Enterprise Tech,647
+CUST-01369,Manufacturing,675
+CUST-01370,Manufacturing,789
+CUST-01371,IT & Enterprise Tech,692
+CUST-01372,Manufacturing,802
+CUST-01373,IT & Enterprise Tech,711
+CUST-01374,Construction,708
+CUST-01375,Manufacturing,773
+CUST-01376,IT & Enterprise Tech,843
+CUST-01377,Healthcare,752
+CUST-01378,Construction,721
+CUST-01379,Healthcare,792
+CUST-01380,Construction,796
+CUST-01381,Manufacturing,744
+CUST-01382,Healthcare,734
+CUST-01383,IT & Enterprise Tech,755
+CUST-01384,Healthcare,617
+CUST-01385,Logistics & Fleet,641
+CUST-01386,Healthcare,725
+CUST-01387,Logistics & Fleet,659
+CUST-01388,Manufacturing,712
+CUST-01389,IT & Enterprise Tech,723
+CUST-01390,Construction,646
+CUST-01391,Manufacturing,748
+CUST-01392,Manufacturing,586
+CUST-01393,Manufacturing,689
+CUST-01394,Construction,610
+CUST-01395,Healthcare,689
+CUST-01396,Logistics & Fleet,772
+CUST-01397,Healthcare,661
+CUST-01398,Manufacturing,578
+CUST-01399,Construction,694
+CUST-01400,Logistics & Fleet,656
+CUST-01401,Manufacturing,710
+CUST-01402,Manufacturing,694
+CUST-01403,Manufacturing,721
+CUST-01404,Logistics & Fleet,786
+CUST-01405,Logistics & Fleet,685
+CUST-01406,Construction,715
+CUST-01407,Logistics & Fleet,688
+CUST-01408,Logistics & Fleet,775
+CUST-01409,Construction,720
+CUST-01410,IT & Enterprise Tech,743
+CUST-01411,Manufacturing,759
+CUST-01412,Manufacturing,583
+CUST-01413,Healthcare,761
+CUST-01414,Manufacturing,734
+CUST-01415,Construction,666
+CUST-01416,IT & Enterprise Tech,793
+CUST-01417,Manufacturing,774
+CUST-01418,Manufacturing,697
+CUST-01419,Construction,575
+CUST-01420,IT & Enterprise Tech,706
+CUST-01421,Healthcare,645
+CUST-01422,Construction,567
+CUST-01423,Manufacturing,747
+CUST-01424,Manufacturing,809
+CUST-01425,IT & Enterprise Tech,703
+CUST-01426,IT & Enterprise Tech,726
+CUST-01427,Manufacturing,797
+CUST-01428,IT & Enterprise Tech,721
+CUST-01429,Construction,670
+CUST-01430,IT & Enterprise Tech,565
+CUST-01431,Construction,762
+CUST-01432,Construction,737
+CUST-01433,Construction,770
+CUST-01434,Logistics & Fleet,550
+CUST-01435,Manufacturing,844
+CUST-01436,Manufacturing,658
+CUST-01437,Healthcare,781
+CUST-01438,Logistics & Fleet,586
+CUST-01439,Manufacturing,659
+CUST-01440,Logistics & Fleet,674
+CUST-01441,IT & Enterprise Tech,643
+CUST-01442,Manufacturing,656
+CUST-01443,Logistics & Fleet,815
+CUST-01444,Healthcare,687
+CUST-01445,IT & Enterprise Tech,848
+CUST-01446,Manufacturing,778
+CUST-01447,Logistics & Fleet,579
+CUST-01448,Logistics & Fleet,687
+CUST-01449,IT & Enterprise Tech,684
+CUST-01450,Logistics & Fleet,648
+CUST-01451,Construction,789
+CUST-01452,Construction,766
+CUST-01453,IT & Enterprise Tech,850
+CUST-01454,Construction,680
+CUST-01455,Manufacturing,738
+CUST-01456,IT & Enterprise Tech,687
+CUST-01457,Logistics & Fleet,684
+CUST-01458,Logistics & Fleet,762
+CUST-01459,Manufacturing,850
+CUST-01460,Logistics & Fleet,774
+CUST-01461,Healthcare,767
+CUST-01462,Logistics & Fleet,706
+CUST-01463,Manufacturing,765
+CUST-01464,Logistics & Fleet,786
+CUST-01465,IT & Enterprise Tech,654
+CUST-01466,Manufacturing,712
+CUST-01467,IT & Enterprise Tech,688
+CUST-01468,Healthcare,668
+CUST-01469,IT & Enterprise Tech,773
+CUST-01470,Logistics & Fleet,694
+CUST-01471,Construction,740
+CUST-01472,Logistics & Fleet,741
+CUST-01473,IT & Enterprise Tech,692
+CUST-01474,Healthcare,615
+CUST-01475,Healthcare,687
+CUST-01476,Logistics & Fleet,744
+CUST-01477,Logistics & Fleet,729
+CUST-01478,Logistics & Fleet,583
+CUST-01479,Logistics & Fleet,762
+CUST-01480,Healthcare,674
+CUST-01481,Logistics & Fleet,747
+CUST-01482,Manufacturing,762
+CUST-01483,Construction,740
+CUST-01484,Manufacturing,832
+CUST-01485,Healthcare,774
+CUST-01486,Healthcare,680
+CUST-01487,Healthcare,687
+CUST-01488,Logistics & Fleet,705
+CUST-01489,Healthcare,687
+CUST-01490,Healthcare,734
+CUST-01491,Manufacturing,636
+CUST-01492,Healthcare,799
+CUST-01493,Manufacturing,712
+CUST-01494,Manufacturing,797
+CUST-01495,Construction,633
+CUST-01496,Logistics & Fleet,633
+CUST-01497,Construction,780
+CUST-01498,Construction,667
+CUST-01499,Healthcare,645
+CUST-01500,IT & Enterprise Tech,785
+CUST-01501,Construction,657
+CUST-01502,Construction,708
+CUST-01503,Manufacturing,674
+CUST-01504,Healthcare,759
+CUST-01505,Healthcare,724
+CUST-01506,Healthcare,769
+CUST-01507,Construction,632
+CUST-01508,Construction,725
+CUST-01509,Construction,715
+CUST-01510,Logistics & Fleet,661
+CUST-01511,Logistics & Fleet,642
+CUST-01512,Logistics & Fleet,704
+CUST-01513,IT & Enterprise Tech,691
+CUST-01514,Manufacturing,786
+CUST-01515,Manufacturing,763
+CUST-01516,Manufacturing,665
+CUST-01517,Construction,693
+CUST-01518,IT & Enterprise Tech,745
+CUST-01519,Manufacturing,752
+CUST-01520,IT & Enterprise Tech,787
+CUST-01521,Manufacturing,705
+CUST-01522,IT & Enterprise Tech,720
+CUST-01523,Healthcare,594
+CUST-01524,Manufacturing,637
+CUST-01525,Construction,769
+CUST-01526,Healthcare,639
+CUST-01527,Healthcare,601
+CUST-01528,Healthcare,759
+CUST-01529,Logistics & Fleet,684
+CUST-01530,Construction,658
+CUST-01531,Healthcare,613
+CUST-01532,Construction,614
+CUST-01533,Logistics & Fleet,680
+CUST-01534,Healthcare,700
+CUST-01535,Healthcare,790
+CUST-01536,Manufacturing,701
+CUST-01537,Manufacturing,689
+CUST-01538,Logistics & Fleet,691
+CUST-01539,Manufacturing,563
+CUST-01540,Construction,678
+CUST-01541,Logistics & Fleet,751
+CUST-01542,Manufacturing,715
+CUST-01543,Construction,760
+CUST-01544,Healthcare,780
+CUST-01545,IT & Enterprise Tech,603
+CUST-01546,Construction,667
+CUST-01547,Logistics & Fleet,775
+CUST-01548,Construction,716
+CUST-01549,Manufacturing,700
+CUST-01550,Construction,777
+CUST-01551,IT & Enterprise Tech,658
+CUST-01552,Construction,662
+CUST-01553,Logistics & Fleet,658
+CUST-01554,IT & Enterprise Tech,623
+CUST-01555,Manufacturing,695
+CUST-01556,Manufacturing,721
+CUST-01557,Construction,642
+CUST-01558,Healthcare,703
+CUST-01559,Logistics & Fleet,671
+CUST-01560,IT & Enterprise Tech,705
+CUST-01561,Healthcare,803
+CUST-01562,Manufacturing,715
+CUST-01563,Logistics & Fleet,716
+CUST-01564,Healthcare,842
+CUST-01565,Logistics & Fleet,677
+CUST-01566,Healthcare,749
+CUST-01567,Logistics & Fleet,675
+CUST-01568,Manufacturing,761
+CUST-01569,Construction,651
+CUST-01570,Construction,688
+CUST-01571,Construction,673
+CUST-01572,Manufacturing,642
+CUST-01573,Logistics & Fleet,571
+CUST-01574,IT & Enterprise Tech,736
+CUST-01575,Manufacturing,668
+CUST-01576,Manufacturing,692
+CUST-01577,Manufacturing,701
+CUST-01578,Construction,614
+CUST-01579,Construction,684
+CUST-01580,Construction,593
+CUST-01581,Manufacturing,680
+CUST-01582,Healthcare,807
+CUST-01583,Construction,675
+CUST-01584,Construction,635
+CUST-01585,IT & Enterprise Tech,678
+CUST-01586,Manufacturing,811
+CUST-01587,Logistics & Fleet,680
+CUST-01588,Healthcare,609
+CUST-01589,Healthcare,591
+CUST-01590,Logistics & Fleet,683
+CUST-01591,Logistics & Fleet,762
+CUST-01592,IT & Enterprise Tech,738
+CUST-01593,Manufacturing,781
+CUST-01594,Manufacturing,750
+CUST-01595,Logistics & Fleet,710
+CUST-01596,Construction,550
+CUST-01597,Healthcare,800
+CUST-01598,Manufacturing,615
+CUST-01599,Manufacturing,850
+CUST-01600,IT & Enterprise Tech,660
+CUST-01601,Manufacturing,662
+CUST-01602,Healthcare,675
+CUST-01603,Manufacturing,710
+CUST-01604,Healthcare,620
+CUST-01605,Manufacturing,652
+CUST-01606,Construction,770
+CUST-01607,Manufacturing,797
+CUST-01608,Logistics & Fleet,638
+CUST-01609,Manufacturing,731
+CUST-01610,Construction,675
+CUST-01611,IT & Enterprise Tech,742
+CUST-01612,Logistics & Fleet,651
+CUST-01613,Construction,757
+CUST-01614,Healthcare,701
+CUST-01615,Healthcare,678
+CUST-01616,Logistics & Fleet,707
+CUST-01617,IT & Enterprise Tech,803
+CUST-01618,Logistics & Fleet,703
+CUST-01619,Construction,728
+CUST-01620,Logistics & Fleet,715
+CUST-01621,Construction,716
+CUST-01622,Manufacturing,789
+CUST-01623,Construction,764
+CUST-01624,IT & Enterprise Tech,621
+CUST-01625,Manufacturing,745
+CUST-01626,Logistics & Fleet,814
+CUST-01627,Manufacturing,694
+CUST-01628,Construction,765
+CUST-01629,Manufacturing,550
+CUST-01630,Construction,647
+CUST-01631,Logistics & Fleet,850
+CUST-01632,Healthcare,759
+CUST-01633,Logistics & Fleet,724
+CUST-01634,Logistics & Fleet,829
+CUST-01635,IT & Enterprise Tech,637
+CUST-01636,Manufacturing,792
+CUST-01637,Healthcare,654
+CUST-01638,Manufacturing,716
+CUST-01639,IT & Enterprise Tech,604
+CUST-01640,IT & Enterprise Tech,685
+CUST-01641,Construction,796
+CUST-01642,Logistics & Fleet,676
+CUST-01643,Construction,742
+CUST-01644,Construction,678
+CUST-01645,Manufacturing,737
+CUST-01646,Logistics & Fleet,758
+CUST-01647,Manufacturing,665
+CUST-01648,Logistics & Fleet,653
+CUST-01649,Logistics & Fleet,683
+CUST-01650,Logistics & Fleet,682
+CUST-01651,Manufacturing,578
+CUST-01652,Healthcare,731
+CUST-01653,Healthcare,734
+CUST-01654,Healthcare,593
+CUST-01655,Manufacturing,764
+CUST-01656,IT & Enterprise Tech,684
+CUST-01657,Construction,731
+CUST-01658,Healthcare,693
+CUST-01659,Healthcare,731
+CUST-01660,Healthcare,717
+CUST-01661,Construction,767
+CUST-01662,Construction,710
+CUST-01663,IT & Enterprise Tech,759
+CUST-01664,Construction,802
+CUST-01665,IT & Enterprise Tech,704
+CUST-01666,IT & Enterprise Tech,692
+CUST-01667,Manufacturing,746
+CUST-01668,IT & Enterprise Tech,576
+CUST-01669,Manufacturing,653
+CUST-01670,Logistics & Fleet,650
+CUST-01671,Healthcare,745
+CUST-01672,IT & Enterprise Tech,719
+CUST-01673,IT & Enterprise Tech,792
+CUST-01674,Logistics & Fleet,788
+CUST-01675,Logistics & Fleet,582
+CUST-01676,Healthcare,600
+CUST-01677,Manufacturing,712
+CUST-01678,Healthcare,609
+CUST-01679,Manufacturing,581
+CUST-01680,Logistics & Fleet,662
+CUST-01681,Healthcare,574
+CUST-01682,IT & Enterprise Tech,643
+CUST-01683,Construction,756
+CUST-01684,Logistics & Fleet,678
+CUST-01685,Manufacturing,807
+CUST-01686,IT & Enterprise Tech,673
+CUST-01687,IT & Enterprise Tech,745
+CUST-01688,Construction,675
+CUST-01689,Construction,695
+CUST-01690,Logistics & Fleet,684
+CUST-01691,Manufacturing,746
+CUST-01692,Construction,757
+CUST-01693,Healthcare,843
+CUST-01694,Manufacturing,710
+CUST-01695,Healthcare,745
+CUST-01696,Manufacturing,643
+CUST-01697,Manufacturing,754
+CUST-01698,Manufacturing,711
+CUST-01699,IT & Enterprise Tech,550
+CUST-01700,Construction,653
+CUST-01701,IT & Enterprise Tech,575
+CUST-01702,Healthcare,662
+CUST-01703,Healthcare,729
+CUST-01704,Construction,690
+CUST-01705,Healthcare,750
+CUST-01706,Manufacturing,557
+CUST-01707,Construction,772
+CUST-01708,Manufacturing,725
+CUST-01709,Construction,627
+CUST-01710,Logistics & Fleet,708
+CUST-01711,Manufacturing,850
+CUST-01712,Manufacturing,805
+CUST-01713,Logistics & Fleet,819
+CUST-01714,Construction,696
+CUST-01715,Manufacturing,783
+CUST-01716,IT & Enterprise Tech,795
+CUST-01717,Manufacturing,642
+CUST-01718,Logistics & Fleet,793
+CUST-01719,IT & Enterprise Tech,779
+CUST-01720,Manufacturing,666
+CUST-01721,Manufacturing,716
+CUST-01722,Manufacturing,798
+CUST-01723,Healthcare,706
+CUST-01724,Manufacturing,767
+CUST-01725,Logistics & Fleet,679
+CUST-01726,Manufacturing,638
+CUST-01727,Construction,632
+CUST-01728,IT & Enterprise Tech,691
+CUST-01729,Logistics & Fleet,738
+CUST-01730,Construction,595
+CUST-01731,Healthcare,835
+CUST-01732,Construction,779
+CUST-01733,Construction,743
+CUST-01734,Healthcare,763
+CUST-01735,Manufacturing,667
+CUST-01736,IT & Enterprise Tech,614
+CUST-01737,Healthcare,736
+CUST-01738,Manufacturing,777
+CUST-01739,Healthcare,677
+CUST-01740,Healthcare,648
+CUST-01741,Logistics & Fleet,674
+CUST-01742,Logistics & Fleet,741
+CUST-01743,Logistics & Fleet,749
+CUST-01744,Manufacturing,827
+CUST-01745,Healthcare,739
+CUST-01746,Construction,655
+CUST-01747,Manufacturing,690
+CUST-01748,Healthcare,641
+CUST-01749,Logistics & Fleet,781
+CUST-01750,Manufacturing,637
+CUST-01751,Construction,673
+CUST-01752,Manufacturing,741
+CUST-01753,Manufacturing,813
+CUST-01754,Manufacturing,850
+CUST-01755,IT & Enterprise Tech,622
+CUST-01756,Logistics & Fleet,751
+CUST-01757,IT & Enterprise Tech,708
+CUST-01758,Construction,693
+CUST-01759,Manufacturing,691
+CUST-01760,Construction,629
+CUST-01761,Construction,818
+CUST-01762,Logistics & Fleet,574
+CUST-01763,Manufacturing,700
+CUST-01764,Construction,807
+CUST-01765,Manufacturing,724
+CUST-01766,Healthcare,666
+CUST-01767,Logistics & Fleet,669
+CUST-01768,Construction,767
+CUST-01769,Healthcare,690
+CUST-01770,Healthcare,707
+CUST-01771,Construction,750
+CUST-01772,Logistics & Fleet,770
+CUST-01773,IT & Enterprise Tech,673
+CUST-01774,IT & Enterprise Tech,621
+CUST-01775,Logistics & Fleet,644
+CUST-01776,Healthcare,799
+CUST-01777,Logistics & Fleet,714
+CUST-01778,Healthcare,628
+CUST-01779,Healthcare,649
+CUST-01780,Logistics & Fleet,785
+CUST-01781,Manufacturing,715
+CUST-01782,IT & Enterprise Tech,601
+CUST-01783,Construction,638
+CUST-01784,Construction,784
+CUST-01785,Logistics & Fleet,673
+CUST-01786,IT & Enterprise Tech,846
+CUST-01787,Construction,834
+CUST-01788,Construction,806
+CUST-01789,Manufacturing,742
+CUST-01790,Construction,777
+CUST-01791,Manufacturing,706
+CUST-01792,Logistics & Fleet,708
+CUST-01793,Construction,631
+CUST-01794,Logistics & Fleet,707
+CUST-01795,Manufacturing,627
+CUST-01796,Manufacturing,710
+CUST-01797,Logistics & Fleet,631
+CUST-01798,Manufacturing,653
+CUST-01799,Manufacturing,550
+CUST-01800,Manufacturing,659
+CUST-01801,IT & Enterprise Tech,663
+CUST-01802,Logistics & Fleet,689
+CUST-01803,Healthcare,787
+CUST-01804,Healthcare,706
+CUST-01805,Healthcare,770
+CUST-01806,Logistics & Fleet,772
+CUST-01807,Logistics & Fleet,801
+CUST-01808,Manufacturing,651
+CUST-01809,Manufacturing,633
+CUST-01810,Manufacturing,702
+CUST-01811,Logistics & Fleet,642
+CUST-01812,Logistics & Fleet,695
+CUST-01813,Healthcare,648
+CUST-01814,Manufacturing,630
+CUST-01815,Manufacturing,733
+CUST-01816,IT & Enterprise Tech,831
+CUST-01817,Healthcare,693
+CUST-01818,Logistics & Fleet,728
+CUST-01819,Construction,714
+CUST-01820,Healthcare,707
+CUST-01821,Manufacturing,802
+CUST-01822,Manufacturing,692
+CUST-01823,Construction,550
+CUST-01824,Logistics & Fleet,652
+CUST-01825,Construction,716
+CUST-01826,Construction,703
+CUST-01827,Manufacturing,695
+CUST-01828,IT & Enterprise Tech,676
+CUST-01829,Logistics & Fleet,715
+CUST-01830,Healthcare,843
+CUST-01831,IT & Enterprise Tech,688
+CUST-01832,Construction,850
+CUST-01833,Construction,740
+CUST-01834,Logistics & Fleet,666
+CUST-01835,Logistics & Fleet,766
+CUST-01836,Logistics & Fleet,551
+CUST-01837,Manufacturing,709
+CUST-01838,Healthcare,743
+CUST-01839,IT & Enterprise Tech,744
+CUST-01840,Manufacturing,751
+CUST-01841,Healthcare,757
+CUST-01842,Healthcare,729
+CUST-01843,Healthcare,756
+CUST-01844,Construction,673
+CUST-01845,IT & Enterprise Tech,786
+CUST-01846,Manufacturing,680
+CUST-01847,Manufacturing,785
+CUST-01848,Manufacturing,708
+CUST-01849,IT & Enterprise Tech,724
+CUST-01850,Construction,767
+CUST-01851,Healthcare,807
+CUST-01852,Logistics & Fleet,712
+CUST-01853,IT & Enterprise Tech,724
+CUST-01854,Logistics & Fleet,550
+CUST-01855,IT & Enterprise Tech,653
+CUST-01856,Healthcare,611
+CUST-01857,Logistics & Fleet,683
+CUST-01858,Construction,666
+CUST-01859,Logistics & Fleet,658
+CUST-01860,Logistics & Fleet,642
+CUST-01861,Logistics & Fleet,744
+CUST-01862,Logistics & Fleet,593
+CUST-01863,Manufacturing,639
+CUST-01864,Construction,712
+CUST-01865,IT & Enterprise Tech,773
+CUST-01866,IT & Enterprise Tech,649
+CUST-01867,Manufacturing,778
+CUST-01868,Manufacturing,550
+CUST-01869,Manufacturing,710
+CUST-01870,Logistics & Fleet,729
+CUST-01871,Logistics & Fleet,645
+CUST-01872,Manufacturing,624
+CUST-01873,Construction,718
+CUST-01874,Logistics & Fleet,707
+CUST-01875,Logistics & Fleet,657
+CUST-01876,Construction,691
+CUST-01877,Construction,670
+CUST-01878,Construction,791
+CUST-01879,Healthcare,754
+CUST-01880,Construction,722
+CUST-01881,Logistics & Fleet,832
+CUST-01882,IT & Enterprise Tech,777
+CUST-01883,Construction,790
+CUST-01884,Logistics & Fleet,812
+CUST-01885,Manufacturing,699
+CUST-01886,Construction,630
+CUST-01887,Manufacturing,594
+CUST-01888,Manufacturing,758
+CUST-01889,Logistics & Fleet,647
+CUST-01890,IT & Enterprise Tech,850
+CUST-01891,Manufacturing,655
+CUST-01892,Healthcare,644
+CUST-01893,Logistics & Fleet,760
+CUST-01894,Manufacturing,761
+CUST-01895,Construction,826
+CUST-01896,Logistics & Fleet,693
+CUST-01897,Construction,785
+CUST-01898,Manufacturing,699
+CUST-01899,Healthcare,745
+CUST-01900,Logistics & Fleet,696
+CUST-01901,Construction,834
+CUST-01902,Manufacturing,850
+CUST-01903,Logistics & Fleet,632
+CUST-01904,Manufacturing,793
+CUST-01905,Logistics & Fleet,649
+CUST-01906,Manufacturing,785
+CUST-01907,IT & Enterprise Tech,816
+CUST-01908,Healthcare,647
+CUST-01909,Healthcare,630
+CUST-01910,Manufacturing,677
+CUST-01911,Healthcare,785
+CUST-01912,IT & Enterprise Tech,740
+CUST-01913,IT & Enterprise Tech,693
+CUST-01914,Healthcare,756
+CUST-01915,Healthcare,691
+CUST-01916,Logistics & Fleet,718
+CUST-01917,IT & Enterprise Tech,745
+CUST-01918,Construction,741
+CUST-01919,Healthcare,819
+CUST-01920,Healthcare,631
+CUST-01921,Logistics & Fleet,771
+CUST-01922,Manufacturing,648
+CUST-01923,Construction,683
+CUST-01924,Healthcare,699
+CUST-01925,Logistics & Fleet,682
+CUST-01926,Manufacturing,622
+CUST-01927,Construction,680
+CUST-01928,Construction,727
+CUST-01929,Construction,701
+CUST-01930,Manufacturing,805
+CUST-01931,Construction,702
+CUST-01932,Construction,710
+CUST-01933,Construction,721
+CUST-01934,Construction,701
+CUST-01935,Logistics & Fleet,741
+CUST-01936,Logistics & Fleet,676
+CUST-01937,Healthcare,634
+CUST-01938,Logistics & Fleet,705
+CUST-01939,Construction,735
+CUST-01940,Manufacturing,720
+CUST-01941,Manufacturing,652
+CUST-01942,Healthcare,720
+CUST-01943,Logistics & Fleet,754
+CUST-01944,Logistics & Fleet,723
+CUST-01945,Logistics & Fleet,663
+CUST-01946,Construction,714
+CUST-01947,Healthcare,820
+CUST-01948,Manufacturing,642
+CUST-01949,Healthcare,781
+CUST-01950,Healthcare,564
+CUST-01951,Manufacturing,674
+CUST-01952,Manufacturing,682
+CUST-01953,Construction,780
+CUST-01954,Logistics & Fleet,825
+CUST-01955,IT & Enterprise Tech,782
+CUST-01956,IT & Enterprise Tech,743
+CUST-01957,Construction,779
+CUST-01958,Healthcare,622
+CUST-01959,Construction,768
+CUST-01960,Logistics & Fleet,638
+CUST-01961,Manufacturing,661
+CUST-01962,Healthcare,735
+CUST-01963,Logistics & Fleet,629
+CUST-01964,Healthcare,789
+CUST-01965,Construction,710
+CUST-01966,Construction,625
+CUST-01967,Manufacturing,808
+CUST-01968,Healthcare,692
+CUST-01969,Healthcare,699
+CUST-01970,Manufacturing,695
+CUST-01971,Manufacturing,550
+CUST-01972,Logistics & Fleet,791
+CUST-01973,Healthcare,711
+CUST-01974,Construction,719
+CUST-01975,Healthcare,754
+CUST-01976,IT & Enterprise Tech,690
+CUST-01977,Healthcare,637
+CUST-01978,Healthcare,649
+CUST-01979,IT & Enterprise Tech,766
+CUST-01980,Logistics & Fleet,709
+CUST-01981,Manufacturing,775
+CUST-01982,Logistics & Fleet,786
+CUST-01983,Construction,767
+CUST-01984,Construction,791
+CUST-01985,Manufacturing,663
+CUST-01986,Manufacturing,749
+CUST-01987,Logistics & Fleet,679
+CUST-01988,Construction,638
+CUST-01989,Healthcare,739
+CUST-01990,Logistics & Fleet,759
+CUST-01991,Logistics & Fleet,687
+CUST-01992,Manufacturing,713
+CUST-01993,Construction,755
+CUST-01994,Manufacturing,670
+CUST-01995,Logistics & Fleet,762
+CUST-01996,Logistics & Fleet,651
+CUST-01997,IT & Enterprise Tech,736
+CUST-01998,Manufacturing,631
+CUST-01999,Manufacturing,797
+CUST-02000,Healthcare,754
+CUST-02001,Healthcare,840
+CUST-02002,Manufacturing,649
+CUST-02003,IT & Enterprise Tech,753
+CUST-02004,Manufacturing,708
+CUST-02005,Healthcare,614
+CUST-02006,Logistics & Fleet,717
+CUST-02007,Healthcare,746
+CUST-02008,Logistics & Fleet,838
+CUST-02009,Manufacturing,677
+CUST-02010,Construction,740
+CUST-02011,Manufacturing,729
+CUST-02012,Manufacturing,698
+CUST-02013,IT & Enterprise Tech,703
+CUST-02014,Manufacturing,758
+CUST-02015,Construction,703
+CUST-02016,Healthcare,694
+CUST-02017,Healthcare,677
+CUST-02018,IT & Enterprise Tech,612
+CUST-02019,Manufacturing,770
+CUST-02020,Logistics & Fleet,676
+CUST-02021,IT & Enterprise Tech,790
+CUST-02022,Construction,791
+CUST-02023,IT & Enterprise Tech,850
+CUST-02024,Manufacturing,738
+CUST-02025,Healthcare,746
+CUST-02026,Healthcare,749
+CUST-02027,Logistics & Fleet,726
+CUST-02028,IT & Enterprise Tech,786
+CUST-02029,Healthcare,704
+CUST-02030,Logistics & Fleet,745
+CUST-02031,Manufacturing,702
+CUST-02032,Construction,624
+CUST-02033,Construction,758
+CUST-02034,IT & Enterprise Tech,550
+CUST-02035,Construction,745
+CUST-02036,Healthcare,780
+CUST-02037,Manufacturing,748
+CUST-02038,Manufacturing,658
+CUST-02039,Manufacturing,810
+CUST-02040,Healthcare,827
+CUST-02041,IT & Enterprise Tech,753
+CUST-02042,Construction,830
+CUST-02043,Construction,847
+CUST-02044,Manufacturing,668
+CUST-02045,IT & Enterprise Tech,650
+CUST-02046,Logistics & Fleet,758
+CUST-02047,Manufacturing,550
+CUST-02048,Logistics & Fleet,695
+CUST-02049,Construction,667
+CUST-02050,Manufacturing,697
+CUST-02051,Construction,630
+CUST-02052,Construction,700
+CUST-02053,Manufacturing,749
+CUST-02054,IT & Enterprise Tech,822
+CUST-02055,Logistics & Fleet,740
+CUST-02056,Logistics & Fleet,594
+CUST-02057,Construction,714
+CUST-02058,Healthcare,802
+CUST-02059,Logistics & Fleet,696
+CUST-02060,Construction,754
+CUST-02061,Manufacturing,788
+CUST-02062,Construction,721
+CUST-02063,Logistics & Fleet,733
+CUST-02064,Construction,748
+CUST-02065,Manufacturing,682
+CUST-02066,Logistics & Fleet,696
+CUST-02067,Manufacturing,652
+CUST-02068,Healthcare,678
+CUST-02069,Manufacturing,762
+CUST-02070,Healthcare,745
+CUST-02071,Logistics & Fleet,636
+CUST-02072,Construction,648
+CUST-02073,Manufacturing,672
+CUST-02074,IT & Enterprise Tech,618
+CUST-02075,IT & Enterprise Tech,726
+CUST-02076,IT & Enterprise Tech,669
+CUST-02077,Manufacturing,743
+CUST-02078,Construction,776
+CUST-02079,IT & Enterprise Tech,601
+CUST-02080,Logistics & Fleet,669
+CUST-02081,Manufacturing,609
+CUST-02082,Manufacturing,590
+CUST-02083,Construction,745
+CUST-02084,IT & Enterprise Tech,723
+CUST-02085,Construction,673
+CUST-02086,Construction,648
+CUST-02087,Manufacturing,639
+CUST-02088,Logistics & Fleet,721
+CUST-02089,Logistics & Fleet,694
+CUST-02090,Healthcare,651
+CUST-02091,Logistics & Fleet,737
+CUST-02092,IT & Enterprise Tech,728
+CUST-02093,Manufacturing,646
+CUST-02094,Construction,679
+CUST-02095,Healthcare,765
+CUST-02096,Logistics & Fleet,758
+CUST-02097,Construction,667
+CUST-02098,Construction,817
+CUST-02099,Logistics & Fleet,698
+CUST-02100,Healthcare,761
+CUST-02101,IT & Enterprise Tech,641
+CUST-02102,Construction,700
+CUST-02103,Manufacturing,650
+CUST-02104,Logistics & Fleet,602
+CUST-02105,Logistics & Fleet,707
+CUST-02106,Healthcare,688
+CUST-02107,IT & Enterprise Tech,779
+CUST-02108,IT & Enterprise Tech,672
+CUST-02109,Healthcare,727
+CUST-02110,IT & Enterprise Tech,683
+CUST-02111,Manufacturing,646
+CUST-02112,Manufacturing,762
+CUST-02113,Manufacturing,670
+CUST-02114,IT & Enterprise Tech,681
+CUST-02115,Logistics & Fleet,632
+CUST-02116,Manufacturing,600
+CUST-02117,Healthcare,739
+CUST-02118,Construction,703
+CUST-02119,Manufacturing,769
+CUST-02120,IT & Enterprise Tech,743
+CUST-02121,Logistics & Fleet,629
+CUST-02122,Construction,710
+CUST-02123,IT & Enterprise Tech,707
+CUST-02124,Healthcare,775
+CUST-02125,IT & Enterprise Tech,790
+CUST-02126,Logistics & Fleet,597
+CUST-02127,Construction,781
+CUST-02128,Manufacturing,772
+CUST-02129,IT & Enterprise Tech,657
+CUST-02130,Healthcare,707
+CUST-02131,Manufacturing,573
+CUST-02132,Manufacturing,706
+CUST-02133,Construction,641
+CUST-02134,Construction,743
+CUST-02135,Logistics & Fleet,736
+CUST-02136,IT & Enterprise Tech,703
+CUST-02137,Manufacturing,722
+CUST-02138,Logistics & Fleet,658
+CUST-02139,Manufacturing,636
+CUST-02140,IT & Enterprise Tech,847
+CUST-02141,Logistics & Fleet,776
+CUST-02142,Construction,718
+CUST-02143,Logistics & Fleet,696
+CUST-02144,Healthcare,850
+CUST-02145,Construction,818
+CUST-02146,Logistics & Fleet,691
+CUST-02147,Construction,646
+CUST-02148,Healthcare,713
+CUST-02149,Construction,685
+CUST-02150,Logistics & Fleet,648
+CUST-02151,Healthcare,799
+CUST-02152,Manufacturing,744
+CUST-02153,Logistics & Fleet,683
+CUST-02154,Logistics & Fleet,682
+CUST-02155,Manufacturing,710
+CUST-02156,Manufacturing,678
+CUST-02157,Manufacturing,672
+CUST-02158,Healthcare,843
+CUST-02159,Construction,650
+CUST-02160,Logistics & Fleet,566
+CUST-02161,Logistics & Fleet,752
+CUST-02162,Construction,782
+CUST-02163,Healthcare,720
+CUST-02164,Logistics & Fleet,605
+CUST-02165,Construction,701
+CUST-02166,IT & Enterprise Tech,676
+CUST-02167,Construction,796
+CUST-02168,Manufacturing,655
+CUST-02169,Logistics & Fleet,724
+CUST-02170,Healthcare,748
+CUST-02171,Logistics & Fleet,654
+CUST-02172,Manufacturing,671
+CUST-02173,Manufacturing,738
+CUST-02174,IT & Enterprise Tech,550
+CUST-02175,Manufacturing,798
+CUST-02176,Logistics & Fleet,644
+CUST-02177,Healthcare,712
+CUST-02178,Construction,622
+CUST-02179,Logistics & Fleet,795
+CUST-02180,Construction,710
+CUST-02181,Healthcare,723
+CUST-02182,Manufacturing,746
+CUST-02183,Manufacturing,780
+CUST-02184,Healthcare,637
+CUST-02185,Logistics & Fleet,692
+CUST-02186,IT & Enterprise Tech,792
+CUST-02187,IT & Enterprise Tech,681
+CUST-02188,Logistics & Fleet,798
+CUST-02189,Logistics & Fleet,723
+CUST-02190,Logistics & Fleet,682
+CUST-02191,Healthcare,755
+CUST-02192,IT & Enterprise Tech,700
+CUST-02193,Logistics & Fleet,765
+CUST-02194,Construction,678
+CUST-02195,Manufacturing,765
+CUST-02196,Healthcare,738
+CUST-02197,Construction,687
+CUST-02198,IT & Enterprise Tech,591
+CUST-02199,Construction,741
+CUST-02200,Healthcare,779
+CUST-02201,IT & Enterprise Tech,722
+CUST-02202,Manufacturing,564
+CUST-02203,Healthcare,784
+CUST-02204,Manufacturing,735
+CUST-02205,Logistics & Fleet,750
+CUST-02206,IT & Enterprise Tech,704
+CUST-02207,Healthcare,584
+CUST-02208,IT & Enterprise Tech,747
+CUST-02209,Healthcare,695
+CUST-02210,IT & Enterprise Tech,662
+CUST-02211,Logistics & Fleet,823
+CUST-02212,Logistics & Fleet,748
+CUST-02213,Manufacturing,724
+CUST-02214,IT & Enterprise Tech,653
+CUST-02215,Logistics & Fleet,645
+CUST-02216,Healthcare,742
+CUST-02217,Logistics & Fleet,580
+CUST-02218,Healthcare,745
+CUST-02219,IT & Enterprise Tech,749
+CUST-02220,Manufacturing,799
+CUST-02221,Logistics & Fleet,773
+CUST-02222,Construction,784
+CUST-02223,Manufacturing,671
+CUST-02224,Manufacturing,614
+CUST-02225,Manufacturing,721
+CUST-02226,Construction,738
+CUST-02227,Healthcare,775
+CUST-02228,Construction,806
+CUST-02229,Healthcare,634
+CUST-02230,Healthcare,765
+CUST-02231,Logistics & Fleet,564
+CUST-02232,Manufacturing,727
+CUST-02233,IT & Enterprise Tech,755
+CUST-02234,IT & Enterprise Tech,610
+CUST-02235,Logistics & Fleet,750
+CUST-02236,Construction,640
+CUST-02237,IT & Enterprise Tech,684
+CUST-02238,Manufacturing,765
+CUST-02239,Manufacturing,689
+CUST-02240,Manufacturing,688
+CUST-02241,Logistics & Fleet,730
+CUST-02242,Manufacturing,761
+CUST-02243,Construction,709
+CUST-02244,IT & Enterprise Tech,812
+CUST-02245,IT & Enterprise Tech,688
+CUST-02246,Construction,790
+CUST-02247,Manufacturing,744
+CUST-02248,Logistics & Fleet,753
+CUST-02249,Construction,634
+CUST-02250,Manufacturing,789
+CUST-02251,Manufacturing,717
+CUST-02252,IT & Enterprise Tech,850
+CUST-02253,Logistics & Fleet,726
+CUST-02254,Logistics & Fleet,708
+CUST-02255,IT & Enterprise Tech,676
+CUST-02256,Construction,710
+CUST-02257,Construction,801
+CUST-02258,Healthcare,760
+CUST-02259,Healthcare,729
+CUST-02260,Healthcare,765
+CUST-02261,Logistics & Fleet,681
+CUST-02262,Construction,676
+CUST-02263,IT & Enterprise Tech,669
+CUST-02264,Healthcare,774
+CUST-02265,Construction,780
+CUST-02266,Construction,658
+CUST-02267,Construction,666
+CUST-02268,Logistics & Fleet,701
+CUST-02269,Manufacturing,643
+CUST-02270,Construction,725
+CUST-02271,Manufacturing,803
+CUST-02272,Healthcare,733
+CUST-02273,Construction,776
+CUST-02274,Logistics & Fleet,624
+CUST-02275,IT & Enterprise Tech,677
+CUST-02276,Construction,586
+CUST-02277,Logistics & Fleet,705
+CUST-02278,Construction,850
+CUST-02279,Construction,825
+CUST-02280,Manufacturing,735
+CUST-02281,Healthcare,715
+CUST-02282,Healthcare,741
+CUST-02283,Construction,633
+CUST-02284,Manufacturing,725
+CUST-02285,Manufacturing,570
+CUST-02286,Healthcare,550
+CUST-02287,IT & Enterprise Tech,687
+CUST-02288,Healthcare,850
+CUST-02289,Construction,818
+CUST-02290,Manufacturing,784
+CUST-02291,Construction,711
+CUST-02292,Healthcare,811
+CUST-02293,Manufacturing,676
+CUST-02294,Construction,633
+CUST-02295,Manufacturing,672
+CUST-02296,Manufacturing,605
+CUST-02297,Manufacturing,850
+CUST-02298,Manufacturing,745
+CUST-02299,Manufacturing,653
+CUST-02300,Healthcare,704
+CUST-02301,Logistics & Fleet,702
+CUST-02302,Construction,803
+CUST-02303,Construction,850
+CUST-02304,Healthcare,780
+CUST-02305,IT & Enterprise Tech,758
+CUST-02306,Healthcare,730
+CUST-02307,Manufacturing,717
+CUST-02308,Construction,715
+CUST-02309,Manufacturing,717
+CUST-02310,Healthcare,697
+CUST-02311,Construction,680
+CUST-02312,IT & Enterprise Tech,641
+CUST-02313,Construction,694
+CUST-02314,Logistics & Fleet,624
+CUST-02315,IT & Enterprise Tech,673
+CUST-02316,Manufacturing,702
+CUST-02317,Healthcare,726
+CUST-02318,Healthcare,725
+CUST-02319,Healthcare,742
+CUST-02320,Healthcare,736
+CUST-02321,IT & Enterprise Tech,826
+CUST-02322,Logistics & Fleet,817
+CUST-02323,Construction,685
+CUST-02324,Healthcare,769
+CUST-02325,Logistics & Fleet,698
+CUST-02326,IT & Enterprise Tech,601
+CUST-02327,Logistics & Fleet,753
+CUST-02328,Manufacturing,675
+CUST-02329,Construction,665
+CUST-02330,Manufacturing,672
+CUST-02331,Healthcare,660
+CUST-02332,Manufacturing,829
+CUST-02333,Construction,631
+CUST-02334,Logistics & Fleet,700
+CUST-02335,Manufacturing,600
+CUST-02336,Healthcare,662
+CUST-02337,Construction,624
+CUST-02338,Healthcare,743
+CUST-02339,Manufacturing,610
+CUST-02340,Healthcare,803
+CUST-02341,Logistics & Fleet,624
+CUST-02342,Manufacturing,642
+CUST-02343,Manufacturing,753
+CUST-02344,Healthcare,832
+CUST-02345,IT & Enterprise Tech,681
+CUST-02346,Logistics & Fleet,748
+CUST-02347,Logistics & Fleet,642
+CUST-02348,Healthcare,676
+CUST-02349,Construction,702
+CUST-02350,Manufacturing,656
+CUST-02351,Construction,784
+CUST-02352,IT & Enterprise Tech,762
+CUST-02353,Construction,675
+CUST-02354,IT & Enterprise Tech,550
+CUST-02355,Logistics & Fleet,662
+CUST-02356,Manufacturing,791
+CUST-02357,IT & Enterprise Tech,701
+CUST-02358,Manufacturing,776
+CUST-02359,Construction,817
+CUST-02360,Manufacturing,749
+CUST-02361,Manufacturing,783
+CUST-02362,Healthcare,673
+CUST-02363,Healthcare,785
+CUST-02364,Construction,696
+CUST-02365,Construction,660
+CUST-02366,Manufacturing,847
+CUST-02367,Manufacturing,708
+CUST-02368,Construction,663
+CUST-02369,Healthcare,737
+CUST-02370,Logistics & Fleet,639
+CUST-02371,Logistics & Fleet,628
+CUST-02372,Logistics & Fleet,696
+CUST-02373,Logistics & Fleet,616
+CUST-02374,Healthcare,679
+CUST-02375,Logistics & Fleet,624
+CUST-02376,Healthcare,773
+CUST-02377,Healthcare,819
+CUST-02378,Logistics & Fleet,619
+CUST-02379,Healthcare,848
+CUST-02380,Logistics & Fleet,759
+CUST-02381,Logistics & Fleet,725
+CUST-02382,IT & Enterprise Tech,611
+CUST-02383,IT & Enterprise Tech,603
+CUST-02384,Healthcare,707
+CUST-02385,Healthcare,698
+CUST-02386,Construction,690
+CUST-02387,Healthcare,713
+CUST-02388,Construction,663
+CUST-02389,Logistics & Fleet,695
+CUST-02390,Logistics & Fleet,709
+CUST-02391,Healthcare,850
+CUST-02392,Manufacturing,562
+CUST-02393,Healthcare,734
+CUST-02394,Manufacturing,715
+CUST-02395,IT & Enterprise Tech,711
+CUST-02396,Healthcare,733
+CUST-02397,Manufacturing,838
+CUST-02398,Manufacturing,732
+CUST-02399,Construction,612
+CUST-02400,Construction,733
+CUST-02401,Healthcare,699
+CUST-02402,Manufacturing,669
+CUST-02403,Healthcare,722
+CUST-02404,Healthcare,702
+CUST-02405,Logistics & Fleet,695
+CUST-02406,Construction,703
+CUST-02407,Healthcare,633
+CUST-02408,Manufacturing,756
+CUST-02409,IT & Enterprise Tech,701
+CUST-02410,Construction,727
+CUST-02411,Logistics & Fleet,653
+CUST-02412,Manufacturing,637
+CUST-02413,Construction,685
+CUST-02414,Manufacturing,708
+CUST-02415,Construction,683
+CUST-02416,IT & Enterprise Tech,715
+CUST-02417,Healthcare,570
+CUST-02418,Manufacturing,840
+CUST-02419,Manufacturing,660
+CUST-02420,Healthcare,634
+CUST-02421,Manufacturing,784
+CUST-02422,Manufacturing,634
+CUST-02423,Logistics & Fleet,723
+CUST-02424,Construction,634
+CUST-02425,Healthcare,690
+CUST-02426,IT & Enterprise Tech,691
+CUST-02427,Manufacturing,661
+CUST-02428,IT & Enterprise Tech,766
+CUST-02429,Healthcare,802
+CUST-02430,IT & Enterprise Tech,660
+CUST-02431,Construction,718
+CUST-02432,Logistics & Fleet,624
+CUST-02433,IT & Enterprise Tech,716
+CUST-02434,Healthcare,763
+CUST-02435,IT & Enterprise Tech,717
+CUST-02436,Healthcare,673
+CUST-02437,Healthcare,693
+CUST-02438,Healthcare,678
+CUST-02439,Construction,696
+CUST-02440,Manufacturing,667
+CUST-02441,Construction,721
+CUST-02442,Construction,632
+CUST-02443,Logistics & Fleet,550
+CUST-02444,Logistics & Fleet,779
+CUST-02445,Healthcare,706
+CUST-02446,Healthcare,717
+CUST-02447,Healthcare,661
+CUST-02448,Manufacturing,682
+CUST-02449,Manufacturing,640
+CUST-02450,Healthcare,786
+CUST-02451,Healthcare,677
+CUST-02452,IT & Enterprise Tech,609
+CUST-02453,Construction,753
+CUST-02454,Healthcare,783
+CUST-02455,Construction,698
+CUST-02456,Manufacturing,808
+CUST-02457,Healthcare,729
+CUST-02458,Construction,701
+CUST-02459,Construction,704
+CUST-02460,Healthcare,742
+CUST-02461,IT & Enterprise Tech,780
+CUST-02462,IT & Enterprise Tech,743
+CUST-02463,Construction,726
+CUST-02464,Construction,714
+CUST-02465,Construction,755
+CUST-02466,Manufacturing,668
+CUST-02467,Healthcare,611
+CUST-02468,Manufacturing,722
+CUST-02469,Construction,644
+CUST-02470,Construction,612
+CUST-02471,Manufacturing,815
+CUST-02472,IT & Enterprise Tech,550
+CUST-02473,IT & Enterprise Tech,750
+CUST-02474,Logistics & Fleet,640
+CUST-02475,Construction,657
+CUST-02476,IT & Enterprise Tech,738
+CUST-02477,Manufacturing,850
+CUST-02478,Logistics & Fleet,755
+CUST-02479,Manufacturing,643
+CUST-02480,Logistics & Fleet,707
+CUST-02481,Healthcare,691
+CUST-02482,IT & Enterprise Tech,575
+CUST-02483,IT & Enterprise Tech,713
+CUST-02484,Manufacturing,666
+CUST-02485,Construction,758
+CUST-02486,IT & Enterprise Tech,689
+CUST-02487,Construction,810
+CUST-02488,IT & Enterprise Tech,732
+CUST-02489,Construction,723
+CUST-02490,Healthcare,837
+CUST-02491,Healthcare,729
+CUST-02492,Manufacturing,816
+CUST-02493,Logistics & Fleet,636
+CUST-02494,Healthcare,578
+CUST-02495,Construction,724
+CUST-02496,Construction,788
+CUST-02497,Construction,635
+CUST-02498,IT & Enterprise Tech,681
+CUST-02499,IT & Enterprise Tech,601
+CUST-02500,Healthcare,707
+CUST-02501,Logistics & Fleet,709
+CUST-02502,Logistics & Fleet,749
+CUST-02503,Construction,677
+CUST-02504,IT & Enterprise Tech,692
+CUST-02505,Manufacturing,750
+CUST-02506,Manufacturing,724
+CUST-02507,IT & Enterprise Tech,736
+CUST-02508,Healthcare,765
+CUST-02509,Logistics & Fleet,757
+CUST-02510,IT & Enterprise Tech,847
+CUST-02511,Manufacturing,738
+CUST-02512,IT & Enterprise Tech,739
+CUST-02513,Healthcare,690
+CUST-02514,Construction,714
+CUST-02515,Construction,626
+CUST-02516,IT & Enterprise Tech,669
+CUST-02517,Manufacturing,783
+CUST-02518,Construction,609
+CUST-02519,Logistics & Fleet,800
+CUST-02520,Logistics & Fleet,690
+CUST-02521,Logistics & Fleet,650
+CUST-02522,Manufacturing,692
+CUST-02523,Healthcare,748
+CUST-02524,Healthcare,715
+CUST-02525,Logistics & Fleet,834
+CUST-02526,Healthcare,738
+CUST-02527,Manufacturing,743
+CUST-02528,IT & Enterprise Tech,745
+CUST-02529,Manufacturing,718
+CUST-02530,IT & Enterprise Tech,694
+CUST-02531,Logistics & Fleet,716
+CUST-02532,Logistics & Fleet,724
+CUST-02533,Healthcare,706
+CUST-02534,Manufacturing,791
+CUST-02535,Logistics & Fleet,784
+CUST-02536,Logistics & Fleet,633
+CUST-02537,Logistics & Fleet,772
+CUST-02538,Manufacturing,708
+CUST-02539,Logistics & Fleet,690
+CUST-02540,Logistics & Fleet,756
+CUST-02541,Logistics & Fleet,728
+CUST-02542,Logistics & Fleet,651
+CUST-02543,Logistics & Fleet,762
+CUST-02544,Construction,704
+CUST-02545,Manufacturing,761
+CUST-02546,Construction,709
+CUST-02547,Manufacturing,762
+CUST-02548,Healthcare,771
+CUST-02549,Healthcare,787
+CUST-02550,Manufacturing,670
+CUST-02551,Healthcare,828
+CUST-02552,Manufacturing,700
+CUST-02553,Logistics & Fleet,632
+CUST-02554,IT & Enterprise Tech,721
+CUST-02555,Manufacturing,698
+CUST-02556,IT & Enterprise Tech,672
+CUST-02557,Construction,713
+CUST-02558,Healthcare,758
+CUST-02559,Manufacturing,731
+CUST-02560,Construction,796
+CUST-02561,Logistics & Fleet,702
+CUST-02562,Logistics & Fleet,737
+CUST-02563,Manufacturing,726
+CUST-02564,Manufacturing,830
+CUST-02565,Healthcare,644
+CUST-02566,Healthcare,673
+CUST-02567,Manufacturing,845
+CUST-02568,Healthcare,695
+CUST-02569,Logistics & Fleet,607
+CUST-02570,IT & Enterprise Tech,839
+CUST-02571,Healthcare,646
+CUST-02572,IT & Enterprise Tech,716
+CUST-02573,Healthcare,780
+CUST-02574,Construction,768
+CUST-02575,Manufacturing,653
+CUST-02576,Construction,850
+CUST-02577,IT & Enterprise Tech,744
+CUST-02578,Construction,707
+CUST-02579,Healthcare,645
+CUST-02580,Construction,741
+CUST-02581,Manufacturing,807
+CUST-02582,IT & Enterprise Tech,691
+CUST-02583,Construction,596
+CUST-02584,Healthcare,664
+CUST-02585,Construction,688
+CUST-02586,Construction,610
+CUST-02587,Manufacturing,744
+CUST-02588,Logistics & Fleet,757
+CUST-02589,Manufacturing,663
+CUST-02590,Logistics & Fleet,764
+CUST-02591,Logistics & Fleet,650
+CUST-02592,Logistics & Fleet,623
+CUST-02593,Construction,641
+CUST-02594,Construction,656
+CUST-02595,Manufacturing,761
+CUST-02596,Logistics & Fleet,746
+CUST-02597,Healthcare,650
+CUST-02598,Construction,666
+CUST-02599,Healthcare,825
+CUST-02600,Manufacturing,763
+CUST-02601,Construction,618
+CUST-02602,Manufacturing,796
+CUST-02603,Logistics & Fleet,850
+CUST-02604,Healthcare,708
+CUST-02605,Manufacturing,690
+CUST-02606,Construction,682
+CUST-02607,Manufacturing,689
+CUST-02608,Healthcare,759
+CUST-02609,Logistics & Fleet,668
+CUST-02610,Manufacturing,759
+CUST-02611,Logistics & Fleet,710
+CUST-02612,Manufacturing,671
+CUST-02613,Manufacturing,733
+CUST-02614,Logistics & Fleet,695
+CUST-02615,Healthcare,668
+CUST-02616,Manufacturing,708
+CUST-02617,Healthcare,709
+CUST-02618,Healthcare,678
+CUST-02619,Logistics & Fleet,657
+CUST-02620,Healthcare,715
+CUST-02621,Logistics & Fleet,723
+CUST-02622,IT & Enterprise Tech,735
+CUST-02623,Healthcare,733
+CUST-02624,IT & Enterprise Tech,795
+CUST-02625,Healthcare,639
+CUST-02626,IT & Enterprise Tech,813
+CUST-02627,Manufacturing,623
+CUST-02628,Logistics & Fleet,791
+CUST-02629,Construction,742
+CUST-02630,Healthcare,676
+CUST-02631,Construction,552
+CUST-02632,Logistics & Fleet,612
+CUST-02633,Manufacturing,668
+CUST-02634,Manufacturing,738
+CUST-02635,Logistics & Fleet,675
+CUST-02636,Logistics & Fleet,707
+CUST-02637,IT & Enterprise Tech,681
+CUST-02638,Logistics & Fleet,720
+CUST-02639,IT & Enterprise Tech,620
+CUST-02640,Logistics & Fleet,692
+CUST-02641,Healthcare,744
+CUST-02642,Manufacturing,850
+CUST-02643,Logistics & Fleet,764
+CUST-02644,Construction,697
+CUST-02645,Manufacturing,668
+CUST-02646,Healthcare,739
+CUST-02647,IT & Enterprise Tech,655
+CUST-02648,Construction,719
+CUST-02649,Healthcare,730
+CUST-02650,Construction,697
+CUST-02651,Manufacturing,773
+CUST-02652,Healthcare,703
+CUST-02653,Healthcare,680
+CUST-02654,Manufacturing,676
+CUST-02655,Logistics & Fleet,626
+CUST-02656,Healthcare,617
+CUST-02657,Logistics & Fleet,748
+CUST-02658,IT & Enterprise Tech,806
+CUST-02659,Manufacturing,849
+CUST-02660,Logistics & Fleet,782
+CUST-02661,Construction,743
+CUST-02662,IT & Enterprise Tech,730
+CUST-02663,Manufacturing,795
+CUST-02664,Logistics & Fleet,686
+CUST-02665,Construction,827
+CUST-02666,Healthcare,707
+CUST-02667,Manufacturing,726
+CUST-02668,Logistics & Fleet,711
+CUST-02669,Logistics & Fleet,783
+CUST-02670,Healthcare,709
+CUST-02671,Construction,736
+CUST-02672,Healthcare,630
+CUST-02673,Logistics & Fleet,697
+CUST-02674,Manufacturing,778
+CUST-02675,IT & Enterprise Tech,655
+CUST-02676,Healthcare,708
+CUST-02677,Healthcare,707
+CUST-02678,Manufacturing,672
+CUST-02679,Manufacturing,776
+CUST-02680,Construction,742
+CUST-02681,Healthcare,768
+CUST-02682,Logistics & Fleet,778
+CUST-02683,Manufacturing,712
+CUST-02684,Healthcare,812
+CUST-02685,Healthcare,630
+CUST-02686,Manufacturing,700
+CUST-02687,Manufacturing,719
+CUST-02688,Healthcare,596
+CUST-02689,Construction,801
+CUST-02690,Healthcare,653
+CUST-02691,Construction,714
+CUST-02692,Construction,759
+CUST-02693,Manufacturing,850
+CUST-02694,Construction,601
+CUST-02695,IT & Enterprise Tech,748
+CUST-02696,Construction,692
+CUST-02697,Logistics & Fleet,752
+CUST-02698,Healthcare,770
+CUST-02699,Logistics & Fleet,737
+CUST-02700,Logistics & Fleet,715
+CUST-02701,Construction,641
+CUST-02702,IT & Enterprise Tech,645
+CUST-02703,Manufacturing,762
+CUST-02704,Manufacturing,654
+CUST-02705,Logistics & Fleet,737
+CUST-02706,Logistics & Fleet,794
+CUST-02707,Manufacturing,625
+CUST-02708,Healthcare,794
+CUST-02709,Manufacturing,792
+CUST-02710,Healthcare,732
+CUST-02711,Logistics & Fleet,670
+CUST-02712,Construction,744
+CUST-02713,Healthcare,698
+CUST-02714,Healthcare,663
+CUST-02715,Manufacturing,718
+CUST-02716,Healthcare,653
+CUST-02717,Construction,633
+CUST-02718,IT & Enterprise Tech,674
+CUST-02719,Logistics & Fleet,598
+CUST-02720,Manufacturing,787
+CUST-02721,IT & Enterprise Tech,743
+CUST-02722,Logistics & Fleet,654
+CUST-02723,Logistics & Fleet,676
+CUST-02724,Construction,759
+CUST-02725,Healthcare,792
+CUST-02726,Healthcare,716
+CUST-02727,Manufacturing,693
+CUST-02728,Manufacturing,603
+CUST-02729,Manufacturing,689
+CUST-02730,Construction,636
+CUST-02731,Logistics & Fleet,634
+CUST-02732,Construction,790
+CUST-02733,Manufacturing,702
+CUST-02734,IT & Enterprise Tech,719
+CUST-02735,IT & Enterprise Tech,736
+CUST-02736,Logistics & Fleet,698
+CUST-02737,IT & Enterprise Tech,714
+CUST-02738,Construction,711
+CUST-02739,IT & Enterprise Tech,682
+CUST-02740,Manufacturing,727
+CUST-02741,Healthcare,704
+CUST-02742,Manufacturing,715
+CUST-02743,Manufacturing,710
+CUST-02744,Manufacturing,837
+CUST-02745,Construction,774
+CUST-02746,Logistics & Fleet,760
+CUST-02747,Construction,740
+CUST-02748,Manufacturing,737
+CUST-02749,Logistics & Fleet,691
+CUST-02750,Construction,782
+CUST-02751,Healthcare,731
+CUST-02752,Logistics & Fleet,747
+CUST-02753,Healthcare,690
+CUST-02754,Healthcare,653
+CUST-02755,IT & Enterprise Tech,783
+CUST-02756,Healthcare,718
+CUST-02757,Construction,678
+CUST-02758,IT & Enterprise Tech,732
+CUST-02759,Logistics & Fleet,703
+CUST-02760,Manufacturing,810
+CUST-02761,Manufacturing,686
+CUST-02762,Manufacturing,739
+CUST-02763,Construction,780
+CUST-02764,Healthcare,752
+CUST-02765,Manufacturing,745
+CUST-02766,IT & Enterprise Tech,677
+CUST-02767,Construction,717
+CUST-02768,Manufacturing,739
+CUST-02769,Construction,721
+CUST-02770,Logistics & Fleet,806
+CUST-02771,Manufacturing,699
+CUST-02772,Healthcare,712
+CUST-02773,Logistics & Fleet,850
+CUST-02774,Construction,763
+CUST-02775,Construction,647
+CUST-02776,Healthcare,742
+CUST-02777,Manufacturing,761
+CUST-02778,Manufacturing,657
+CUST-02779,Healthcare,690
+CUST-02780,Manufacturing,632
+CUST-02781,Manufacturing,729
+CUST-02782,Logistics & Fleet,604
+CUST-02783,IT & Enterprise Tech,658
+CUST-02784,Logistics & Fleet,620
+CUST-02785,IT & Enterprise Tech,731
+CUST-02786,Manufacturing,687
+CUST-02787,IT & Enterprise Tech,735
+CUST-02788,Manufacturing,590
+CUST-02789,IT & Enterprise Tech,659
+CUST-02790,IT & Enterprise Tech,761
+CUST-02791,Logistics & Fleet,635
+CUST-02792,IT & Enterprise Tech,776
+CUST-02793,Construction,700
+CUST-02794,Healthcare,655
+CUST-02795,Healthcare,659
+CUST-02796,Construction,723
+CUST-02797,Manufacturing,850
+CUST-02798,Construction,850
+CUST-02799,IT & Enterprise Tech,623
+CUST-02800,Manufacturing,753
+CUST-02801,Logistics & Fleet,818
+CUST-02802,IT & Enterprise Tech,629
+CUST-02803,IT & Enterprise Tech,669
+CUST-02804,IT & Enterprise Tech,728
+CUST-02805,Construction,712
+CUST-02806,IT & Enterprise Tech,620
+CUST-02807,Logistics & Fleet,758
+CUST-02808,Manufacturing,738
+CUST-02809,Construction,771
+CUST-02810,Logistics & Fleet,744
+CUST-02811,Manufacturing,744
+CUST-02812,Construction,711
+CUST-02813,Logistics & Fleet,788
+CUST-02814,Manufacturing,623
+CUST-02815,Construction,638
+CUST-02816,Logistics & Fleet,781
+CUST-02817,Construction,691
+CUST-02818,Manufacturing,651
+CUST-02819,Manufacturing,764
+CUST-02820,Healthcare,753
+CUST-02821,IT & Enterprise Tech,580
+CUST-02822,Manufacturing,754
+CUST-02823,Construction,668
+CUST-02824,Manufacturing,741
+CUST-02825,Healthcare,704
+CUST-02826,Logistics & Fleet,749
+CUST-02827,Logistics & Fleet,709
+CUST-02828,Manufacturing,628
+CUST-02829,Healthcare,605
+CUST-02830,Manufacturing,622
+CUST-02831,Construction,637
+CUST-02832,Logistics & Fleet,738
+CUST-02833,Manufacturing,772
+CUST-02834,Healthcare,689
+CUST-02835,Healthcare,651
+CUST-02836,IT & Enterprise Tech,711
+CUST-02837,IT & Enterprise Tech,581
+CUST-02838,Manufacturing,750
+CUST-02839,Logistics & Fleet,705
+CUST-02840,Healthcare,714
+CUST-02841,Healthcare,675
+CUST-02842,Logistics & Fleet,669
+CUST-02843,IT & Enterprise Tech,602
+CUST-02844,IT & Enterprise Tech,766
+CUST-02845,Construction,628
+CUST-02846,Healthcare,663
+CUST-02847,Logistics & Fleet,648
+CUST-02848,Healthcare,764
+CUST-02849,Construction,672
+CUST-02850,Healthcare,772
+CUST-02851,Logistics & Fleet,747
+CUST-02852,Manufacturing,648
+CUST-02853,Manufacturing,703
+CUST-02854,IT & Enterprise Tech,599
+CUST-02855,Manufacturing,735
+CUST-02856,Construction,667
+CUST-02857,Manufacturing,641
+CUST-02858,Manufacturing,692
+CUST-02859,Manufacturing,679
+CUST-02860,Manufacturing,728
+CUST-02861,IT & Enterprise Tech,833
+CUST-02862,Healthcare,795
+CUST-02863,IT & Enterprise Tech,632
+CUST-02864,Construction,809
+CUST-02865,Healthcare,713
+CUST-02866,Construction,550
+CUST-02867,Construction,695
+CUST-02868,Logistics & Fleet,608
+CUST-02869,Healthcare,681
+CUST-02870,Healthcare,834
+CUST-02871,IT & Enterprise Tech,624
+CUST-02872,IT & Enterprise Tech,622
+CUST-02873,IT & Enterprise Tech,703
+CUST-02874,Healthcare,656
+CUST-02875,Logistics & Fleet,693
+CUST-02876,Construction,717
+CUST-02877,Construction,613
+CUST-02878,Manufacturing,724
+CUST-02879,Construction,660
+CUST-02880,Manufacturing,779
+CUST-02881,Healthcare,653
+CUST-02882,IT & Enterprise Tech,663
+CUST-02883,Manufacturing,649
+CUST-02884,Manufacturing,683
+CUST-02885,Manufacturing,616
+CUST-02886,IT & Enterprise Tech,743
+CUST-02887,Construction,675
+CUST-02888,Healthcare,762
+CUST-02889,Logistics & Fleet,713
+CUST-02890,Logistics & Fleet,821
+CUST-02891,Healthcare,693
+CUST-02892,Logistics & Fleet,686
+CUST-02893,Logistics & Fleet,748
+CUST-02894,Logistics & Fleet,575
+CUST-02895,Manufacturing,678
+CUST-02896,IT & Enterprise Tech,704
+CUST-02897,Construction,757
+CUST-02898,Healthcare,770
+CUST-02899,Healthcare,782
+CUST-02900,Manufacturing,690
+CUST-02901,Manufacturing,662
+CUST-02902,Logistics & Fleet,713
+CUST-02903,Manufacturing,692
+CUST-02904,Healthcare,601
+CUST-02905,Construction,720
+CUST-02906,Manufacturing,650
+CUST-02907,IT & Enterprise Tech,695
+CUST-02908,Manufacturing,691
+CUST-02909,Healthcare,849
+CUST-02910,Healthcare,768
+CUST-02911,Manufacturing,751
+CUST-02912,Manufacturing,773
+CUST-02913,Logistics & Fleet,687
+CUST-02914,IT & Enterprise Tech,629
+CUST-02915,Manufacturing,569
+CUST-02916,Logistics & Fleet,745
+CUST-02917,Logistics & Fleet,746
+CUST-02918,Logistics & Fleet,660
+CUST-02919,Healthcare,668
+CUST-02920,Healthcare,657
+CUST-02921,Healthcare,658
+CUST-02922,Logistics & Fleet,677
+CUST-02923,Logistics & Fleet,731
+CUST-02924,Manufacturing,779
+CUST-02925,Healthcare,708
+CUST-02926,IT & Enterprise Tech,792
+CUST-02927,Logistics & Fleet,850
+CUST-02928,IT & Enterprise Tech,735
+CUST-02929,Logistics & Fleet,705
+CUST-02930,Healthcare,558
+CUST-02931,Construction,749
+CUST-02932,Logistics & Fleet,714
+CUST-02933,Manufacturing,715
+CUST-02934,Construction,695
+CUST-02935,Logistics & Fleet,681
+CUST-02936,Manufacturing,645
+CUST-02937,Logistics & Fleet,762
+CUST-02938,Construction,550
+CUST-02939,IT & Enterprise Tech,738
+CUST-02940,Manufacturing,611
+CUST-02941,Healthcare,793
+CUST-02942,Construction,688
+CUST-02943,Healthcare,746
+CUST-02944,Logistics & Fleet,722
+CUST-02945,Logistics & Fleet,787
+CUST-02946,Manufacturing,829
+CUST-02947,Construction,785
+CUST-02948,Construction,750
+CUST-02949,Healthcare,691
+CUST-02950,IT & Enterprise Tech,741
+CUST-02951,Logistics & Fleet,776
+CUST-02952,Logistics & Fleet,684
+CUST-02953,Logistics & Fleet,714
+CUST-02954,Construction,660
+CUST-02955,IT & Enterprise Tech,766
+CUST-02956,Logistics & Fleet,742
+CUST-02957,Logistics & Fleet,627
+CUST-02958,IT & Enterprise Tech,731
+CUST-02959,Healthcare,697
+CUST-02960,Logistics & Fleet,718
+CUST-02961,Manufacturing,664
+CUST-02962,Healthcare,795
+CUST-02963,Healthcare,667
+CUST-02964,IT & Enterprise Tech,848
+CUST-02965,IT & Enterprise Tech,719
+CUST-02966,Logistics & Fleet,690
+CUST-02967,Logistics & Fleet,739
+CUST-02968,Construction,730
+CUST-02969,IT & Enterprise Tech,838
+CUST-02970,Construction,740
+CUST-02971,Healthcare,589
+CUST-02972,Manufacturing,668
+CUST-02973,Logistics & Fleet,762
+CUST-02974,Logistics & Fleet,698
+CUST-02975,Healthcare,677
+CUST-02976,Manufacturing,666
+CUST-02977,Logistics & Fleet,650
+CUST-02978,Manufacturing,726
+CUST-02979,Logistics & Fleet,666
+CUST-02980,IT & Enterprise Tech,797
+CUST-02981,Healthcare,656
+CUST-02982,Manufacturing,625
+CUST-02983,Logistics & Fleet,708
+CUST-02984,Logistics & Fleet,577
+CUST-02985,Construction,553
+CUST-02986,IT & Enterprise Tech,750
+CUST-02987,Manufacturing,713
+CUST-02988,Construction,574
+CUST-02989,Logistics & Fleet,715
+CUST-02990,IT & Enterprise Tech,691
+CUST-02991,Manufacturing,610
+CUST-02992,Logistics & Fleet,757
+CUST-02993,Construction,808
+CUST-02994,Healthcare,835
+CUST-02995,Manufacturing,731
+CUST-02996,IT & Enterprise Tech,711
+CUST-02997,Manufacturing,825
+CUST-02998,Healthcare,726
+CUST-02999,Healthcare,687
+CUST-03000,IT & Enterprise Tech,667
+CUST-03001,Logistics & Fleet,745
+CUST-03002,Logistics & Fleet,603
+CUST-03003,Healthcare,785
+CUST-03004,Construction,619
+CUST-03005,Construction,654
+CUST-03006,Logistics & Fleet,730
+CUST-03007,IT & Enterprise Tech,823
+CUST-03008,Manufacturing,692
+CUST-03009,Logistics & Fleet,641
+CUST-03010,Manufacturing,779
+CUST-03011,Construction,681
+CUST-03012,Healthcare,600
+CUST-03013,Healthcare,749
+CUST-03014,Healthcare,695
+CUST-03015,Construction,694
+CUST-03016,Healthcare,757
+CUST-03017,Logistics & Fleet,763
+CUST-03018,Healthcare,661
+CUST-03019,Manufacturing,717
+CUST-03020,Logistics & Fleet,608
+CUST-03021,Healthcare,693
+CUST-03022,Healthcare,652
+CUST-03023,Logistics & Fleet,696
+CUST-03024,Healthcare,683
+CUST-03025,Manufacturing,698
+CUST-03026,Healthcare,601
+CUST-03027,IT & Enterprise Tech,624
+CUST-03028,Construction,695
+CUST-03029,Logistics & Fleet,807
+CUST-03030,Construction,757
+CUST-03031,Manufacturing,738
+CUST-03032,Healthcare,671
+CUST-03033,Logistics & Fleet,648
+CUST-03034,Manufacturing,750
+CUST-03035,Healthcare,634
+CUST-03036,Healthcare,816
+CUST-03037,Healthcare,707
+CUST-03038,IT & Enterprise Tech,840
+CUST-03039,Manufacturing,820
+CUST-03040,Construction,737
+CUST-03041,Manufacturing,734
+CUST-03042,IT & Enterprise Tech,668
+CUST-03043,Manufacturing,795
+CUST-03044,Healthcare,685
+CUST-03045,Logistics & Fleet,600
+CUST-03046,Logistics & Fleet,785
+CUST-03047,Healthcare,745
+CUST-03048,Healthcare,676
+CUST-03049,Healthcare,727
+CUST-03050,Healthcare,712
+CUST-03051,Manufacturing,806
+CUST-03052,Construction,644
+CUST-03053,Healthcare,806
+CUST-03054,Healthcare,796
+CUST-03055,Logistics & Fleet,668
+CUST-03056,IT & Enterprise Tech,737
+CUST-03057,Construction,745
+CUST-03058,Manufacturing,850
+CUST-03059,Manufacturing,659
+CUST-03060,IT & Enterprise Tech,584
+CUST-03061,Healthcare,579
+CUST-03062,Manufacturing,723
+CUST-03063,Construction,776
+CUST-03064,Construction,652
+CUST-03065,Construction,697
+CUST-03066,Healthcare,681
+CUST-03067,Manufacturing,635
+CUST-03068,IT & Enterprise Tech,749
+CUST-03069,Healthcare,596
+CUST-03070,Logistics & Fleet,751
+CUST-03071,Logistics & Fleet,682
+CUST-03072,Construction,773
+CUST-03073,Healthcare,721
+CUST-03074,Healthcare,609
+CUST-03075,Construction,730
+CUST-03076,IT & Enterprise Tech,685
+CUST-03077,IT & Enterprise Tech,781
+CUST-03078,Manufacturing,757
+CUST-03079,Manufacturing,784
+CUST-03080,IT & Enterprise Tech,687
+CUST-03081,Logistics & Fleet,650
+CUST-03082,IT & Enterprise Tech,709
+CUST-03083,Manufacturing,757
+CUST-03084,Construction,647
+CUST-03085,Logistics & Fleet,730
+CUST-03086,Logistics & Fleet,734
+CUST-03087,Healthcare,799
+CUST-03088,Manufacturing,642
+CUST-03089,Construction,742
+CUST-03090,Healthcare,678
+CUST-03091,Construction,660
+CUST-03092,IT & Enterprise Tech,836
+CUST-03093,Healthcare,738
+CUST-03094,Logistics & Fleet,809
+CUST-03095,Manufacturing,661
+CUST-03096,Logistics & Fleet,818
+CUST-03097,IT & Enterprise Tech,683
+CUST-03098,Manufacturing,761
+CUST-03099,Manufacturing,648
+CUST-03100,Healthcare,640
+CUST-03101,Manufacturing,708
+CUST-03102,Logistics & Fleet,810
+CUST-03103,IT & Enterprise Tech,792
+CUST-03104,Healthcare,719
+CUST-03105,Healthcare,688
+CUST-03106,Healthcare,730
+CUST-03107,Logistics & Fleet,641
+CUST-03108,Manufacturing,719
+CUST-03109,Construction,713
+CUST-03110,Construction,713
+CUST-03111,Construction,740
+CUST-03112,Manufacturing,761
+CUST-03113,Logistics & Fleet,554
+CUST-03114,Manufacturing,655
+CUST-03115,Manufacturing,667
+CUST-03116,IT & Enterprise Tech,699
+CUST-03117,Logistics & Fleet,705
+CUST-03118,Manufacturing,751
+CUST-03119,Manufacturing,730
+CUST-03120,Manufacturing,787
+CUST-03121,Healthcare,690
+CUST-03122,Manufacturing,665
+CUST-03123,Manufacturing,700
+CUST-03124,Construction,711
+CUST-03125,Logistics & Fleet,716
+CUST-03126,Construction,693
+CUST-03127,Logistics & Fleet,780
+CUST-03128,Manufacturing,774
+CUST-03129,IT & Enterprise Tech,780
+CUST-03130,Logistics & Fleet,645
+CUST-03131,Logistics & Fleet,757
+CUST-03132,Logistics & Fleet,814
+CUST-03133,IT & Enterprise Tech,782
+CUST-03134,Construction,676
+CUST-03135,Manufacturing,688
+CUST-03136,Construction,607
+CUST-03137,Logistics & Fleet,793
+CUST-03138,Logistics & Fleet,646
+CUST-03139,Construction,678
+CUST-03140,Manufacturing,746
+CUST-03141,Healthcare,719
+CUST-03142,IT & Enterprise Tech,733
+CUST-03143,Construction,672
+CUST-03144,Construction,628
+CUST-03145,Healthcare,724
+CUST-03146,Healthcare,652
+CUST-03147,IT & Enterprise Tech,743
+CUST-03148,Logistics & Fleet,652
+CUST-03149,Logistics & Fleet,700
+CUST-03150,Construction,821
+CUST-03151,Construction,724
+CUST-03152,Manufacturing,658
+CUST-03153,Logistics & Fleet,742
+CUST-03154,Healthcare,700
+CUST-03155,Healthcare,658
+CUST-03156,Construction,711
+CUST-03157,IT & Enterprise Tech,790
+CUST-03158,Manufacturing,749
+CUST-03159,Logistics & Fleet,698
+CUST-03160,Healthcare,631
+CUST-03161,Healthcare,757
+CUST-03162,Manufacturing,741
+CUST-03163,Healthcare,604
+CUST-03164,Construction,613
+CUST-03165,Manufacturing,812
+CUST-03166,Construction,730
+CUST-03167,IT & Enterprise Tech,619
+CUST-03168,Manufacturing,783
+CUST-03169,Logistics & Fleet,789
+CUST-03170,Healthcare,663
+CUST-03171,Logistics & Fleet,650
+CUST-03172,Healthcare,715
+CUST-03173,Manufacturing,720
+CUST-03174,Manufacturing,699
+CUST-03175,Manufacturing,640
+CUST-03176,Manufacturing,687
+CUST-03177,Logistics & Fleet,682
+CUST-03178,IT & Enterprise Tech,613
+CUST-03179,Logistics & Fleet,774
+CUST-03180,Logistics & Fleet,641
+CUST-03181,Manufacturing,794
+CUST-03182,Healthcare,719
+CUST-03183,Healthcare,668
+CUST-03184,Manufacturing,735
+CUST-03185,Construction,701
+CUST-03186,Construction,796
+CUST-03187,Healthcare,847
+CUST-03188,Healthcare,735
+CUST-03189,Logistics & Fleet,698
+CUST-03190,Logistics & Fleet,814
+CUST-03191,Healthcare,696
+CUST-03192,IT & Enterprise Tech,675
+CUST-03193,IT & Enterprise Tech,789
+CUST-03194,Healthcare,764
+CUST-03195,Healthcare,676
+CUST-03196,Construction,730
+CUST-03197,IT & Enterprise Tech,687
+CUST-03198,IT & Enterprise Tech,749
+CUST-03199,Manufacturing,742
+CUST-03200,Healthcare,626
+CUST-03201,Construction,712
+CUST-03202,Construction,613
+CUST-03203,Manufacturing,617
+CUST-03204,IT & Enterprise Tech,677
+CUST-03205,Logistics & Fleet,671
+CUST-03206,Logistics & Fleet,598
+CUST-03207,IT & Enterprise Tech,632
+CUST-03208,Logistics & Fleet,609
+CUST-03209,Healthcare,661
+CUST-03210,Construction,744
+CUST-03211,Manufacturing,805
+CUST-03212,Logistics & Fleet,778
+CUST-03213,Manufacturing,738
+CUST-03214,Logistics & Fleet,734
+CUST-03215,Manufacturing,703
+CUST-03216,Manufacturing,703
+CUST-03217,Manufacturing,799
+CUST-03218,Manufacturing,750
+CUST-03219,Logistics & Fleet,722
+CUST-03220,Logistics & Fleet,595
+CUST-03221,Construction,757
+CUST-03222,Manufacturing,758
+CUST-03223,Manufacturing,669
+CUST-03224,Manufacturing,724
+CUST-03225,Manufacturing,701
+CUST-03226,IT & Enterprise Tech,675
+CUST-03227,Manufacturing,736
+CUST-03228,Healthcare,639
+CUST-03229,Manufacturing,842
+CUST-03230,Manufacturing,744
+CUST-03231,Construction,702
+CUST-03232,Construction,772
+CUST-03233,Manufacturing,760
+CUST-03234,Manufacturing,661
+CUST-03235,Healthcare,677
+CUST-03236,Manufacturing,561
+CUST-03237,Manufacturing,640
+CUST-03238,IT & Enterprise Tech,753
+CUST-03239,Construction,721
+CUST-03240,Construction,677
+CUST-03241,Healthcare,732
+CUST-03242,Healthcare,675
+CUST-03243,Construction,615
+CUST-03244,Logistics & Fleet,648
+CUST-03245,Logistics & Fleet,850
+CUST-03246,Manufacturing,700
+CUST-03247,Construction,703
+CUST-03248,Healthcare,744
+CUST-03249,IT & Enterprise Tech,773
+CUST-03250,Construction,695
+CUST-03251,Construction,782
+CUST-03252,Manufacturing,695
+CUST-03253,Construction,709
+CUST-03254,Manufacturing,678
+CUST-03255,Healthcare,759
+CUST-03256,Manufacturing,620
+CUST-03257,Logistics & Fleet,724
+CUST-03258,Manufacturing,748
+CUST-03259,Healthcare,776
+CUST-03260,IT & Enterprise Tech,745
+CUST-03261,Manufacturing,650
+CUST-03262,Construction,747
+CUST-03263,Healthcare,758
+CUST-03264,Manufacturing,752
+CUST-03265,Logistics & Fleet,694
+CUST-03266,Manufacturing,700
+CUST-03267,Construction,774
+CUST-03268,Construction,710
+CUST-03269,Construction,647
+CUST-03270,Logistics & Fleet,683
+CUST-03271,Healthcare,806
+CUST-03272,Manufacturing,622
+CUST-03273,Logistics & Fleet,794
+CUST-03274,Construction,711
+CUST-03275,Logistics & Fleet,623
+CUST-03276,Logistics & Fleet,761
+CUST-03277,Logistics & Fleet,663
+CUST-03278,Construction,716
+CUST-03279,Healthcare,590
+CUST-03280,Logistics & Fleet,797
+CUST-03281,Construction,690
+CUST-03282,Manufacturing,670
+CUST-03283,IT & Enterprise Tech,722
+CUST-03284,IT & Enterprise Tech,767
+CUST-03285,Construction,697
+CUST-03286,Manufacturing,765
+CUST-03287,Healthcare,708
+CUST-03288,Logistics & Fleet,715
+CUST-03289,IT & Enterprise Tech,657
+CUST-03290,Manufacturing,778
+CUST-03291,Manufacturing,753
+CUST-03292,IT & Enterprise Tech,745
+CUST-03293,Healthcare,779
+CUST-03294,Construction,641
+CUST-03295,IT & Enterprise Tech,714
+CUST-03296,Manufacturing,782
+CUST-03297,Construction,707
+CUST-03298,Manufacturing,719
+CUST-03299,Healthcare,717
+CUST-03300,Logistics & Fleet,740
+CUST-03301,Healthcare,584
+CUST-03302,IT & Enterprise Tech,717
+CUST-03303,Construction,735
+CUST-03304,Healthcare,735
+CUST-03305,Manufacturing,814
+CUST-03306,Healthcare,671
+CUST-03307,Healthcare,817
+CUST-03308,Manufacturing,686
+CUST-03309,Healthcare,622
+CUST-03310,Construction,807
+CUST-03311,Logistics & Fleet,778
+CUST-03312,Logistics & Fleet,718
+CUST-03313,Logistics & Fleet,671
+CUST-03314,Manufacturing,696
+CUST-03315,Manufacturing,726
+CUST-03316,Logistics & Fleet,800
+CUST-03317,Construction,624
+CUST-03318,Manufacturing,696
+CUST-03319,Logistics & Fleet,692
+CUST-03320,Logistics & Fleet,678
+CUST-03321,Construction,667
+CUST-03322,Manufacturing,814
+CUST-03323,Logistics & Fleet,657
+CUST-03324,Construction,718
+CUST-03325,Logistics & Fleet,633
+CUST-03326,Logistics & Fleet,766
+CUST-03327,Logistics & Fleet,677
+CUST-03328,Construction,566
+CUST-03329,Manufacturing,773
+CUST-03330,Logistics & Fleet,673
+CUST-03331,Construction,795
+CUST-03332,Logistics & Fleet,780
+CUST-03333,Manufacturing,702
+CUST-03334,Manufacturing,735
+CUST-03335,IT & Enterprise Tech,716
+CUST-03336,Logistics & Fleet,618
+CUST-03337,IT & Enterprise Tech,802
+CUST-03338,Logistics & Fleet,693
+CUST-03339,Construction,711
+CUST-03340,Logistics & Fleet,712
+CUST-03341,IT & Enterprise Tech,695
+CUST-03342,Construction,751
+CUST-03343,Construction,703
+CUST-03344,Manufacturing,676
+CUST-03345,Construction,683
+CUST-03346,Logistics & Fleet,818
+CUST-03347,Healthcare,713
+CUST-03348,Manufacturing,815
+CUST-03349,Healthcare,647
+CUST-03350,Manufacturing,668
+CUST-03351,Manufacturing,678
+CUST-03352,Healthcare,704
+CUST-03353,IT & Enterprise Tech,663
+CUST-03354,Construction,701
+CUST-03355,Manufacturing,723
+CUST-03356,Manufacturing,775
+CUST-03357,Logistics & Fleet,622
+CUST-03358,Healthcare,770
+CUST-03359,Logistics & Fleet,758
+CUST-03360,Logistics & Fleet,646
+CUST-03361,Logistics & Fleet,658
+CUST-03362,Healthcare,733
+CUST-03363,Logistics & Fleet,669
+CUST-03364,Healthcare,799
+CUST-03365,IT & Enterprise Tech,709
+CUST-03366,Construction,631
+CUST-03367,Healthcare,637
+CUST-03368,Healthcare,613
+CUST-03369,Manufacturing,703
+CUST-03370,Logistics & Fleet,706
+CUST-03371,Manufacturing,743
+CUST-03372,Construction,792
+CUST-03373,Healthcare,710
+CUST-03374,Logistics & Fleet,792
+CUST-03375,Logistics & Fleet,662
+CUST-03376,Logistics & Fleet,614
+CUST-03377,Logistics & Fleet,761
+CUST-03378,Manufacturing,757
+CUST-03379,Manufacturing,726
+CUST-03380,Logistics & Fleet,754
+CUST-03381,Healthcare,559
+CUST-03382,Healthcare,679
+CUST-03383,Manufacturing,782
+CUST-03384,Healthcare,693
+CUST-03385,Manufacturing,752
+CUST-03386,IT & Enterprise Tech,850
+CUST-03387,Manufacturing,776
+CUST-03388,Construction,686
+CUST-03389,Manufacturing,595
+CUST-03390,Logistics & Fleet,756
+CUST-03391,Healthcare,578
+CUST-03392,IT & Enterprise Tech,658
+CUST-03393,IT & Enterprise Tech,661
+CUST-03394,Healthcare,702
+CUST-03395,IT & Enterprise Tech,727
+CUST-03396,IT & Enterprise Tech,653
+CUST-03397,Logistics & Fleet,778
+CUST-03398,Logistics & Fleet,802
+CUST-03399,Manufacturing,694
+CUST-03400,Construction,779
+CUST-03401,Manufacturing,665
+CUST-03402,Manufacturing,642
+CUST-03403,IT & Enterprise Tech,780
+CUST-03404,Healthcare,727
+CUST-03405,Logistics & Fleet,735
+CUST-03406,Logistics & Fleet,829
+CUST-03407,IT & Enterprise Tech,753
+CUST-03408,IT & Enterprise Tech,850
+CUST-03409,Manufacturing,716
+CUST-03410,Manufacturing,808
+CUST-03411,Healthcare,706
+CUST-03412,Manufacturing,635
+CUST-03413,Manufacturing,764
+CUST-03414,Healthcare,707
+CUST-03415,Logistics & Fleet,844
+CUST-03416,Construction,746
+CUST-03417,Healthcare,771
+CUST-03418,Logistics & Fleet,608
+CUST-03419,Manufacturing,757
+CUST-03420,Manufacturing,705
+CUST-03421,Logistics & Fleet,659
+CUST-03422,Construction,801
+CUST-03423,Logistics & Fleet,625
+CUST-03424,Manufacturing,733
+CUST-03425,Logistics & Fleet,670
+CUST-03426,Construction,727
+CUST-03427,Construction,691
+CUST-03428,Construction,698
+CUST-03429,IT & Enterprise Tech,713
+CUST-03430,Construction,647
+CUST-03431,Construction,776
+CUST-03432,IT & Enterprise Tech,753
+CUST-03433,Logistics & Fleet,645
+CUST-03434,Healthcare,801
+CUST-03435,Logistics & Fleet,759
+CUST-03436,Healthcare,716
+CUST-03437,Manufacturing,617
+CUST-03438,Construction,668
+CUST-03439,IT & Enterprise Tech,587
+CUST-03440,IT & Enterprise Tech,721
+CUST-03441,Healthcare,765
+CUST-03442,Construction,662
+CUST-03443,Manufacturing,710
+CUST-03444,IT & Enterprise Tech,774
+CUST-03445,IT & Enterprise Tech,669
+CUST-03446,Construction,746
+CUST-03447,Logistics & Fleet,846
+CUST-03448,Logistics & Fleet,757
+CUST-03449,Construction,642
+CUST-03450,Manufacturing,708
+CUST-03451,Construction,757
+CUST-03452,Logistics & Fleet,742
+CUST-03453,Logistics & Fleet,640
+CUST-03454,Healthcare,738
+CUST-03455,IT & Enterprise Tech,696
+CUST-03456,Manufacturing,680
+CUST-03457,Construction,745
+CUST-03458,Logistics & Fleet,824
+CUST-03459,Logistics & Fleet,661
+CUST-03460,Construction,739
+CUST-03461,Healthcare,704
+CUST-03462,Manufacturing,749
+CUST-03463,Construction,716
+CUST-03464,Construction,672
+CUST-03465,Manufacturing,669
+CUST-03466,Logistics & Fleet,739
+CUST-03467,Construction,718
+CUST-03468,Logistics & Fleet,750
+CUST-03469,Logistics & Fleet,606
+CUST-03470,Manufacturing,781
+CUST-03471,Manufacturing,802
+CUST-03472,Logistics & Fleet,719
+CUST-03473,Construction,752
+CUST-03474,Logistics & Fleet,773
+CUST-03475,Logistics & Fleet,698
+CUST-03476,Logistics & Fleet,725
+CUST-03477,IT & Enterprise Tech,741
+CUST-03478,Construction,675
+CUST-03479,Construction,718
+CUST-03480,Healthcare,578
+CUST-03481,Manufacturing,669
+CUST-03482,Construction,805
+CUST-03483,Healthcare,735
+CUST-03484,IT & Enterprise Tech,658
+CUST-03485,Construction,629
+CUST-03486,Construction,850
+CUST-03487,Healthcare,664
+CUST-03488,Manufacturing,677
+CUST-03489,Manufacturing,748
+CUST-03490,Healthcare,655
+CUST-03491,Manufacturing,734
+CUST-03492,Construction,711
+CUST-03493,IT & Enterprise Tech,633
+CUST-03494,IT & Enterprise Tech,713
+CUST-03495,Logistics & Fleet,731
+CUST-03496,Manufacturing,641
+CUST-03497,IT & Enterprise Tech,743
+CUST-03498,IT & Enterprise Tech,755
+CUST-03499,Manufacturing,643
+CUST-03500,Logistics & Fleet,741
+CUST-03501,Healthcare,724
+CUST-03502,Logistics & Fleet,687
+CUST-03503,IT & Enterprise Tech,693
+CUST-03504,Manufacturing,735
+CUST-03505,IT & Enterprise Tech,671
+CUST-03506,Construction,747
+CUST-03507,IT & Enterprise Tech,657
+CUST-03508,Construction,662
+CUST-03509,Logistics & Fleet,626
+CUST-03510,Manufacturing,598
+CUST-03511,Healthcare,719
+CUST-03512,Manufacturing,582
+CUST-03513,IT & Enterprise Tech,731
+CUST-03514,Logistics & Fleet,704
+CUST-03515,IT & Enterprise Tech,832
+CUST-03516,IT & Enterprise Tech,749
+CUST-03517,Manufacturing,743
+CUST-03518,Healthcare,666
+CUST-03519,Manufacturing,673
+CUST-03520,Manufacturing,682
+CUST-03521,Manufacturing,707
+CUST-03522,Construction,672
+CUST-03523,Healthcare,747
+CUST-03524,Manufacturing,684
+CUST-03525,Manufacturing,782
+CUST-03526,Manufacturing,656
+CUST-03527,IT & Enterprise Tech,758
+CUST-03528,Logistics & Fleet,835
+CUST-03529,IT & Enterprise Tech,824
+CUST-03530,Healthcare,654
+CUST-03531,Healthcare,784
+CUST-03532,Logistics & Fleet,565
+CUST-03533,Healthcare,608
+CUST-03534,Healthcare,749
+CUST-03535,Manufacturing,738
+CUST-03536,Manufacturing,749
+CUST-03537,Healthcare,678
+CUST-03538,Healthcare,637
+CUST-03539,Logistics & Fleet,592
+CUST-03540,Manufacturing,654
+CUST-03541,Manufacturing,752
+CUST-03542,Logistics & Fleet,765
+CUST-03543,Manufacturing,729
+CUST-03544,Healthcare,722
+CUST-03545,IT & Enterprise Tech,820
+CUST-03546,Manufacturing,801
+CUST-03547,Manufacturing,771
+CUST-03548,Construction,785
+CUST-03549,Healthcare,732
+CUST-03550,Construction,741
+CUST-03551,Logistics & Fleet,659
+CUST-03552,Manufacturing,734
+CUST-03553,Construction,668
+CUST-03554,Construction,790
+CUST-03555,Manufacturing,750
+CUST-03556,Construction,682
+CUST-03557,Healthcare,755
+CUST-03558,Construction,782
+CUST-03559,Manufacturing,653
+CUST-03560,Construction,693
+CUST-03561,Healthcare,646
+CUST-03562,Logistics & Fleet,707
+CUST-03563,Manufacturing,796
+CUST-03564,Healthcare,710
+CUST-03565,Construction,747
+CUST-03566,Logistics & Fleet,674
+CUST-03567,Construction,765
+CUST-03568,Logistics & Fleet,705
+CUST-03569,Logistics & Fleet,759
+CUST-03570,IT & Enterprise Tech,766
+CUST-03571,Healthcare,641
+CUST-03572,Construction,665
+CUST-03573,Logistics & Fleet,683
+CUST-03574,IT & Enterprise Tech,825
+CUST-03575,IT & Enterprise Tech,798
+CUST-03576,Healthcare,716
+CUST-03577,Manufacturing,850
+CUST-03578,Construction,624
+CUST-03579,Logistics & Fleet,694
+CUST-03580,Construction,786
+CUST-03581,Construction,712
+CUST-03582,Logistics & Fleet,654
+CUST-03583,Healthcare,735
+CUST-03584,IT & Enterprise Tech,850
+CUST-03585,Healthcare,655
+CUST-03586,Healthcare,662
+CUST-03587,Construction,640
+CUST-03588,Logistics & Fleet,682
+CUST-03589,Manufacturing,780
+CUST-03590,Manufacturing,811
+CUST-03591,IT & Enterprise Tech,627
+CUST-03592,Manufacturing,749
+CUST-03593,Construction,760
+CUST-03594,Construction,665
+CUST-03595,Construction,758
+CUST-03596,Construction,734
+CUST-03597,Manufacturing,780
+CUST-03598,Construction,565
+CUST-03599,Healthcare,728
+CUST-03600,Logistics & Fleet,762
+CUST-03601,Manufacturing,778
+CUST-03602,Construction,762
+CUST-03603,Manufacturing,631
+CUST-03604,Healthcare,802
+CUST-03605,Manufacturing,758
+CUST-03606,Manufacturing,711
+CUST-03607,Logistics & Fleet,712
+CUST-03608,Healthcare,824
+CUST-03609,IT & Enterprise Tech,756
+CUST-03610,IT & Enterprise Tech,720
+CUST-03611,Construction,654
+CUST-03612,Manufacturing,695
+CUST-03613,Healthcare,654
+CUST-03614,Logistics & Fleet,596
+CUST-03615,Healthcare,724
+CUST-03616,Manufacturing,596
+CUST-03617,Construction,669
+CUST-03618,Logistics & Fleet,689
+CUST-03619,Logistics & Fleet,615
+CUST-03620,Manufacturing,776
+CUST-03621,Logistics & Fleet,702
+CUST-03622,Manufacturing,560
+CUST-03623,Manufacturing,764
+CUST-03624,IT & Enterprise Tech,825
+CUST-03625,Manufacturing,721
+CUST-03626,Healthcare,750
+CUST-03627,Manufacturing,731
+CUST-03628,IT & Enterprise Tech,747
+CUST-03629,Logistics & Fleet,674
+CUST-03630,Construction,661
+CUST-03631,Logistics & Fleet,641
+CUST-03632,Manufacturing,717
+CUST-03633,Construction,751
+CUST-03634,Healthcare,751
+CUST-03635,Manufacturing,682
+CUST-03636,Construction,697
+CUST-03637,IT & Enterprise Tech,697
+CUST-03638,Manufacturing,677
+CUST-03639,Healthcare,584
+CUST-03640,Manufacturing,697
+CUST-03641,Manufacturing,690
+CUST-03642,IT & Enterprise Tech,706
+CUST-03643,Construction,675
+CUST-03644,Construction,728
+CUST-03645,Logistics & Fleet,850
+CUST-03646,Manufacturing,760
+CUST-03647,Construction,679
+CUST-03648,Healthcare,695
+CUST-03649,Construction,702
+CUST-03650,IT & Enterprise Tech,717
+CUST-03651,Logistics & Fleet,709
+CUST-03652,Healthcare,680
+CUST-03653,Logistics & Fleet,677
+CUST-03654,Manufacturing,751
+CUST-03655,Manufacturing,692
+CUST-03656,Manufacturing,747
+CUST-03657,Healthcare,695
+CUST-03658,Construction,592
+CUST-03659,Construction,641
+CUST-03660,IT & Enterprise Tech,605
+CUST-03661,Construction,723
+CUST-03662,Construction,599
+CUST-03663,Manufacturing,677
+CUST-03664,Manufacturing,686
+CUST-03665,Construction,693
+CUST-03666,Healthcare,767
+CUST-03667,Logistics & Fleet,778
+CUST-03668,Manufacturing,661
+CUST-03669,Manufacturing,708
+CUST-03670,Healthcare,682
+CUST-03671,Manufacturing,737
+CUST-03672,Manufacturing,704
+CUST-03673,Logistics & Fleet,739
+CUST-03674,Manufacturing,636
+CUST-03675,Construction,724
+CUST-03676,Healthcare,618
+CUST-03677,Manufacturing,659
+CUST-03678,Healthcare,716
+CUST-03679,Logistics & Fleet,583
+CUST-03680,Healthcare,567
+CUST-03681,Logistics & Fleet,634
+CUST-03682,Manufacturing,648
+CUST-03683,Logistics & Fleet,655
+CUST-03684,Manufacturing,675
+CUST-03685,Logistics & Fleet,729
+CUST-03686,Construction,837
+CUST-03687,IT & Enterprise Tech,669
+CUST-03688,Healthcare,734
+CUST-03689,Manufacturing,790
+CUST-03690,Manufacturing,779
+CUST-03691,Logistics & Fleet,658
+CUST-03692,Construction,766
+CUST-03693,Logistics & Fleet,793
+CUST-03694,Manufacturing,809
+CUST-03695,Healthcare,811
+CUST-03696,Manufacturing,638
+CUST-03697,IT & Enterprise Tech,725
+CUST-03698,Logistics & Fleet,665
+CUST-03699,IT & Enterprise Tech,625
+CUST-03700,Healthcare,741
+CUST-03701,Construction,723
+CUST-03702,Logistics & Fleet,721
+CUST-03703,Healthcare,679
+CUST-03704,Logistics & Fleet,850
+CUST-03705,IT & Enterprise Tech,808
+CUST-03706,IT & Enterprise Tech,682
+CUST-03707,Logistics & Fleet,708
+CUST-03708,Healthcare,742
+CUST-03709,Healthcare,776
+CUST-03710,IT & Enterprise Tech,741
+CUST-03711,Manufacturing,717
+CUST-03712,Logistics & Fleet,617
+CUST-03713,Logistics & Fleet,837
+CUST-03714,Construction,668
+CUST-03715,IT & Enterprise Tech,778
+CUST-03716,Healthcare,712
+CUST-03717,Healthcare,791
+CUST-03718,Manufacturing,625
+CUST-03719,Healthcare,668
+CUST-03720,Healthcare,700
+CUST-03721,Healthcare,650
+CUST-03722,Logistics & Fleet,675
+CUST-03723,IT & Enterprise Tech,793
+CUST-03724,Manufacturing,745
+CUST-03725,Healthcare,804
+CUST-03726,IT & Enterprise Tech,714
+CUST-03727,Manufacturing,699
+CUST-03728,Manufacturing,624
+CUST-03729,Manufacturing,778
+CUST-03730,Construction,699
+CUST-03731,Manufacturing,722
+CUST-03732,IT & Enterprise Tech,673
+CUST-03733,Healthcare,850
+CUST-03734,Construction,717
+CUST-03735,Manufacturing,663
+CUST-03736,Construction,634
+CUST-03737,Logistics & Fleet,744
+CUST-03738,Logistics & Fleet,661
+CUST-03739,Logistics & Fleet,680
+CUST-03740,Construction,610
+CUST-03741,IT & Enterprise Tech,714
+CUST-03742,Logistics & Fleet,713
+CUST-03743,Logistics & Fleet,830
+CUST-03744,Manufacturing,675
+CUST-03745,Manufacturing,567
+CUST-03746,Manufacturing,695
+CUST-03747,Logistics & Fleet,794
+CUST-03748,Healthcare,749
+CUST-03749,Healthcare,780
+CUST-03750,IT & Enterprise Tech,739
+CUST-03751,IT & Enterprise Tech,681
+CUST-03752,IT & Enterprise Tech,636
+CUST-03753,Healthcare,646
+CUST-03754,Logistics & Fleet,670
+CUST-03755,Healthcare,751
+CUST-03756,Manufacturing,704
+CUST-03757,Manufacturing,593
+CUST-03758,Healthcare,730
+CUST-03759,Healthcare,789
+CUST-03760,Logistics & Fleet,607
+CUST-03761,Manufacturing,745
+CUST-03762,Logistics & Fleet,572
+CUST-03763,Construction,653
+CUST-03764,Healthcare,626
+CUST-03765,Construction,754
+CUST-03766,Healthcare,818
+CUST-03767,Construction,779
+CUST-03768,Healthcare,776
+CUST-03769,Manufacturing,649
+CUST-03770,Manufacturing,747
+CUST-03771,Construction,725
+CUST-03772,IT & Enterprise Tech,633
+CUST-03773,Healthcare,779
+CUST-03774,Logistics & Fleet,738
+CUST-03775,Logistics & Fleet,695
+CUST-03776,IT & Enterprise Tech,763
+CUST-03777,Logistics & Fleet,719
+CUST-03778,Construction,788
+CUST-03779,Logistics & Fleet,832
+CUST-03780,IT & Enterprise Tech,691
+CUST-03781,Healthcare,691
+CUST-03782,Healthcare,678
+CUST-03783,Manufacturing,711
+CUST-03784,Logistics & Fleet,797
+CUST-03785,Logistics & Fleet,641
+CUST-03786,Manufacturing,620
+CUST-03787,Construction,725
+CUST-03788,Construction,707
+CUST-03789,Manufacturing,722
+CUST-03790,IT & Enterprise Tech,582
+CUST-03791,Manufacturing,810
+CUST-03792,Manufacturing,723
+CUST-03793,Construction,850
+CUST-03794,Logistics & Fleet,736
+CUST-03795,Manufacturing,683
+CUST-03796,Logistics & Fleet,726
+CUST-03797,Construction,806
+CUST-03798,Manufacturing,663
+CUST-03799,Manufacturing,747
+CUST-03800,Construction,738
+CUST-03801,Healthcare,748
+CUST-03802,IT & Enterprise Tech,650
+CUST-03803,Logistics & Fleet,751
+CUST-03804,IT & Enterprise Tech,746
+CUST-03805,Healthcare,811
+CUST-03806,IT & Enterprise Tech,825
+CUST-03807,Healthcare,734
+CUST-03808,Healthcare,724
+CUST-03809,Manufacturing,647
+CUST-03810,Manufacturing,697
+CUST-03811,Logistics & Fleet,680
+CUST-03812,Construction,773
+CUST-03813,Manufacturing,729
+CUST-03814,Construction,646
+CUST-03815,Healthcare,655
+CUST-03816,Construction,850
+CUST-03817,Healthcare,682
+CUST-03818,Logistics & Fleet,754
+CUST-03819,Logistics & Fleet,711
+CUST-03820,Construction,693
+CUST-03821,Healthcare,786
+CUST-03822,Healthcare,680
+CUST-03823,Logistics & Fleet,690
+CUST-03824,Healthcare,799
+CUST-03825,Manufacturing,684
+CUST-03826,Manufacturing,618
+CUST-03827,Construction,636
+CUST-03828,Construction,743
+CUST-03829,Logistics & Fleet,664
+CUST-03830,Manufacturing,783
+CUST-03831,Healthcare,711
+CUST-03832,Logistics & Fleet,759
+CUST-03833,Logistics & Fleet,732
+CUST-03834,Healthcare,778
+CUST-03835,Construction,832
+CUST-03836,Healthcare,746
+CUST-03837,IT & Enterprise Tech,743
+CUST-03838,Manufacturing,782
+CUST-03839,IT & Enterprise Tech,673
+CUST-03840,Logistics & Fleet,745
+CUST-03841,Construction,650
+CUST-03842,Manufacturing,660
+CUST-03843,Construction,679
+CUST-03844,Healthcare,792
+CUST-03845,Manufacturing,700
+CUST-03846,Logistics & Fleet,659
+CUST-03847,IT & Enterprise Tech,759
+CUST-03848,Construction,602
+CUST-03849,Logistics & Fleet,588
+CUST-03850,Manufacturing,693
+CUST-03851,Healthcare,692
+CUST-03852,Manufacturing,777
+CUST-03853,Construction,788
+CUST-03854,IT & Enterprise Tech,703
+CUST-03855,Logistics & Fleet,696
+CUST-03856,Manufacturing,659
+CUST-03857,Healthcare,702
+CUST-03858,Construction,550
+CUST-03859,Healthcare,680
+CUST-03860,Logistics & Fleet,704
+CUST-03861,Logistics & Fleet,658
+CUST-03862,Construction,668
+CUST-03863,Healthcare,690
+CUST-03864,Healthcare,709
+CUST-03865,Manufacturing,766
+CUST-03866,Healthcare,737
+CUST-03867,Healthcare,767
+CUST-03868,Logistics & Fleet,747
+CUST-03869,Logistics & Fleet,717
+CUST-03870,Manufacturing,850
+CUST-03871,Healthcare,663
+CUST-03872,Manufacturing,650
+CUST-03873,Manufacturing,700
+CUST-03874,Logistics & Fleet,706
+CUST-03875,Manufacturing,718
+CUST-03876,Healthcare,647
+CUST-03877,Manufacturing,837
+CUST-03878,IT & Enterprise Tech,687
+CUST-03879,Construction,647
+CUST-03880,Manufacturing,727
+CUST-03881,Construction,781
+CUST-03882,Logistics & Fleet,814
+CUST-03883,IT & Enterprise Tech,554
+CUST-03884,Manufacturing,759
+CUST-03885,IT & Enterprise Tech,824
+CUST-03886,IT & Enterprise Tech,671
+CUST-03887,IT & Enterprise Tech,694
+CUST-03888,Construction,648
+CUST-03889,Construction,673
+CUST-03890,Healthcare,640
+CUST-03891,Logistics & Fleet,770
+CUST-03892,Construction,703
+CUST-03893,Logistics & Fleet,550
+CUST-03894,Healthcare,670
+CUST-03895,Logistics & Fleet,665
+CUST-03896,Logistics & Fleet,765
+CUST-03897,Manufacturing,705
+CUST-03898,Logistics & Fleet,703
+CUST-03899,Construction,751
+CUST-03900,Logistics & Fleet,778
+CUST-03901,Healthcare,727
+CUST-03902,Healthcare,667
+CUST-03903,IT & Enterprise Tech,612
+CUST-03904,Healthcare,804
+CUST-03905,Logistics & Fleet,850
+CUST-03906,Construction,718
+CUST-03907,Construction,730
+CUST-03908,Healthcare,807
+CUST-03909,Construction,598
+CUST-03910,Healthcare,772
+CUST-03911,Manufacturing,734
+CUST-03912,Healthcare,660
+CUST-03913,Manufacturing,676
+CUST-03914,IT & Enterprise Tech,624
+CUST-03915,IT & Enterprise Tech,783
+CUST-03916,Healthcare,642
+CUST-03917,Logistics & Fleet,736
+CUST-03918,Healthcare,604
+CUST-03919,Logistics & Fleet,800
+CUST-03920,Logistics & Fleet,696
+CUST-03921,IT & Enterprise Tech,779
+CUST-03922,Healthcare,696
+CUST-03923,Logistics & Fleet,670
+CUST-03924,Healthcare,622
+CUST-03925,IT & Enterprise Tech,778
+CUST-03926,Manufacturing,686
+CUST-03927,Construction,729
+CUST-03928,Logistics & Fleet,663
+CUST-03929,Logistics & Fleet,708
+CUST-03930,Manufacturing,723
+CUST-03931,IT & Enterprise Tech,595
+CUST-03932,Manufacturing,665
+CUST-03933,Construction,812
+CUST-03934,Manufacturing,656
+CUST-03935,Healthcare,768
+CUST-03936,Construction,731
+CUST-03937,Healthcare,743
+CUST-03938,Manufacturing,751
+CUST-03939,Manufacturing,711
+CUST-03940,Healthcare,673
+CUST-03941,Logistics & Fleet,661
+CUST-03942,IT & Enterprise Tech,688
+CUST-03943,Manufacturing,791
+CUST-03944,Healthcare,621
+CUST-03945,Manufacturing,689
+CUST-03946,Manufacturing,611
+CUST-03947,Logistics & Fleet,672
+CUST-03948,Construction,701
+CUST-03949,Manufacturing,800
+CUST-03950,Manufacturing,807
+CUST-03951,Manufacturing,593
+CUST-03952,Logistics & Fleet,611
+CUST-03953,IT & Enterprise Tech,699
+CUST-03954,Manufacturing,759
+CUST-03955,Manufacturing,605
+CUST-03956,IT & Enterprise Tech,685
+CUST-03957,IT & Enterprise Tech,777
+CUST-03958,Healthcare,785
+CUST-03959,Manufacturing,690
+CUST-03960,Manufacturing,579
+CUST-03961,Construction,778
+CUST-03962,Healthcare,650
+CUST-03963,Manufacturing,744
+CUST-03964,Construction,651
+CUST-03965,Manufacturing,716
+CUST-03966,Logistics & Fleet,730
+CUST-03967,Healthcare,793
+CUST-03968,Manufacturing,618
+CUST-03969,Construction,652
+CUST-03970,Healthcare,814
+CUST-03971,IT & Enterprise Tech,725
+CUST-03972,Construction,654
+CUST-03973,Healthcare,756
+CUST-03974,Logistics & Fleet,645
+CUST-03975,Healthcare,722
+CUST-03976,IT & Enterprise Tech,665
+CUST-03977,Healthcare,790
+CUST-03978,Construction,654
+CUST-03979,Manufacturing,550
+CUST-03980,Healthcare,680
+CUST-03981,Logistics & Fleet,666
+CUST-03982,Logistics & Fleet,694
+CUST-03983,Manufacturing,746
+CUST-03984,Manufacturing,633
+CUST-03985,Logistics & Fleet,659
+CUST-03986,IT & Enterprise Tech,709
+CUST-03987,Manufacturing,667
+CUST-03988,Construction,714
+CUST-03989,Healthcare,744
+CUST-03990,IT & Enterprise Tech,710
+CUST-03991,Manufacturing,781
+CUST-03992,Manufacturing,648
+CUST-03993,Logistics & Fleet,672
+CUST-03994,Manufacturing,807
+CUST-03995,Construction,662
+CUST-03996,Healthcare,850
+CUST-03997,Healthcare,772
+CUST-03998,Healthcare,656
+CUST-03999,Construction,748
+CUST-04000,Manufacturing,729
+CUST-04001,Construction,615
+CUST-04002,Logistics & Fleet,810
+CUST-04003,Logistics & Fleet,763
+CUST-04004,Manufacturing,805
+CUST-04005,Manufacturing,778
+CUST-04006,Healthcare,732
+CUST-04007,Healthcare,780
+CUST-04008,Healthcare,623
+CUST-04009,Logistics & Fleet,838
+CUST-04010,Manufacturing,758
+CUST-04011,Manufacturing,583
+CUST-04012,Healthcare,612
+CUST-04013,Logistics & Fleet,728
+CUST-04014,Manufacturing,652
+CUST-04015,Construction,743
+CUST-04016,Healthcare,645
+CUST-04017,IT & Enterprise Tech,627
+CUST-04018,IT & Enterprise Tech,674
+CUST-04019,Healthcare,850
+CUST-04020,Manufacturing,638
+CUST-04021,Healthcare,791
+CUST-04022,Manufacturing,660
+CUST-04023,Logistics & Fleet,704
+CUST-04024,Logistics & Fleet,718
+CUST-04025,Logistics & Fleet,705
+CUST-04026,Logistics & Fleet,713
+CUST-04027,Healthcare,731
+CUST-04028,Manufacturing,612
+CUST-04029,Logistics & Fleet,701
+CUST-04030,Healthcare,706
+CUST-04031,Logistics & Fleet,746
+CUST-04032,Healthcare,691
+CUST-04033,Manufacturing,744
+CUST-04034,IT & Enterprise Tech,667
+CUST-04035,Manufacturing,674
+CUST-04036,IT & Enterprise Tech,730
+CUST-04037,IT & Enterprise Tech,643
+CUST-04038,Logistics & Fleet,673
+CUST-04039,Logistics & Fleet,677
+CUST-04040,Construction,681
+CUST-04041,IT & Enterprise Tech,713
+CUST-04042,Healthcare,652
+CUST-04043,Construction,750
+CUST-04044,Construction,692
+CUST-04045,Healthcare,736
+CUST-04046,Healthcare,630
+CUST-04047,Healthcare,550
+CUST-04048,Construction,771
+CUST-04049,IT & Enterprise Tech,723
+CUST-04050,Manufacturing,745
+CUST-04051,IT & Enterprise Tech,795
+CUST-04052,Logistics & Fleet,648
+CUST-04053,Logistics & Fleet,592
+CUST-04054,Construction,773
+CUST-04055,Logistics & Fleet,752
+CUST-04056,Manufacturing,781
+CUST-04057,Logistics & Fleet,817
+CUST-04058,Manufacturing,633
+CUST-04059,IT & Enterprise Tech,770
+CUST-04060,IT & Enterprise Tech,693
+CUST-04061,Healthcare,772
+CUST-04062,Manufacturing,829
+CUST-04063,Logistics & Fleet,711
+CUST-04064,Healthcare,661
+CUST-04065,IT & Enterprise Tech,621
+CUST-04066,Manufacturing,563
+CUST-04067,Manufacturing,804
+CUST-04068,IT & Enterprise Tech,808
+CUST-04069,Logistics & Fleet,775
+CUST-04070,Logistics & Fleet,690
+CUST-04071,Healthcare,761
+CUST-04072,Logistics & Fleet,729
+CUST-04073,Construction,634
+CUST-04074,Construction,784
+CUST-04075,Logistics & Fleet,743
+CUST-04076,Construction,757
+CUST-04077,Healthcare,731
+CUST-04078,Healthcare,718
+CUST-04079,Logistics & Fleet,732
+CUST-04080,Manufacturing,691
+CUST-04081,Logistics & Fleet,749
+CUST-04082,Manufacturing,836
+CUST-04083,Construction,740
+CUST-04084,Logistics & Fleet,782
+CUST-04085,Manufacturing,633
+CUST-04086,Manufacturing,762
+CUST-04087,Manufacturing,743
+CUST-04088,Construction,779
+CUST-04089,Logistics & Fleet,682
+CUST-04090,Manufacturing,774
+CUST-04091,Logistics & Fleet,663
+CUST-04092,Healthcare,784
+CUST-04093,Construction,788
+CUST-04094,IT & Enterprise Tech,638
+CUST-04095,Healthcare,733
+CUST-04096,Construction,695
+CUST-04097,Manufacturing,741
+CUST-04098,Manufacturing,712
+CUST-04099,Healthcare,695
+CUST-04100,Manufacturing,672
+CUST-04101,Construction,803
+CUST-04102,Healthcare,661
+CUST-04103,Construction,674
+CUST-04104,Manufacturing,628
+CUST-04105,Healthcare,765
+CUST-04106,Logistics & Fleet,777
+CUST-04107,IT & Enterprise Tech,735
+CUST-04108,Manufacturing,659
+CUST-04109,IT & Enterprise Tech,599
+CUST-04110,Construction,746
+CUST-04111,Construction,768
+CUST-04112,Construction,676
+CUST-04113,Manufacturing,714
+CUST-04114,Manufacturing,607
+CUST-04115,Construction,658
+CUST-04116,Healthcare,735
+CUST-04117,IT & Enterprise Tech,703
+CUST-04118,Healthcare,722
+CUST-04119,Manufacturing,784
+CUST-04120,Logistics & Fleet,629
+CUST-04121,Healthcare,723
+CUST-04122,Construction,665
+CUST-04123,Logistics & Fleet,698
+CUST-04124,IT & Enterprise Tech,728
+CUST-04125,Logistics & Fleet,627
+CUST-04126,Logistics & Fleet,667
+CUST-04127,Logistics & Fleet,683
+CUST-04128,IT & Enterprise Tech,735
+CUST-04129,Healthcare,781
+CUST-04130,Manufacturing,601
+CUST-04131,Healthcare,666
+CUST-04132,Manufacturing,700
+CUST-04133,Logistics & Fleet,700
+CUST-04134,Construction,737
+CUST-04135,Construction,629
+CUST-04136,Manufacturing,696
+CUST-04137,Logistics & Fleet,683
+CUST-04138,Healthcare,756
+CUST-04139,Logistics & Fleet,714
+CUST-04140,Construction,681
+CUST-04141,Healthcare,789
+CUST-04142,Manufacturing,675
+CUST-04143,Manufacturing,658
+CUST-04144,Logistics & Fleet,748
+CUST-04145,IT & Enterprise Tech,679
+CUST-04146,Construction,714
+CUST-04147,Manufacturing,822
+CUST-04148,Healthcare,678
+CUST-04149,Logistics & Fleet,647
+CUST-04150,Logistics & Fleet,696
+CUST-04151,Manufacturing,690
+CUST-04152,Manufacturing,759
+CUST-04153,Logistics & Fleet,621
+CUST-04154,Healthcare,850
+CUST-04155,Healthcare,663
+CUST-04156,Manufacturing,744
+CUST-04157,Construction,770
+CUST-04158,IT & Enterprise Tech,722
+CUST-04159,IT & Enterprise Tech,750
+CUST-04160,Construction,714
+CUST-04161,Construction,751
+CUST-04162,Manufacturing,682
+CUST-04163,Construction,667
+CUST-04164,Healthcare,594
+CUST-04165,Construction,738
+CUST-04166,Healthcare,687
+CUST-04167,Manufacturing,734
+CUST-04168,Manufacturing,689
+CUST-04169,Healthcare,790
+CUST-04170,Manufacturing,699
+CUST-04171,Manufacturing,669
+CUST-04172,IT & Enterprise Tech,684
+CUST-04173,Healthcare,742
+CUST-04174,Construction,850
+CUST-04175,IT & Enterprise Tech,799
+CUST-04176,IT & Enterprise Tech,631
+CUST-04177,Construction,725
+CUST-04178,Logistics & Fleet,659
+CUST-04179,Healthcare,684
+CUST-04180,Healthcare,690
+CUST-04181,Healthcare,704
+CUST-04182,Logistics & Fleet,767
+CUST-04183,Logistics & Fleet,692
+CUST-04184,Healthcare,720
+CUST-04185,Manufacturing,709
+CUST-04186,Construction,664
+CUST-04187,Manufacturing,674
+CUST-04188,Construction,670
+CUST-04189,Logistics & Fleet,753
+CUST-04190,Logistics & Fleet,685
+CUST-04191,Logistics & Fleet,824
+CUST-04192,IT & Enterprise Tech,659
+CUST-04193,Construction,658
+CUST-04194,Logistics & Fleet,640
+CUST-04195,Construction,703
+CUST-04196,Manufacturing,674
+CUST-04197,Manufacturing,687
+CUST-04198,Healthcare,776
+CUST-04199,Healthcare,699
+CUST-04200,Construction,685
+CUST-04201,Logistics & Fleet,728
+CUST-04202,Manufacturing,722
+CUST-04203,Manufacturing,759
+CUST-04204,IT & Enterprise Tech,764
+CUST-04205,Manufacturing,739
+CUST-04206,Construction,770
+CUST-04207,Construction,665
+CUST-04208,Construction,702
+CUST-04209,Manufacturing,718
+CUST-04210,Manufacturing,715
+CUST-04211,Manufacturing,850
+CUST-04212,Construction,781
+CUST-04213,Construction,778
+CUST-04214,Manufacturing,691
+CUST-04215,Construction,705
+CUST-04216,Logistics & Fleet,759
+CUST-04217,Manufacturing,807
+CUST-04218,Construction,654
+CUST-04219,Logistics & Fleet,679
+CUST-04220,Healthcare,697
+CUST-04221,Healthcare,726
+CUST-04222,Construction,760
+CUST-04223,IT & Enterprise Tech,756
+CUST-04224,Logistics & Fleet,739
+CUST-04225,Construction,660
+CUST-04226,Logistics & Fleet,698
+CUST-04227,Healthcare,623
+CUST-04228,Construction,773
+CUST-04229,Construction,712
+CUST-04230,Manufacturing,634
+CUST-04231,Logistics & Fleet,850
+CUST-04232,Construction,550
+CUST-04233,Healthcare,705
+CUST-04234,IT & Enterprise Tech,795
+CUST-04235,Manufacturing,678
+CUST-04236,Healthcare,720
+CUST-04237,Manufacturing,741
+CUST-04238,Logistics & Fleet,561
+CUST-04239,Logistics & Fleet,639
+CUST-04240,Healthcare,706
+CUST-04241,Logistics & Fleet,704
+CUST-04242,Healthcare,622
+CUST-04243,Logistics & Fleet,708
+CUST-04244,Construction,744
+CUST-04245,Healthcare,793
+CUST-04246,IT & Enterprise Tech,723
+CUST-04247,Healthcare,650
+CUST-04248,Manufacturing,747
+CUST-04249,Construction,754
+CUST-04250,IT & Enterprise Tech,699
+CUST-04251,Healthcare,685
+CUST-04252,Manufacturing,680
+CUST-04253,Healthcare,750
+CUST-04254,Construction,700
+CUST-04255,Manufacturing,731
+CUST-04256,Logistics & Fleet,661
+CUST-04257,IT & Enterprise Tech,714
+CUST-04258,Construction,638
+CUST-04259,Healthcare,672
+CUST-04260,Healthcare,713
+CUST-04261,Manufacturing,661
+CUST-04262,IT & Enterprise Tech,684
+CUST-04263,Healthcare,759
+CUST-04264,Healthcare,690
+CUST-04265,Logistics & Fleet,686
+CUST-04266,Healthcare,652
+CUST-04267,Construction,676
+CUST-04268,Manufacturing,709
+CUST-04269,Logistics & Fleet,751
+CUST-04270,IT & Enterprise Tech,610
+CUST-04271,Construction,762
+CUST-04272,IT & Enterprise Tech,685
+CUST-04273,Manufacturing,703
+CUST-04274,Construction,755
+CUST-04275,Construction,850
+CUST-04276,Construction,745
+CUST-04277,Healthcare,678
+CUST-04278,Healthcare,722
+CUST-04279,Manufacturing,737
+CUST-04280,Healthcare,618
+CUST-04281,Manufacturing,639
+CUST-04282,Logistics & Fleet,736
+CUST-04283,Manufacturing,744
+CUST-04284,Manufacturing,734
+CUST-04285,Construction,752
+CUST-04286,Construction,685
+CUST-04287,IT & Enterprise Tech,780
+CUST-04288,Construction,828
+CUST-04289,Healthcare,668
+CUST-04290,Logistics & Fleet,628
+CUST-04291,Construction,705
+CUST-04292,Manufacturing,767
+CUST-04293,Construction,752
+CUST-04294,IT & Enterprise Tech,719
+CUST-04295,Healthcare,559
+CUST-04296,Healthcare,664
+CUST-04297,Manufacturing,781
+CUST-04298,Manufacturing,596
+CUST-04299,Healthcare,711
+CUST-04300,Construction,672
+CUST-04301,Manufacturing,752
+CUST-04302,IT & Enterprise Tech,601
+CUST-04303,Logistics & Fleet,690
+CUST-04304,Construction,720
+CUST-04305,Logistics & Fleet,687
+CUST-04306,Manufacturing,749
+CUST-04307,Construction,609
+CUST-04308,Construction,637
+CUST-04309,Logistics & Fleet,688
+CUST-04310,Logistics & Fleet,731
+CUST-04311,Healthcare,743
+CUST-04312,IT & Enterprise Tech,721
+CUST-04313,Manufacturing,650
+CUST-04314,IT & Enterprise Tech,671
+CUST-04315,IT & Enterprise Tech,781
+CUST-04316,Manufacturing,841
+CUST-04317,Logistics & Fleet,749
+CUST-04318,Manufacturing,732
+CUST-04319,Healthcare,635
+CUST-04320,Construction,722
+CUST-04321,Construction,600
+CUST-04322,IT & Enterprise Tech,795
+CUST-04323,Logistics & Fleet,746
+CUST-04324,Construction,706
+CUST-04325,Logistics & Fleet,634
+CUST-04326,IT & Enterprise Tech,721
+CUST-04327,Manufacturing,612
+CUST-04328,IT & Enterprise Tech,689
+CUST-04329,Manufacturing,736
+CUST-04330,Logistics & Fleet,663
+CUST-04331,Healthcare,707
+CUST-04332,Manufacturing,850
+CUST-04333,Healthcare,593
+CUST-04334,Construction,659
+CUST-04335,Healthcare,693
+CUST-04336,Manufacturing,675
+CUST-04337,Construction,739
+CUST-04338,IT & Enterprise Tech,745
+CUST-04339,Healthcare,712
+CUST-04340,Manufacturing,718
+CUST-04341,Healthcare,593
+CUST-04342,Manufacturing,740
+CUST-04343,Logistics & Fleet,722
+CUST-04344,Logistics & Fleet,664
+CUST-04345,Construction,815
+CUST-04346,Healthcare,705
+CUST-04347,Logistics & Fleet,724
+CUST-04348,Construction,707
+CUST-04349,Logistics & Fleet,602
+CUST-04350,Construction,644
+CUST-04351,Logistics & Fleet,692
+CUST-04352,Construction,773
+CUST-04353,Healthcare,680
+CUST-04354,IT & Enterprise Tech,723
+CUST-04355,Construction,739
+CUST-04356,Construction,658
+CUST-04357,Manufacturing,649
+CUST-04358,Construction,665
+CUST-04359,Construction,661
+CUST-04360,Manufacturing,639
+CUST-04361,Manufacturing,766
+CUST-04362,Construction,748
+CUST-04363,Logistics & Fleet,639
+CUST-04364,Construction,720
+CUST-04365,Manufacturing,689
+CUST-04366,Logistics & Fleet,702
+CUST-04367,Manufacturing,712
+CUST-04368,Healthcare,613
+CUST-04369,Manufacturing,580
+CUST-04370,Manufacturing,711
+CUST-04371,Manufacturing,684
+CUST-04372,Healthcare,695
+CUST-04373,Manufacturing,667
+CUST-04374,Healthcare,709
+CUST-04375,Construction,600
+CUST-04376,Construction,711
+CUST-04377,Healthcare,550
+CUST-04378,Logistics & Fleet,661
+CUST-04379,Manufacturing,678
+CUST-04380,Construction,590
+CUST-04381,Manufacturing,792
+CUST-04382,Manufacturing,703
+CUST-04383,Construction,660
+CUST-04384,Construction,832
+CUST-04385,IT & Enterprise Tech,724
+CUST-04386,Construction,732
+CUST-04387,IT & Enterprise Tech,694
+CUST-04388,Manufacturing,673
+CUST-04389,Manufacturing,722
+CUST-04390,Manufacturing,550
+CUST-04391,Manufacturing,587
+CUST-04392,Construction,610
+CUST-04393,Construction,553
+CUST-04394,Manufacturing,738
+CUST-04395,IT & Enterprise Tech,658
+CUST-04396,Logistics & Fleet,783
+CUST-04397,Healthcare,691
+CUST-04398,Manufacturing,647
+CUST-04399,Manufacturing,694
+CUST-04400,Manufacturing,771
+CUST-04401,Manufacturing,682
+CUST-04402,Construction,780
+CUST-04403,Manufacturing,770
+CUST-04404,Healthcare,661
+CUST-04405,IT & Enterprise Tech,667
+CUST-04406,Logistics & Fleet,663
+CUST-04407,IT & Enterprise Tech,620
+CUST-04408,Manufacturing,602
+CUST-04409,Healthcare,666
+CUST-04410,Construction,550
+CUST-04411,Manufacturing,625
+CUST-04412,Manufacturing,729
+CUST-04413,Logistics & Fleet,607
+CUST-04414,Construction,781
+CUST-04415,Healthcare,736
+CUST-04416,Construction,817
+CUST-04417,Healthcare,831
+CUST-04418,Manufacturing,745
+CUST-04419,Healthcare,658
+CUST-04420,Manufacturing,589
+CUST-04421,Manufacturing,601
+CUST-04422,IT & Enterprise Tech,824
+CUST-04423,Construction,600
+CUST-04424,Logistics & Fleet,683
+CUST-04425,Healthcare,775
+CUST-04426,Healthcare,640
+CUST-04427,Manufacturing,782
+CUST-04428,Manufacturing,692
+CUST-04429,Manufacturing,711
+CUST-04430,Logistics & Fleet,678
+CUST-04431,Logistics & Fleet,637
+CUST-04432,Construction,742
+CUST-04433,Construction,734
+CUST-04434,IT & Enterprise Tech,745
+CUST-04435,Manufacturing,763
+CUST-04436,Healthcare,669
+CUST-04437,Healthcare,734
+CUST-04438,Logistics & Fleet,756
+CUST-04439,IT & Enterprise Tech,724
+CUST-04440,Manufacturing,670
+CUST-04441,IT & Enterprise Tech,720
+CUST-04442,Logistics & Fleet,567
+CUST-04443,Manufacturing,722
+CUST-04444,Healthcare,625
+CUST-04445,Healthcare,698
+CUST-04446,IT & Enterprise Tech,670
+CUST-04447,Manufacturing,700
+CUST-04448,Logistics & Fleet,596
+CUST-04449,Healthcare,743
+CUST-04450,Logistics & Fleet,756
+CUST-04451,Healthcare,634
+CUST-04452,Construction,609
+CUST-04453,Logistics & Fleet,638
+CUST-04454,Logistics & Fleet,746
+CUST-04455,IT & Enterprise Tech,693
+CUST-04456,Manufacturing,684
+CUST-04457,Logistics & Fleet,688
+CUST-04458,Manufacturing,654
+CUST-04459,Healthcare,719
+CUST-04460,Construction,796
+CUST-04461,Healthcare,639
+CUST-04462,Construction,738
+CUST-04463,IT & Enterprise Tech,694
+CUST-04464,Manufacturing,693
+CUST-04465,Logistics & Fleet,787
+CUST-04466,Healthcare,762
+CUST-04467,Manufacturing,698
+CUST-04468,Manufacturing,758
+CUST-04469,IT & Enterprise Tech,586
+CUST-04470,IT & Enterprise Tech,555
+CUST-04471,IT & Enterprise Tech,652
+CUST-04472,IT & Enterprise Tech,632
+CUST-04473,Manufacturing,682
+CUST-04474,Healthcare,771
+CUST-04475,Logistics & Fleet,684
+CUST-04476,Construction,758
+CUST-04477,Healthcare,757
+CUST-04478,Healthcare,584
+CUST-04479,Construction,744
+CUST-04480,Construction,774
+CUST-04481,Manufacturing,779
+CUST-04482,Construction,692
+CUST-04483,Construction,705
+CUST-04484,Construction,709
+CUST-04485,Manufacturing,695
+CUST-04486,Logistics & Fleet,633
+CUST-04487,Manufacturing,648
+CUST-04488,Healthcare,740
+CUST-04489,Logistics & Fleet,691
+CUST-04490,Construction,708
+CUST-04491,Healthcare,772
+CUST-04492,Logistics & Fleet,706
+CUST-04493,Construction,627
+CUST-04494,Logistics & Fleet,844
+CUST-04495,Logistics & Fleet,682
+CUST-04496,Construction,678
+CUST-04497,Construction,720
+CUST-04498,Manufacturing,692
+CUST-04499,Healthcare,697
+CUST-04500,Healthcare,664
+CUST-04501,Construction,764
+CUST-04502,Construction,774
+CUST-04503,Healthcare,819
+CUST-04504,Manufacturing,829
+CUST-04505,Construction,573
+CUST-04506,Healthcare,741
+CUST-04507,Logistics & Fleet,624
+CUST-04508,Manufacturing,785
+CUST-04509,Construction,722
+CUST-04510,IT & Enterprise Tech,654
+CUST-04511,Manufacturing,627
+CUST-04512,Construction,659
+CUST-04513,Manufacturing,649
+CUST-04514,Construction,788
+CUST-04515,Construction,706
+CUST-04516,Healthcare,636
+CUST-04517,Construction,729
+CUST-04518,IT & Enterprise Tech,728
+CUST-04519,Manufacturing,693
+CUST-04520,Manufacturing,783
+CUST-04521,IT & Enterprise Tech,740
+CUST-04522,Construction,735
+CUST-04523,IT & Enterprise Tech,583
+CUST-04524,Construction,681
+CUST-04525,Logistics & Fleet,746
+CUST-04526,Healthcare,728
+CUST-04527,Logistics & Fleet,709
+CUST-04528,IT & Enterprise Tech,749
+CUST-04529,Construction,733
+CUST-04530,Manufacturing,757
+CUST-04531,Healthcare,730
+CUST-04532,Manufacturing,754
+CUST-04533,Manufacturing,750
+CUST-04534,Healthcare,704
+CUST-04535,Construction,707
+CUST-04536,Construction,715
+CUST-04537,Healthcare,629
+CUST-04538,Construction,609
+CUST-04539,Manufacturing,742
+CUST-04540,Manufacturing,746
+CUST-04541,Manufacturing,708
+CUST-04542,Construction,733
+CUST-04543,Manufacturing,752
+CUST-04544,Healthcare,738
+CUST-04545,Healthcare,746
+CUST-04546,Logistics & Fleet,625
+CUST-04547,Manufacturing,816
+CUST-04548,Construction,731
+CUST-04549,Logistics & Fleet,770
+CUST-04550,Logistics & Fleet,747
+CUST-04551,IT & Enterprise Tech,642
+CUST-04552,Manufacturing,665
+CUST-04553,Manufacturing,675
+CUST-04554,IT & Enterprise Tech,784
+CUST-04555,Construction,647
+CUST-04556,Construction,628
+CUST-04557,Logistics & Fleet,737
+CUST-04558,Logistics & Fleet,823
+CUST-04559,IT & Enterprise Tech,655
+CUST-04560,IT & Enterprise Tech,803
+CUST-04561,Logistics & Fleet,758
+CUST-04562,Healthcare,682
+CUST-04563,IT & Enterprise Tech,624
+CUST-04564,Manufacturing,688
+CUST-04565,Manufacturing,658
+CUST-04566,IT & Enterprise Tech,788
+CUST-04567,Healthcare,707
+CUST-04568,Manufacturing,741
+CUST-04569,Manufacturing,741
+CUST-04570,IT & Enterprise Tech,668
+CUST-04571,Construction,714
+CUST-04572,Logistics & Fleet,775
+CUST-04573,Manufacturing,705
+CUST-04574,Logistics & Fleet,692
+CUST-04575,Logistics & Fleet,754
+CUST-04576,Healthcare,625
+CUST-04577,Healthcare,566
+CUST-04578,Manufacturing,728
+CUST-04579,IT & Enterprise Tech,776
+CUST-04580,Construction,827
+CUST-04581,IT & Enterprise Tech,722
+CUST-04582,Healthcare,763
+CUST-04583,Logistics & Fleet,795
+CUST-04584,Logistics & Fleet,712
+CUST-04585,Logistics & Fleet,668
+CUST-04586,IT & Enterprise Tech,661
+CUST-04587,Healthcare,690
+CUST-04588,Manufacturing,804
+CUST-04589,Logistics & Fleet,770
+CUST-04590,Logistics & Fleet,695
+CUST-04591,Construction,790
+CUST-04592,Manufacturing,739
+CUST-04593,Construction,695
+CUST-04594,Healthcare,721
+CUST-04595,Healthcare,736
+CUST-04596,Construction,718
+CUST-04597,Logistics & Fleet,823
+CUST-04598,Manufacturing,700
+CUST-04599,Healthcare,620
+CUST-04600,Healthcare,730
+CUST-04601,Manufacturing,691
+CUST-04602,Logistics & Fleet,622
+CUST-04603,IT & Enterprise Tech,753
+CUST-04604,Healthcare,550
+CUST-04605,Logistics & Fleet,728
+CUST-04606,IT & Enterprise Tech,555
+CUST-04607,Logistics & Fleet,710
+CUST-04608,Manufacturing,745
+CUST-04609,IT & Enterprise Tech,757
+CUST-04610,Healthcare,762
+CUST-04611,Healthcare,641
+CUST-04612,Manufacturing,722
+CUST-04613,Construction,664
+CUST-04614,Manufacturing,660
+CUST-04615,Manufacturing,702
+CUST-04616,Healthcare,682
+CUST-04617,Logistics & Fleet,642
+CUST-04618,IT & Enterprise Tech,730
+CUST-04619,Healthcare,745
+CUST-04620,IT & Enterprise Tech,654
+CUST-04621,IT & Enterprise Tech,698
+CUST-04622,Logistics & Fleet,699
+CUST-04623,Manufacturing,700
+CUST-04624,Logistics & Fleet,706
+CUST-04625,IT & Enterprise Tech,728
+CUST-04626,Logistics & Fleet,785
+CUST-04627,Healthcare,718
+CUST-04628,Construction,676
+CUST-04629,Construction,709
+CUST-04630,Construction,640
+CUST-04631,Manufacturing,651
+CUST-04632,Healthcare,738
+CUST-04633,Logistics & Fleet,550
+CUST-04634,IT & Enterprise Tech,695
+CUST-04635,Manufacturing,770
+CUST-04636,IT & Enterprise Tech,736
+CUST-04637,Healthcare,765
+CUST-04638,Logistics & Fleet,731
+CUST-04639,Logistics & Fleet,839
+CUST-04640,Logistics & Fleet,629
+CUST-04641,IT & Enterprise Tech,717
+CUST-04642,Healthcare,757
+CUST-04643,IT & Enterprise Tech,682
+CUST-04644,Manufacturing,786
+CUST-04645,Logistics & Fleet,749
+CUST-04646,Logistics & Fleet,613
+CUST-04647,Logistics & Fleet,733
+CUST-04648,Healthcare,749
+CUST-04649,IT & Enterprise Tech,816
+CUST-04650,Manufacturing,698
+CUST-04651,Manufacturing,746
+CUST-04652,Logistics & Fleet,726
+CUST-04653,Construction,673
+CUST-04654,Logistics & Fleet,687
+CUST-04655,Healthcare,567
+CUST-04656,Manufacturing,679
+CUST-04657,Logistics & Fleet,812
+CUST-04658,Construction,698
+CUST-04659,Manufacturing,764
+CUST-04660,Logistics & Fleet,724
+CUST-04661,Construction,737
+CUST-04662,Construction,839
+CUST-04663,Construction,683
+CUST-04664,Logistics & Fleet,682
+CUST-04665,Logistics & Fleet,780
+CUST-04666,Logistics & Fleet,704
+CUST-04667,Manufacturing,692
+CUST-04668,Logistics & Fleet,771
+CUST-04669,Logistics & Fleet,726
+CUST-04670,Logistics & Fleet,700
+CUST-04671,Healthcare,687
+CUST-04672,IT & Enterprise Tech,655
+CUST-04673,Logistics & Fleet,609
+CUST-04674,Manufacturing,782
+CUST-04675,Healthcare,682
+CUST-04676,IT & Enterprise Tech,599
+CUST-04677,Manufacturing,825
+CUST-04678,IT & Enterprise Tech,715
+CUST-04679,Logistics & Fleet,711
+CUST-04680,Construction,606
+CUST-04681,Healthcare,747
+CUST-04682,Manufacturing,675
+CUST-04683,IT & Enterprise Tech,675
+CUST-04684,Healthcare,736
+CUST-04685,Logistics & Fleet,717
+CUST-04686,Healthcare,646
+CUST-04687,Manufacturing,617
+CUST-04688,Manufacturing,720
+CUST-04689,Construction,715
+CUST-04690,IT & Enterprise Tech,850
+CUST-04691,Healthcare,563
+CUST-04692,Healthcare,719
+CUST-04693,Healthcare,604
+CUST-04694,Construction,683
+CUST-04695,Healthcare,682
+CUST-04696,IT & Enterprise Tech,745
+CUST-04697,Construction,747
+CUST-04698,Construction,798
+CUST-04699,Manufacturing,726
+CUST-04700,IT & Enterprise Tech,774
+CUST-04701,Manufacturing,799
+CUST-04702,Manufacturing,726
+CUST-04703,Logistics & Fleet,786
+CUST-04704,Construction,723
+CUST-04705,Healthcare,709
+CUST-04706,Healthcare,668
+CUST-04707,Logistics & Fleet,734
+CUST-04708,Manufacturing,732
+CUST-04709,Logistics & Fleet,733
+CUST-04710,Construction,784
+CUST-04711,Healthcare,768
+CUST-04712,Construction,614
+CUST-04713,Healthcare,615
+CUST-04714,Logistics & Fleet,718
+CUST-04715,Construction,646
+CUST-04716,Healthcare,703
+CUST-04717,Construction,650
+CUST-04718,IT & Enterprise Tech,716
+CUST-04719,Healthcare,643
+CUST-04720,IT & Enterprise Tech,736
+CUST-04721,Healthcare,640
+CUST-04722,Manufacturing,718
+CUST-04723,Manufacturing,600
+CUST-04724,Healthcare,636
+CUST-04725,Manufacturing,755
+CUST-04726,Manufacturing,793
+CUST-04727,IT & Enterprise Tech,769
+CUST-04728,Logistics & Fleet,759
+CUST-04729,Logistics & Fleet,806
+CUST-04730,Manufacturing,772
+CUST-04731,Manufacturing,610
+CUST-04732,Manufacturing,771
+CUST-04733,Logistics & Fleet,770
+CUST-04734,IT & Enterprise Tech,588
+CUST-04735,Healthcare,666
+CUST-04736,Manufacturing,812
+CUST-04737,Construction,701
+CUST-04738,Healthcare,635
+CUST-04739,Healthcare,766
+CUST-04740,Construction,692
+CUST-04741,Logistics & Fleet,684
+CUST-04742,Manufacturing,766
+CUST-04743,Manufacturing,736
+CUST-04744,IT & Enterprise Tech,702
+CUST-04745,Manufacturing,731
+CUST-04746,Manufacturing,698
+CUST-04747,Manufacturing,769
+CUST-04748,Manufacturing,617
+CUST-04749,Healthcare,697
+CUST-04750,Logistics & Fleet,683
+CUST-04751,Healthcare,729
+CUST-04752,Healthcare,636
+CUST-04753,Logistics & Fleet,807
+CUST-04754,Construction,661
+CUST-04755,IT & Enterprise Tech,778
+CUST-04756,IT & Enterprise Tech,749
+CUST-04757,Manufacturing,723
+CUST-04758,Logistics & Fleet,726
+CUST-04759,Construction,589
+CUST-04760,IT & Enterprise Tech,677
+CUST-04761,Construction,850
+CUST-04762,IT & Enterprise Tech,723
+CUST-04763,Logistics & Fleet,736
+CUST-04764,Manufacturing,585
+CUST-04765,Construction,694
+CUST-04766,IT & Enterprise Tech,686
+CUST-04767,IT & Enterprise Tech,661
+CUST-04768,Manufacturing,747
+CUST-04769,Logistics & Fleet,682
+CUST-04770,Healthcare,662
+CUST-04771,Manufacturing,614
+CUST-04772,Healthcare,638
+CUST-04773,Manufacturing,646
+CUST-04774,Logistics & Fleet,687
+CUST-04775,Healthcare,677
+CUST-04776,Logistics & Fleet,669
+CUST-04777,Manufacturing,600
+CUST-04778,Healthcare,644
+CUST-04779,Manufacturing,718
+CUST-04780,Manufacturing,804
+CUST-04781,Manufacturing,814
+CUST-04782,Manufacturing,839
+CUST-04783,Construction,727
+CUST-04784,Healthcare,706
+CUST-04785,Healthcare,751
+CUST-04786,Healthcare,686
+CUST-04787,IT & Enterprise Tech,762
+CUST-04788,IT & Enterprise Tech,699
+CUST-04789,Construction,727
+CUST-04790,Healthcare,662
+CUST-04791,Manufacturing,772
+CUST-04792,IT & Enterprise Tech,645
+CUST-04793,Manufacturing,668
+CUST-04794,Healthcare,688
+CUST-04795,Healthcare,655
+CUST-04796,Healthcare,746
+CUST-04797,Manufacturing,718
+CUST-04798,Logistics & Fleet,646
+CUST-04799,Manufacturing,676
+CUST-04800,Construction,719
+CUST-04801,Manufacturing,723
+CUST-04802,Manufacturing,647
+CUST-04803,IT & Enterprise Tech,711
+CUST-04804,Manufacturing,750
+CUST-04805,Logistics & Fleet,690
+CUST-04806,Construction,643
+CUST-04807,Manufacturing,796
+CUST-04808,IT & Enterprise Tech,750
+CUST-04809,Manufacturing,683
+CUST-04810,IT & Enterprise Tech,716
+CUST-04811,Manufacturing,686
+CUST-04812,IT & Enterprise Tech,645
+CUST-04813,Manufacturing,754
+CUST-04814,Construction,818
+CUST-04815,Logistics & Fleet,768
+CUST-04816,IT & Enterprise Tech,725
+CUST-04817,IT & Enterprise Tech,689
+CUST-04818,Logistics & Fleet,550
+CUST-04819,IT & Enterprise Tech,812
+CUST-04820,Manufacturing,666
+CUST-04821,Healthcare,764
+CUST-04822,Healthcare,771
+CUST-04823,Healthcare,769
+CUST-04824,Healthcare,619
+CUST-04825,Construction,773
+CUST-04826,Manufacturing,679
+CUST-04827,Logistics & Fleet,704
+CUST-04828,Manufacturing,702
+CUST-04829,Healthcare,669
+CUST-04830,Construction,690
+CUST-04831,Logistics & Fleet,719
+CUST-04832,Logistics & Fleet,648
+CUST-04833,Construction,603
+CUST-04834,Manufacturing,768
+CUST-04835,Construction,728
+CUST-04836,Manufacturing,588
+CUST-04837,Healthcare,736
+CUST-04838,Healthcare,698
+CUST-04839,Manufacturing,625
+CUST-04840,Healthcare,674
+CUST-04841,IT & Enterprise Tech,734
+CUST-04842,IT & Enterprise Tech,645
+CUST-04843,Healthcare,643
+CUST-04844,Manufacturing,673
+CUST-04845,Manufacturing,648
+CUST-04846,Healthcare,638
+CUST-04847,IT & Enterprise Tech,637
+CUST-04848,Manufacturing,738
+CUST-04849,Logistics & Fleet,651
+CUST-04850,Manufacturing,780
+CUST-04851,IT & Enterprise Tech,850
+CUST-04852,Healthcare,699
+CUST-04853,Logistics & Fleet,841
+CUST-04854,Healthcare,745
+CUST-04855,Construction,720
+CUST-04856,Manufacturing,705
+CUST-04857,Manufacturing,582
+CUST-04858,IT & Enterprise Tech,680
+CUST-04859,IT & Enterprise Tech,636
+CUST-04860,IT & Enterprise Tech,766
+CUST-04861,Construction,821
+CUST-04862,Logistics & Fleet,723
+CUST-04863,Manufacturing,726
+CUST-04864,Healthcare,772
+CUST-04865,Healthcare,717
+CUST-04866,Construction,788
+CUST-04867,Healthcare,850
+CUST-04868,Manufacturing,803
+CUST-04869,Construction,669
+CUST-04870,Logistics & Fleet,764
+CUST-04871,Healthcare,666
+CUST-04872,Manufacturing,695
+CUST-04873,Manufacturing,816
+CUST-04874,Manufacturing,645
+CUST-04875,Healthcare,684
+CUST-04876,Construction,784
+CUST-04877,Construction,654
+CUST-04878,Logistics & Fleet,585
+CUST-04879,Healthcare,613
+CUST-04880,Logistics & Fleet,670
+CUST-04881,Manufacturing,707
+CUST-04882,Construction,690
+CUST-04883,Logistics & Fleet,676
+CUST-04884,Manufacturing,714
+CUST-04885,Manufacturing,677
+CUST-04886,IT & Enterprise Tech,664
+CUST-04887,Healthcare,724
+CUST-04888,Logistics & Fleet,717
+CUST-04889,Manufacturing,776
+CUST-04890,Logistics & Fleet,841
+CUST-04891,Healthcare,572
+CUST-04892,Manufacturing,743
+CUST-04893,Construction,720
+CUST-04894,Manufacturing,793
+CUST-04895,Healthcare,677
+CUST-04896,Manufacturing,685
+CUST-04897,Manufacturing,626
+CUST-04898,Healthcare,776
+CUST-04899,Manufacturing,718
+CUST-04900,IT & Enterprise Tech,783
+CUST-04901,Manufacturing,681
+CUST-04902,Construction,666
+CUST-04903,Manufacturing,757
+CUST-04904,Healthcare,687
+CUST-04905,IT & Enterprise Tech,751
+CUST-04906,Manufacturing,743
+CUST-04907,IT & Enterprise Tech,716
+CUST-04908,Manufacturing,670
+CUST-04909,Logistics & Fleet,733
+CUST-04910,Construction,660
+CUST-04911,IT & Enterprise Tech,716
+CUST-04912,Construction,819
+CUST-04913,Construction,790
+CUST-04914,Manufacturing,676
+CUST-04915,Manufacturing,727
+CUST-04916,IT & Enterprise Tech,675
+CUST-04917,Healthcare,728
+CUST-04918,Healthcare,650
+CUST-04919,Logistics & Fleet,667
+CUST-04920,Healthcare,831
+CUST-04921,IT & Enterprise Tech,718
+CUST-04922,Logistics & Fleet,680
+CUST-04923,Construction,571
+CUST-04924,IT & Enterprise Tech,720
+CUST-04925,Manufacturing,850
+CUST-04926,Healthcare,672
+CUST-04927,Construction,685
+CUST-04928,Manufacturing,713
+CUST-04929,Logistics & Fleet,668
+CUST-04930,IT & Enterprise Tech,850
+CUST-04931,Healthcare,773
+CUST-04932,Healthcare,755
+CUST-04933,IT & Enterprise Tech,847
+CUST-04934,Healthcare,820
+CUST-04935,Construction,715
+CUST-04936,Healthcare,691
+CUST-04937,IT & Enterprise Tech,691
+CUST-04938,Construction,674
+CUST-04939,Logistics & Fleet,695
+CUST-04940,Logistics & Fleet,676
+CUST-04941,Healthcare,636
+CUST-04942,Healthcare,552
+CUST-04943,Logistics & Fleet,777
+CUST-04944,Healthcare,550
+CUST-04945,Logistics & Fleet,733
+CUST-04946,IT & Enterprise Tech,772
+CUST-04947,Construction,738
+CUST-04948,Logistics & Fleet,700
+CUST-04949,Logistics & Fleet,724
+CUST-04950,Logistics & Fleet,681
+CUST-04951,Healthcare,703
+CUST-04952,Manufacturing,689
+CUST-04953,Healthcare,665
+CUST-04954,Logistics & Fleet,787
+CUST-04955,Construction,766
+CUST-04956,Logistics & Fleet,700
+CUST-04957,Healthcare,713
+CUST-04958,Construction,661
+CUST-04959,Manufacturing,733
+CUST-04960,Logistics & Fleet,703
+CUST-04961,Construction,688
+CUST-04962,Manufacturing,726
+CUST-04963,Healthcare,715
+CUST-04964,Logistics & Fleet,654
+CUST-04965,Construction,768
+CUST-04966,Manufacturing,774
+CUST-04967,IT & Enterprise Tech,665
+CUST-04968,Logistics & Fleet,850
+CUST-04969,IT & Enterprise Tech,648
+CUST-04970,Healthcare,750
+CUST-04971,Construction,746
+CUST-04972,IT & Enterprise Tech,756
+CUST-04973,Construction,821
+CUST-04974,Logistics & Fleet,692
+CUST-04975,Healthcare,712
+CUST-04976,Healthcare,737
+CUST-04977,Manufacturing,600
+CUST-04978,Manufacturing,718
+CUST-04979,Manufacturing,736
+CUST-04980,Manufacturing,663
+CUST-04981,IT & Enterprise Tech,850
+CUST-04982,Manufacturing,727
+CUST-04983,Logistics & Fleet,662
+CUST-04984,Logistics & Fleet,672
+CUST-04985,Construction,658
+CUST-04986,Manufacturing,660
+CUST-04987,Logistics & Fleet,731
+CUST-04988,Construction,737
+CUST-04989,Logistics & Fleet,739
+CUST-04990,Logistics & Fleet,754
+CUST-04991,IT & Enterprise Tech,737
+CUST-04992,Construction,850
+CUST-04993,Healthcare,768
+CUST-04994,Construction,642
+CUST-04995,Manufacturing,712
+CUST-04996,IT & Enterprise Tech,636
+CUST-04997,Manufacturing,711
+CUST-04998,Healthcare,618
+CUST-04999,Logistics & Fleet,694
+CUST-05000,Construction,702

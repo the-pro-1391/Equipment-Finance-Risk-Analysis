@@ -1,0 +1,16 @@
+Equipment_ID,Equipment_Category
+EQ-001,Surgical Robot
+EQ-002,Automated Storage Array
+EQ-003,Forklift Fleet
+EQ-004,Tower Crane
+EQ-005,Injection Molding Press
+EQ-006,CNC Milling Unit
+EQ-007,Enterprise Server Rack
+EQ-008,Bulldozer
+EQ-009,Industrial Robotic Arm
+EQ-010,Hydraulic Excavator
+EQ-011,MRI Scanner
+EQ-012,Digital X-Ray System
+EQ-013,Electric Delivery Van
+EQ-014,Heavy Duty Hauler
+EQ-015,Edge AI Compute Cluster
